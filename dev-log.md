@@ -10,3 +10,4 @@
 [2022-01-01 09:07] Cleaned config module
 [2022-01-01 11:39] Updated logger imports
 [2022-01-01 11:53] Cleaned config imports
+[2022-01-01 11:39] Fixed auth imports
