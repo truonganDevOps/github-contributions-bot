@@ -15,3 +15,4 @@
 [2022-01-02 09:21] Fixed config service
 [2022-01-02 10:57] Optimized middleware imports
 [2022-01-02 12:42] Added api service
+[2022-01-02 13:04] Updated middleware handler
