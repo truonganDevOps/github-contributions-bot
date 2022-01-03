@@ -18,3 +18,4 @@
 [2022-01-02 13:04] Updated middleware handler
 [2022-01-02 14:25] Updated user endpoint
 [2022-01-03 09:25] Reviewed scheduler tests
+[2022-01-03 10:19] Fixed api logic
