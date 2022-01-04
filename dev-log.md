@@ -21,3 +21,4 @@
 [2022-01-03 10:19] Fixed api logic
 [2022-01-03 11:02] Cleaned config handler
 [2022-01-03 11:13] Cleaned config service
+[2022-01-04 09:26] Cleaned config endpoint
