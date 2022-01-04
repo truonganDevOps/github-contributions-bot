@@ -22,3 +22,4 @@
 [2022-01-03 11:02] Cleaned config handler
 [2022-01-03 11:13] Cleaned config service
 [2022-01-04 09:26] Cleaned config endpoint
+[2022-01-04 11:30] Reviewed logger logic
