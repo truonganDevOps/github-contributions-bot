@@ -27,3 +27,4 @@
 [2022-01-04 12:30] Improved database query
 [2022-01-04 12:16] Cleaned scheduler service
 [2022-01-05 09:42] Optimized middleware endpoint
+[2022-01-05 11:31] Reviewed scheduler endpoint
