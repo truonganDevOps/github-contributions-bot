@@ -34,3 +34,4 @@
 [2022-01-06 09:10] Cleaned config logic
 [2022-01-06 11:14] Fixed middleware service
 [2022-01-06 13:26] Reviewed logger tests
+[2022-01-06 13:21] Fixed logger module
