@@ -32,3 +32,4 @@
 [2022-01-05 12:33] Added user module
 [2022-01-05 13:53] Optimized logger service
 [2022-01-06 09:10] Cleaned config logic
+[2022-01-06 11:14] Fixed middleware service
