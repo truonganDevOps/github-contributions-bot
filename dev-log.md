@@ -36,3 +36,4 @@
 [2022-01-06 13:26] Reviewed logger tests
 [2022-01-06 13:21] Fixed logger module
 [2022-01-06 13:07] Reviewed database imports
+[2022-01-07 09:35] Improved database module
