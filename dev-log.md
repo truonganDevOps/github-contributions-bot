@@ -42,3 +42,4 @@
 [2022-01-07 10:27] Fixed config tests
 [2022-01-08 09:37] Reviewed auth logic
 [2022-01-08 10:14] Fixed logger module
+[2022-01-08 12:21] Optimized database service
