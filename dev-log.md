@@ -40,3 +40,4 @@
 [2022-01-07 09:19] Refactored auth imports
 [2022-01-07 09:59] Updated database tests
 [2022-01-07 10:27] Fixed config tests
+[2022-01-08 09:37] Reviewed auth logic
