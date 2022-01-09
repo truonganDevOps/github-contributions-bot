@@ -47,3 +47,4 @@
 [2022-01-08 15:10] Improved user query
 [2022-01-09 09:01] Refactored scheduler imports
 [2022-01-09 11:09] Improved cache module
+[2022-01-09 11:14] Optimized config logic
