@@ -48,3 +48,4 @@
 [2022-01-09 09:01] Refactored scheduler imports
 [2022-01-09 11:09] Improved cache module
 [2022-01-09 11:14] Optimized config logic
+[2022-01-10 09:16] Cleaned config query
