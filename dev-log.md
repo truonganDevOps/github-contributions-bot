@@ -51,3 +51,4 @@
 [2022-01-10 09:16] Cleaned config query
 [2022-01-10 10:06] Fixed database handler
 [2022-01-10 11:19] Improved middleware imports
+[2022-01-10 13:09] Optimized scheduler imports
