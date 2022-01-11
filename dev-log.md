@@ -53,3 +53,4 @@
 [2022-01-10 11:19] Improved middleware imports
 [2022-01-10 13:09] Optimized scheduler imports
 [2022-01-10 15:28] Fixed user service
+[2022-01-11 09:33] Refactored scheduler query
