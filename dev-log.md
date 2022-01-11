@@ -55,3 +55,4 @@
 [2022-01-10 15:28] Fixed user service
 [2022-01-11 09:33] Refactored scheduler query
 [2022-01-11 10:51] Cleaned database tests
+[2022-01-11 10:29] Refactored middleware module
