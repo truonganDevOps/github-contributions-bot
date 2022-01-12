@@ -58,3 +58,4 @@
 [2022-01-11 10:29] Refactored middleware module
 [2022-01-11 12:25] Refactored config module
 [2022-01-12 09:41] Optimized config logic
+[2022-01-12 09:52] Updated scheduler module
