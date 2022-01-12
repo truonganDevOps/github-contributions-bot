@@ -60,3 +60,4 @@
 [2022-01-12 09:41] Optimized config logic
 [2022-01-12 09:52] Updated scheduler module
 [2022-01-12 11:05] Updated user handler
+[2022-01-12 12:06] Updated auth endpoint
