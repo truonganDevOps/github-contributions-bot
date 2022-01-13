@@ -65,3 +65,4 @@
 [2022-01-13 09:40] Updated config endpoint
 [2022-01-13 11:00] Fixed user handler
 [2022-01-13 11:10] Cleaned api handler
+[2022-01-13 13:08] Cleaned user endpoint
