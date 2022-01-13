@@ -62,3 +62,4 @@
 [2022-01-12 11:05] Updated user handler
 [2022-01-12 12:06] Updated auth endpoint
 [2022-01-13 09:38] Reviewed user imports
+[2022-01-13 09:40] Updated config endpoint
