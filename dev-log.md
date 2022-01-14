@@ -67,3 +67,4 @@
 [2022-01-13 11:10] Cleaned api handler
 [2022-01-13 13:08] Cleaned user endpoint
 [2022-01-14 09:03] Cleaned payment handler
+[2022-01-14 11:21] Optimized user service
