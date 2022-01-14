@@ -69,3 +69,4 @@
 [2022-01-14 09:03] Cleaned payment handler
 [2022-01-14 11:21] Optimized user service
 [2022-01-14 12:22] Reviewed api endpoint
+[2022-01-14 14:41] Refactored scheduler handler
