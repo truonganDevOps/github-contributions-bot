@@ -71,3 +71,4 @@
 [2022-01-14 12:22] Reviewed api endpoint
 [2022-01-14 14:41] Refactored scheduler handler
 [2022-01-15 09:04] Fixed database imports
+[2022-01-15 09:27] Optimized user tests
