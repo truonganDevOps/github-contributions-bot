@@ -75,3 +75,4 @@
 [2022-01-15 11:18] Optimized cache service
 [2022-01-15 11:51] Cleaned database query
 [2022-01-16 09:27] Added scheduler tests
+[2022-01-16 10:46] Fixed api handler
