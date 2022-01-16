@@ -74,3 +74,4 @@
 [2022-01-15 09:27] Optimized user tests
 [2022-01-15 11:18] Optimized cache service
 [2022-01-15 11:51] Cleaned database query
+[2022-01-16 09:27] Added scheduler tests
