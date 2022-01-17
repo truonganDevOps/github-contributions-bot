@@ -80,3 +80,4 @@
 [2022-01-16 13:18] Updated database imports
 [2022-01-17 09:01] Improved cache tests
 [2022-01-17 11:22] Cleaned api module
+[2022-01-17 11:14] Refactored payment query
