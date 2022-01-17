@@ -81,3 +81,4 @@
 [2022-01-17 09:01] Improved cache tests
 [2022-01-17 11:22] Cleaned api module
 [2022-01-17 11:14] Refactored payment query
+[2022-01-17 12:12] Cleaned cache module
