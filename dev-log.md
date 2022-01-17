@@ -78,3 +78,4 @@
 [2022-01-16 10:46] Fixed api handler
 [2022-01-16 11:04] Fixed auth query
 [2022-01-16 13:18] Updated database imports
+[2022-01-17 09:01] Improved cache tests
