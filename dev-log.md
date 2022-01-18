@@ -83,3 +83,4 @@
 [2022-01-17 11:14] Refactored payment query
 [2022-01-17 12:12] Cleaned cache module
 [2022-01-18 09:43] Updated database tests
+[2022-01-18 09:50] Fixed config imports
