@@ -85,3 +85,4 @@
 [2022-01-18 09:43] Updated database tests
 [2022-01-18 09:50] Fixed config imports
 [2022-01-18 09:23] Added payment query
+[2022-01-18 09:38] Reviewed auth endpoint
