@@ -87,3 +87,4 @@
 [2022-01-18 09:23] Added payment query
 [2022-01-18 09:38] Reviewed auth endpoint
 [2022-01-19 09:04] Cleaned logger imports
+[2022-01-19 11:58] Refactored database endpoint
