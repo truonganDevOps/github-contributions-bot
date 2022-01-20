@@ -92,3 +92,4 @@
 [2022-01-19 11:30] Refactored cache logic
 [2022-01-19 12:48] Updated config imports
 [2022-01-20 09:04] Updated api endpoint
+[2022-01-20 10:43] Optimized database logic
