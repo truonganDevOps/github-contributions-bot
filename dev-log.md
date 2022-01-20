@@ -91,3 +91,4 @@
 [2022-01-19 11:19] Optimized payment service
 [2022-01-19 11:30] Refactored cache logic
 [2022-01-19 12:48] Updated config imports
+[2022-01-20 09:04] Updated api endpoint
