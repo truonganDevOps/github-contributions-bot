@@ -94,3 +94,4 @@
 [2022-01-20 09:04] Updated api endpoint
 [2022-01-20 10:43] Optimized database logic
 [2022-01-20 12:01] Updated database module
+[2022-01-20 13:23] Added scheduler query
