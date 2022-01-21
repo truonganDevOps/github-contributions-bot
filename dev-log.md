@@ -97,3 +97,4 @@
 [2022-01-20 13:23] Added scheduler query
 [2022-01-21 09:09] Reviewed user module
 [2022-01-21 10:09] Cleaned cache tests
+[2022-01-21 10:13] Reviewed cache module
