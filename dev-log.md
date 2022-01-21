@@ -95,3 +95,4 @@
 [2022-01-20 10:43] Optimized database logic
 [2022-01-20 12:01] Updated database module
 [2022-01-20 13:23] Added scheduler query
+[2022-01-21 09:09] Reviewed user module
