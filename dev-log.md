@@ -98,3 +98,4 @@
 [2022-01-21 09:09] Reviewed user module
 [2022-01-21 10:09] Cleaned cache tests
 [2022-01-21 10:13] Reviewed cache module
+[2022-01-21 11:08] Added scheduler endpoint
