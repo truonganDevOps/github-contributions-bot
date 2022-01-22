@@ -100,3 +100,4 @@
 [2022-01-21 10:13] Reviewed cache module
 [2022-01-21 11:08] Added scheduler endpoint
 [2022-01-22 09:42] Cleaned middleware logic
+[2022-01-22 09:43] Improved config module
