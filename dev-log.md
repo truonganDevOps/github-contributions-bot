@@ -102,3 +102,4 @@
 [2022-01-22 09:42] Cleaned middleware logic
 [2022-01-22 09:43] Improved config module
 [2022-01-22 11:20] Updated middleware module
+[2022-01-23 09:33] Cleaned config imports
