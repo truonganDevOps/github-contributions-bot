@@ -106,3 +106,4 @@
 [2022-01-23 11:16] Optimized database service
 [2022-01-23 11:46] Fixed scheduler imports
 [2022-01-24 09:48] Fixed logger tests
+[2022-01-24 11:18] Refactored api tests
