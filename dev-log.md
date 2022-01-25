@@ -110,3 +110,4 @@
 [2022-01-24 12:08] Updated cache module
 [2022-01-25 09:47] Reviewed payment module
 [2022-01-25 11:34] Fixed database module
+[2022-01-25 11:35] Cleaned auth imports
