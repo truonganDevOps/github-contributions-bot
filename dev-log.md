@@ -108,3 +108,4 @@
 [2022-01-24 09:48] Fixed logger tests
 [2022-01-24 11:18] Refactored api tests
 [2022-01-24 12:08] Updated cache module
+[2022-01-25 09:47] Reviewed payment module
