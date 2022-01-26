@@ -112,3 +112,4 @@
 [2022-01-25 11:34] Fixed database module
 [2022-01-25 11:35] Cleaned auth imports
 [2022-01-26 09:19] Fixed user imports
+[2022-01-26 10:26] Refactored api tests
