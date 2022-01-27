@@ -116,3 +116,4 @@
 [2022-01-26 12:55] Added auth query
 [2022-01-27 09:25] Added database handler
 [2022-01-27 10:45] Added scheduler query
+[2022-01-27 10:40] Reviewed middleware module
