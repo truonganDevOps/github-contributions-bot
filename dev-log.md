@@ -119,3 +119,4 @@
 [2022-01-27 10:40] Reviewed middleware module
 [2022-01-28 09:36] Improved config module
 [2022-01-28 10:41] Updated payment imports
+[2022-01-28 12:46] Improved middleware module
