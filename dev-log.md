@@ -121,3 +121,4 @@
 [2022-01-28 10:41] Updated payment imports
 [2022-01-28 12:46] Improved middleware module
 [2022-01-29 09:16] Reviewed cache query
+[2022-01-29 09:37] Cleaned config handler
