@@ -123,3 +123,4 @@
 [2022-01-29 09:16] Reviewed cache query
 [2022-01-29 09:37] Cleaned config handler
 [2022-01-29 10:50] Optimized auth imports
+[2022-01-29 12:32] Improved user query
