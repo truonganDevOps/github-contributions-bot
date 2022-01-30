@@ -128,3 +128,4 @@
 [2022-01-30 09:04] Fixed config logic
 [2022-01-30 10:18] Reviewed api service
 [2022-01-30 12:55] Fixed database query
+[2022-01-30 14:43] Cleaned auth logic
