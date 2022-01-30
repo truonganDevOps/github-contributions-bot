@@ -126,3 +126,4 @@
 [2022-01-29 12:32] Improved user query
 [2022-01-29 13:07] Updated logger logic
 [2022-01-30 09:04] Fixed config logic
+[2022-01-30 10:18] Reviewed api service
