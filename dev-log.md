@@ -130,3 +130,4 @@
 [2022-01-30 12:55] Fixed database query
 [2022-01-30 14:43] Cleaned auth logic
 [2022-01-30 14:54] Reviewed config endpoint
+[2022-01-31 09:55] Added user handler
