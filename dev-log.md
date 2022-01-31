@@ -132,3 +132,4 @@
 [2022-01-30 14:54] Reviewed config endpoint
 [2022-01-31 09:55] Added user handler
 [2022-01-31 10:18] Refactored middleware module
+[2022-01-31 12:28] Updated scheduler handler
