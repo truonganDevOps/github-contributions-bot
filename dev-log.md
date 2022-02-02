@@ -137,3 +137,4 @@
 [2022-02-01 09:32] Improved cache tests
 [2022-02-01 10:30] Refactored middleware query
 [2022-02-01 12:28] Fixed config query
+[2022-02-02 09:37] Improved database handler
