@@ -141,3 +141,4 @@
 [2022-02-02 11:39] Added payment tests
 [2022-02-02 11:45] Updated config handler
 [2022-02-02 13:48] Refactored middleware service
+[2022-02-02 13:15] Optimized logger service
