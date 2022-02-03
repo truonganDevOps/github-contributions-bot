@@ -144,3 +144,4 @@
 [2022-02-02 13:15] Optimized logger service
 [2022-02-03 09:44] Optimized middleware logic
 [2022-02-03 11:08] Optimized config module
+[2022-02-03 12:19] Cleaned middleware endpoint
