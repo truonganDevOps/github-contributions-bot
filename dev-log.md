@@ -146,3 +146,4 @@
 [2022-02-03 11:08] Optimized config module
 [2022-02-03 12:19] Cleaned middleware endpoint
 [2022-02-03 14:21] Cleaned payment handler
+[2022-02-03 16:58] Updated user endpoint
