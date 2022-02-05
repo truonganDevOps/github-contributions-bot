@@ -150,3 +150,4 @@
 [2022-02-04 09:05] Cleaned config query
 [2022-02-04 10:39] Cleaned config query
 [2022-02-04 12:22] Improved cache handler
+[2022-02-05 09:49] Reviewed auth handler
