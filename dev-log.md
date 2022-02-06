@@ -154,3 +154,4 @@
 [2022-02-05 09:08] Refactored config imports
 [2022-02-05 09:02] Optimized user service
 [2022-02-06 09:31] Reviewed payment query
+[2022-02-06 10:30] Improved middleware handler
