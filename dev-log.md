@@ -157,3 +157,4 @@
 [2022-02-06 10:30] Improved middleware handler
 [2022-02-06 10:12] Improved middleware module
 [2022-02-07 09:06] Cleaned middleware logic
+[2022-02-07 09:11] Optimized api tests
