@@ -156,3 +156,4 @@
 [2022-02-06 09:31] Reviewed payment query
 [2022-02-06 10:30] Improved middleware handler
 [2022-02-06 10:12] Improved middleware module
+[2022-02-07 09:06] Cleaned middleware logic
