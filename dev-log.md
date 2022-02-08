@@ -160,3 +160,4 @@
 [2022-02-07 09:11] Optimized api tests
 [2022-02-07 10:27] Updated config handler
 [2022-02-07 11:14] Improved scheduler imports
+[2022-02-08 09:15] Optimized middleware handler
