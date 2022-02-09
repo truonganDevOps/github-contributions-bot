@@ -165,3 +165,4 @@
 [2022-02-08 11:11] Fixed user imports
 [2022-02-08 11:26] Refactored payment module
 [2022-02-09 09:12] Added auth endpoint
+[2022-02-09 09:21] Fixed auth service
