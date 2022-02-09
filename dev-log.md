@@ -167,3 +167,4 @@
 [2022-02-09 09:12] Added auth endpoint
 [2022-02-09 09:21] Fixed auth service
 [2022-02-09 10:48] Optimized user service
+[2022-02-09 10:04] Improved user module
