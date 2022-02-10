@@ -169,3 +169,4 @@
 [2022-02-09 10:48] Optimized user service
 [2022-02-09 10:04] Improved user module
 [2022-02-10 09:14] Improved config endpoint
+[2022-02-10 09:34] Optimized api handler
