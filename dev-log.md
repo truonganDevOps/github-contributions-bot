@@ -173,3 +173,4 @@
 [2022-02-10 11:39] Improved auth endpoint
 [2022-02-10 11:13] Refactored auth imports
 [2022-02-10 11:43] Updated cache handler
+[2022-02-11 09:15] Refactored user module
