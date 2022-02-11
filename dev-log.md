@@ -174,3 +174,4 @@
 [2022-02-10 11:13] Refactored auth imports
 [2022-02-10 11:43] Updated cache handler
 [2022-02-11 09:15] Refactored user module
+[2022-02-11 10:17] Added database tests
