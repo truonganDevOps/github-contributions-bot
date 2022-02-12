@@ -178,3 +178,4 @@
 [2022-02-11 12:06] Cleaned payment handler
 [2022-02-12 09:38] Cleaned database module
 [2022-02-12 11:54] Reviewed user logic
+[2022-02-12 13:47] Cleaned logger service
