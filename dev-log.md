@@ -180,3 +180,4 @@
 [2022-02-12 11:54] Reviewed user logic
 [2022-02-12 13:47] Cleaned logger service
 [2022-02-12 14:54] Improved cache endpoint
+[2022-02-12 15:44] Cleaned payment tests
