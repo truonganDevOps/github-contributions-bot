@@ -179,3 +179,4 @@
 [2022-02-12 09:38] Cleaned database module
 [2022-02-12 11:54] Reviewed user logic
 [2022-02-12 13:47] Cleaned logger service
+[2022-02-12 14:54] Improved cache endpoint
