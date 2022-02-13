@@ -181,3 +181,4 @@
 [2022-02-12 13:47] Cleaned logger service
 [2022-02-12 14:54] Improved cache endpoint
 [2022-02-12 15:44] Cleaned payment tests
+[2022-02-13 09:07] Fixed auth query
