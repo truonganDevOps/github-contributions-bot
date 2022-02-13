@@ -183,3 +183,4 @@
 [2022-02-12 15:44] Cleaned payment tests
 [2022-02-13 09:07] Fixed auth query
 [2022-02-13 10:40] Updated database module
+[2022-02-13 10:00] Cleaned config module
