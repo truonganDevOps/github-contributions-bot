@@ -190,3 +190,4 @@
 [2022-02-14 10:23] Cleaned config module
 [2022-02-14 11:02] Refactored payment endpoint
 [2022-02-14 11:29] Reviewed scheduler imports
+[2022-02-14 12:25] Improved logger imports
