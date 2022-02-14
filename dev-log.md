@@ -188,3 +188,4 @@
 [2022-02-13 11:53] Fixed payment imports
 [2022-02-14 09:03] Fixed cache endpoint
 [2022-02-14 10:23] Cleaned config module
+[2022-02-14 11:02] Refactored payment endpoint
