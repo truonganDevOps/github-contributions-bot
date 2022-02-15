@@ -193,3 +193,4 @@
 [2022-02-14 12:25] Improved logger imports
 [2022-02-15 09:43] Fixed payment module
 [2022-02-15 09:53] Improved api module
+[2022-02-15 11:19] Cleaned cache service
