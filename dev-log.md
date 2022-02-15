@@ -191,3 +191,4 @@
 [2022-02-14 11:02] Refactored payment endpoint
 [2022-02-14 11:29] Reviewed scheduler imports
 [2022-02-14 12:25] Improved logger imports
+[2022-02-15 09:43] Fixed payment module
