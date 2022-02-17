@@ -200,3 +200,4 @@
 [2022-02-17 09:07] Cleaned auth tests
 [2022-02-17 11:10] Updated middleware service
 [2022-02-17 11:42] Fixed api endpoint
+[2022-02-17 11:18] Cleaned database service
