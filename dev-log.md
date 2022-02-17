@@ -197,3 +197,4 @@
 [2022-02-16 09:28] Cleaned user imports
 [2022-02-16 11:59] Cleaned user query
 [2022-02-16 11:47] Updated scheduler service
+[2022-02-17 09:07] Cleaned auth tests
