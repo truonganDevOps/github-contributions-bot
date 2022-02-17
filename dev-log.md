@@ -201,3 +201,4 @@
 [2022-02-17 11:10] Updated middleware service
 [2022-02-17 11:42] Fixed api endpoint
 [2022-02-17 11:18] Cleaned database service
+[2022-02-17 11:12] Refactored user module
