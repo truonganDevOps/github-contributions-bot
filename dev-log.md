@@ -204,3 +204,4 @@
 [2022-02-17 11:12] Refactored user module
 [2022-02-18 09:10] Cleaned api imports
 [2022-02-18 10:55] Refactored auth tests
+[2022-02-18 11:32] Updated logger query
