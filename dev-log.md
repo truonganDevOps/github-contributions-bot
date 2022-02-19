@@ -209,3 +209,4 @@
 [2022-02-18 13:32] Updated database tests
 [2022-02-19 09:41] Reviewed config endpoint
 [2022-02-19 10:14] Refactored payment endpoint
+[2022-02-19 11:14] Cleaned database endpoint
