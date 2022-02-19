@@ -210,3 +210,4 @@
 [2022-02-19 09:41] Reviewed config endpoint
 [2022-02-19 10:14] Refactored payment endpoint
 [2022-02-19 11:14] Cleaned database endpoint
+[2022-02-19 11:08] Cleaned auth imports
