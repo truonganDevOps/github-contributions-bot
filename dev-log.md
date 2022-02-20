@@ -212,3 +212,4 @@
 [2022-02-19 11:14] Cleaned database endpoint
 [2022-02-19 11:08] Cleaned auth imports
 [2022-02-20 09:28] Cleaned payment tests
+[2022-02-20 11:23] Improved user logic
