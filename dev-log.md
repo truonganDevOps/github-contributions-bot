@@ -213,3 +213,4 @@
 [2022-02-19 11:08] Cleaned auth imports
 [2022-02-20 09:28] Cleaned payment tests
 [2022-02-20 11:23] Improved user logic
+[2022-02-20 12:47] Reviewed api query
