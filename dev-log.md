@@ -216,3 +216,4 @@
 [2022-02-20 12:47] Reviewed api query
 [2022-02-21 09:57] Fixed api endpoint
 [2022-02-21 10:37] Improved api endpoint
+[2022-02-21 10:50] Refactored middleware tests
