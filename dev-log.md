@@ -218,3 +218,4 @@
 [2022-02-21 10:37] Improved api endpoint
 [2022-02-21 10:50] Refactored middleware tests
 [2022-02-21 12:37] Refactored payment endpoint
+[2022-02-22 09:41] Reviewed payment imports
