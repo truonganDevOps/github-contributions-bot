@@ -224,3 +224,4 @@
 [2022-02-23 09:11] Fixed config service
 [2022-02-23 10:36] Optimized scheduler imports
 [2022-02-23 11:25] Optimized logger query
+[2022-02-23 13:06] Optimized payment query
