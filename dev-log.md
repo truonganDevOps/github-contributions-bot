@@ -221,3 +221,4 @@
 [2022-02-22 09:41] Reviewed payment imports
 [2022-02-22 10:01] Cleaned database tests
 [2022-02-22 10:38] Fixed database query
+[2022-02-23 09:11] Fixed config service
