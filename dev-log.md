@@ -227,3 +227,4 @@
 [2022-02-23 13:06] Optimized payment query
 [2022-02-24 09:21] Updated payment service
 [2022-02-24 11:23] Optimized user logic
+[2022-02-24 12:33] Optimized middleware service
