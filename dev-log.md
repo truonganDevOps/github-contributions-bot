@@ -229,3 +229,4 @@
 [2022-02-24 11:23] Optimized user logic
 [2022-02-24 12:33] Optimized middleware service
 [2022-02-25 09:58] Cleaned user logic
+[2022-02-25 11:53] Cleaned auth service
