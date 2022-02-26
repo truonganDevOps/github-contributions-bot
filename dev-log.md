@@ -232,3 +232,4 @@
 [2022-02-25 11:53] Cleaned auth service
 [2022-02-25 12:16] Optimized user module
 [2022-02-25 12:45] Added scheduler tests
+[2022-02-26 09:57] Cleaned api endpoint
