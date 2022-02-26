@@ -235,3 +235,4 @@
 [2022-02-26 09:57] Cleaned api endpoint
 [2022-02-26 10:18] Improved user module
 [2022-02-26 10:24] Optimized user handler
+[2022-02-26 12:37] Optimized scheduler logic
