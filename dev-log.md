@@ -233,3 +233,4 @@
 [2022-02-25 12:16] Optimized user module
 [2022-02-25 12:45] Added scheduler tests
 [2022-02-26 09:57] Cleaned api endpoint
+[2022-02-26 10:18] Improved user module
