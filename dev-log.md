@@ -239,3 +239,4 @@
 [2022-02-27 09:06] Refactored config endpoint
 [2022-02-27 09:59] Fixed payment tests
 [2022-02-27 11:54] Fixed user handler
+[2022-02-27 12:28] Cleaned user logic
