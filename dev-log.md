@@ -237,3 +237,4 @@
 [2022-02-26 10:24] Optimized user handler
 [2022-02-26 12:37] Optimized scheduler logic
 [2022-02-27 09:06] Refactored config endpoint
+[2022-02-27 09:59] Fixed payment tests
