@@ -241,3 +241,4 @@
 [2022-02-27 11:54] Fixed user handler
 [2022-02-27 12:28] Cleaned user logic
 [2022-02-28 09:39] Cleaned middleware endpoint
+[2022-02-28 10:55] Updated auth endpoint
