@@ -244,3 +244,4 @@
 [2022-02-28 10:55] Updated auth endpoint
 [2022-02-28 12:29] Added api logic
 [2022-02-28 12:46] Added cache module
+[2022-02-28 13:46] Reviewed database module
