@@ -240,3 +240,4 @@
 [2022-02-27 09:59] Fixed payment tests
 [2022-02-27 11:54] Fixed user handler
 [2022-02-27 12:28] Cleaned user logic
+[2022-02-28 09:39] Cleaned middleware endpoint
