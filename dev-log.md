@@ -242,3 +242,4 @@
 [2022-02-27 12:28] Cleaned user logic
 [2022-02-28 09:39] Cleaned middleware endpoint
 [2022-02-28 10:55] Updated auth endpoint
+[2022-02-28 12:29] Added api logic
