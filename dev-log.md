@@ -247,3 +247,4 @@
 [2022-02-28 13:46] Reviewed database module
 [2022-03-01 09:33] Added user tests
 [2022-03-01 11:26] Refactored payment tests
+[2022-03-01 12:38] Cleaned auth tests
