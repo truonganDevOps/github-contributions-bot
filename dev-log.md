@@ -245,3 +245,4 @@
 [2022-02-28 12:29] Added api logic
 [2022-02-28 12:46] Added cache module
 [2022-02-28 13:46] Reviewed database module
+[2022-03-01 09:33] Added user tests
