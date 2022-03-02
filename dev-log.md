@@ -251,3 +251,4 @@
 [2022-03-01 14:39] Added user service
 [2022-03-02 09:27] Reviewed database module
 [2022-03-02 10:45] Optimized auth query
+[2022-03-02 11:35] Updated auth imports
