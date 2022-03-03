@@ -254,3 +254,4 @@
 [2022-03-02 11:35] Updated auth imports
 [2022-03-03 09:03] Refactored cache query
 [2022-03-03 10:41] Added api tests
+[2022-03-03 12:14] Optimized database imports
