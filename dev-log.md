@@ -256,3 +256,4 @@
 [2022-03-03 10:41] Added api tests
 [2022-03-03 12:14] Optimized database imports
 [2022-03-03 12:21] Cleaned logger imports
+[2022-03-04 09:12] Fixed auth logic
