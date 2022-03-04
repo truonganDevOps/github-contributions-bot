@@ -258,3 +258,4 @@
 [2022-03-03 12:21] Cleaned logger imports
 [2022-03-04 09:12] Fixed auth logic
 [2022-03-04 09:53] Added config module
+[2022-03-04 09:18] Refactored config logic
