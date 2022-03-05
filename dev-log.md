@@ -261,3 +261,4 @@
 [2022-03-04 09:18] Refactored config logic
 [2022-03-05 09:25] Reviewed auth service
 [2022-03-05 10:48] Updated payment service
+[2022-03-05 12:44] Fixed scheduler tests
