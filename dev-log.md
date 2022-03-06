@@ -264,3 +264,4 @@
 [2022-03-05 12:44] Fixed scheduler tests
 [2022-03-05 13:24] Optimized user logic
 [2022-03-05 14:25] Improved user endpoint
+[2022-03-06 09:01] Cleaned scheduler logic
