@@ -267,3 +267,4 @@
 [2022-03-06 09:01] Cleaned scheduler logic
 [2022-03-06 09:33] Reviewed config module
 [2022-03-06 09:18] Improved config service
+[2022-03-06 10:53] Added api endpoint
