@@ -269,3 +269,4 @@
 [2022-03-06 09:18] Improved config service
 [2022-03-06 10:53] Added api endpoint
 [2022-03-07 09:00] Fixed logger logic
+[2022-03-07 11:22] Fixed database endpoint
