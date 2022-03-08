@@ -272,3 +272,4 @@
 [2022-03-07 11:22] Fixed database endpoint
 [2022-03-07 13:36] Fixed payment module
 [2022-03-08 09:19] Updated auth logic
+[2022-03-08 09:12] Cleaned database handler
