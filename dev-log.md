@@ -271,3 +271,4 @@
 [2022-03-07 09:00] Fixed logger logic
 [2022-03-07 11:22] Fixed database endpoint
 [2022-03-07 13:36] Fixed payment module
+[2022-03-08 09:19] Updated auth logic
