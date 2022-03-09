@@ -277,3 +277,4 @@
 [2022-03-09 09:28] Updated payment module
 [2022-03-09 09:00] Improved database imports
 [2022-03-09 09:45] Cleaned payment tests
+[2022-03-09 10:45] Fixed api tests
