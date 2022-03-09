@@ -274,3 +274,4 @@
 [2022-03-08 09:19] Updated auth logic
 [2022-03-08 09:12] Cleaned database handler
 [2022-03-08 09:47] Reviewed user service
+[2022-03-09 09:28] Updated payment module
