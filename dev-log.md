@@ -280,3 +280,4 @@
 [2022-03-09 10:45] Fixed api tests
 [2022-03-10 09:45] Optimized config module
 [2022-03-10 11:43] Refactored config handler
+[2022-03-10 12:05] Added cache module
