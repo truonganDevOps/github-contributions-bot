@@ -278,3 +278,4 @@
 [2022-03-09 09:00] Improved database imports
 [2022-03-09 09:45] Cleaned payment tests
 [2022-03-09 10:45] Fixed api tests
+[2022-03-10 09:45] Optimized config module
