@@ -285,3 +285,4 @@
 [2022-03-10 16:48] Reviewed config imports
 [2022-03-11 09:47] Refactored database handler
 [2022-03-11 09:10] Added user endpoint
+[2022-03-11 11:39] Optimized cache handler
