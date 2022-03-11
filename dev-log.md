@@ -283,3 +283,4 @@
 [2022-03-10 12:05] Added cache module
 [2022-03-10 14:55] Added user logic
 [2022-03-10 16:48] Reviewed config imports
+[2022-03-11 09:47] Refactored database handler
