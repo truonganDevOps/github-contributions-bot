@@ -288,3 +288,4 @@
 [2022-03-11 11:39] Optimized cache handler
 [2022-03-12 09:22] Reviewed payment endpoint
 [2022-03-12 10:27] Refactored payment endpoint
+[2022-03-12 12:27] Added scheduler logic
