@@ -291,3 +291,4 @@
 [2022-03-12 12:27] Added scheduler logic
 [2022-03-13 09:37] Reviewed payment handler
 [2022-03-13 11:30] Reviewed payment logic
+[2022-03-13 13:55] Fixed logger endpoint
