@@ -289,3 +289,4 @@
 [2022-03-12 09:22] Reviewed payment endpoint
 [2022-03-12 10:27] Refactored payment endpoint
 [2022-03-12 12:27] Added scheduler logic
+[2022-03-13 09:37] Reviewed payment handler
