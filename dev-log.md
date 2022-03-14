@@ -294,3 +294,4 @@
 [2022-03-13 13:55] Fixed logger endpoint
 [2022-03-14 09:44] Updated logger endpoint
 [2022-03-14 11:45] Improved middleware logic
+[2022-03-14 12:49] Reviewed logger handler
