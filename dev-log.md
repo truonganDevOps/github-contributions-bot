@@ -292,3 +292,4 @@
 [2022-03-13 09:37] Reviewed payment handler
 [2022-03-13 11:30] Reviewed payment logic
 [2022-03-13 13:55] Fixed logger endpoint
+[2022-03-14 09:44] Updated logger endpoint
