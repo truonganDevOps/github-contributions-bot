@@ -296,3 +296,4 @@
 [2022-03-14 11:45] Improved middleware logic
 [2022-03-14 12:49] Reviewed logger handler
 [2022-03-15 09:55] Optimized database module
+[2022-03-15 11:04] Fixed middleware module
