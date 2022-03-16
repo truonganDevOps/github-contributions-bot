@@ -300,3 +300,4 @@
 [2022-03-15 13:21] Optimized cache query
 [2022-03-15 15:19] Refactored payment handler
 [2022-03-16 09:43] Optimized cache endpoint
+[2022-03-16 10:13] Updated middleware handler
