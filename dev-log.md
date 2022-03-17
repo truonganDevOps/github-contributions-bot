@@ -306,3 +306,4 @@
 [2022-03-17 10:43] Reviewed api imports
 [2022-03-17 10:41] Added user logic
 [2022-03-17 12:30] Optimized scheduler endpoint
+[2022-03-17 14:50] Improved logger logic
