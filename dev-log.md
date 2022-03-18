@@ -308,3 +308,4 @@
 [2022-03-17 12:30] Optimized scheduler endpoint
 [2022-03-17 14:50] Improved logger logic
 [2022-03-18 09:57] Added api tests
+[2022-03-18 11:53] Refactored scheduler query
