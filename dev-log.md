@@ -315,3 +315,4 @@
 [2022-03-19 09:28] Refactored auth handler
 [2022-03-19 10:50] Cleaned user service
 [2022-03-19 10:17] Reviewed auth logic
+[2022-03-20 09:41] Updated api query
