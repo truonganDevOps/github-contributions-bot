@@ -319,3 +319,4 @@
 [2022-03-20 09:01] Optimized logger imports
 [2022-03-20 11:56] Improved logger imports
 [2022-03-20 11:59] Fixed scheduler handler
+[2022-03-20 13:20] Updated scheduler endpoint
