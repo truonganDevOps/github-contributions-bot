@@ -324,3 +324,4 @@
 [2022-03-21 11:43] Reviewed config query
 [2022-03-21 13:49] Updated config service
 [2022-03-21 14:29] Cleaned database handler
+[2022-03-21 16:06] Fixed scheduler handler
