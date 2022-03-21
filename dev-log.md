@@ -323,3 +323,4 @@
 [2022-03-21 09:25] Updated database service
 [2022-03-21 11:43] Reviewed config query
 [2022-03-21 13:49] Updated config service
+[2022-03-21 14:29] Cleaned database handler
