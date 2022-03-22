@@ -329,3 +329,4 @@
 [2022-03-22 09:42] Cleaned middleware endpoint
 [2022-03-22 10:00] Refactored auth query
 [2022-03-22 12:18] Cleaned scheduler endpoint
+[2022-03-22 12:22] Updated middleware endpoint
