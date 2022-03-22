@@ -326,3 +326,4 @@
 [2022-03-21 14:29] Cleaned database handler
 [2022-03-21 16:06] Fixed scheduler handler
 [2022-03-22 09:04] Added api endpoint
+[2022-03-22 09:42] Cleaned middleware endpoint
