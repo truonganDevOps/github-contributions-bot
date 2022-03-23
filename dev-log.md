@@ -334,3 +334,4 @@
 [2022-03-23 11:10] Optimized user query
 [2022-03-23 12:28] Fixed user endpoint
 [2022-03-23 13:28] Improved cache service
+[2022-03-23 14:22] Improved payment query
