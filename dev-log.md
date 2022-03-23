@@ -331,3 +331,4 @@
 [2022-03-22 12:18] Cleaned scheduler endpoint
 [2022-03-22 12:22] Updated middleware endpoint
 [2022-03-23 09:19] Fixed auth endpoint
+[2022-03-23 11:10] Optimized user query
