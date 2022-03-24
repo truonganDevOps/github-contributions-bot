@@ -337,3 +337,4 @@
 [2022-03-23 14:22] Improved payment query
 [2022-03-24 09:53] Added api endpoint
 [2022-03-24 11:44] Added database tests
+[2022-03-24 12:35] Cleaned user service
