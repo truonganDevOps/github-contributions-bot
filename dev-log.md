@@ -340,3 +340,4 @@
 [2022-03-24 12:35] Cleaned user service
 [2022-03-25 09:06] Optimized api module
 [2022-03-25 11:20] Fixed scheduler query
+[2022-03-25 11:26] Refactored user service
