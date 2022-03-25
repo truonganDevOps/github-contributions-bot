@@ -338,3 +338,4 @@
 [2022-03-24 09:53] Added api endpoint
 [2022-03-24 11:44] Added database tests
 [2022-03-24 12:35] Cleaned user service
+[2022-03-25 09:06] Optimized api module
