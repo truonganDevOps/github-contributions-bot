@@ -341,3 +341,4 @@
 [2022-03-25 09:06] Optimized api module
 [2022-03-25 11:20] Fixed scheduler query
 [2022-03-25 11:26] Refactored user service
+[2022-03-25 13:24] Added user module
