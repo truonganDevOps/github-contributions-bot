@@ -345,3 +345,4 @@
 [2022-03-26 09:43] Optimized database module
 [2022-03-26 09:56] Optimized user endpoint
 [2022-03-26 09:37] Improved auth service
+[2022-03-26 09:44] Added logger query
