@@ -343,3 +343,4 @@
 [2022-03-25 11:26] Refactored user service
 [2022-03-25 13:24] Added user module
 [2022-03-26 09:43] Optimized database module
+[2022-03-26 09:56] Optimized user endpoint
