@@ -344,3 +344,4 @@
 [2022-03-25 13:24] Added user module
 [2022-03-26 09:43] Optimized database module
 [2022-03-26 09:56] Optimized user endpoint
+[2022-03-26 09:37] Improved auth service
