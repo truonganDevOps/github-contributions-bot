@@ -348,3 +348,4 @@
 [2022-03-26 09:44] Added logger query
 [2022-03-26 09:43] Cleaned database tests
 [2022-03-27 09:23] Reviewed database endpoint
+[2022-03-27 11:07] Cleaned auth module
