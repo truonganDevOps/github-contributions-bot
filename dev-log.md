@@ -351,3 +351,4 @@
 [2022-03-27 11:07] Cleaned auth module
 [2022-03-27 12:37] Optimized config endpoint
 [2022-03-27 13:21] Refactored user handler
+[2022-03-28 09:27] Refactored logger service
