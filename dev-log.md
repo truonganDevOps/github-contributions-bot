@@ -354,3 +354,4 @@
 [2022-03-28 09:27] Refactored logger service
 [2022-03-28 09:56] Optimized database query
 [2022-03-28 10:27] Added api tests
+[2022-03-28 11:34] Optimized database endpoint
