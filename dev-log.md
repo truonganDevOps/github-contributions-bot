@@ -361,3 +361,4 @@
 [2022-03-29 11:47] Reviewed user logic
 [2022-03-29 11:50] Cleaned api imports
 [2022-03-30 09:50] Cleaned database module
+[2022-03-30 10:55] Updated scheduler logic
