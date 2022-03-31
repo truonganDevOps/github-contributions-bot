@@ -366,3 +366,4 @@
 [2022-03-31 09:05] Cleaned logger service
 [2022-03-31 09:32] Fixed api tests
 [2022-03-31 11:07] Added database module
+[2022-03-31 12:40] Updated database tests
