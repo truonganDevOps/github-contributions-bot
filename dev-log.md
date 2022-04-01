@@ -369,3 +369,4 @@
 [2022-03-31 12:40] Updated database tests
 [2022-03-31 12:14] Added api query
 [2022-04-01 09:51] Fixed user service
+[2022-04-01 09:38] Improved logger service
