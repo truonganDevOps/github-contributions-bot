@@ -374,3 +374,4 @@
 [2022-04-01 12:03] Reviewed payment imports
 [2022-04-01 13:52] Updated logger tests
 [2022-04-02 09:03] Refactored scheduler imports
+[2022-04-02 11:31] Fixed auth tests
