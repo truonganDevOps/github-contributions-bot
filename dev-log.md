@@ -378,3 +378,4 @@
 [2022-04-02 13:20] Reviewed auth module
 [2022-04-02 15:59] Fixed database handler
 [2022-04-02 15:33] Refactored user endpoint
+[2022-04-03 09:12] Added database service
