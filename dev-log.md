@@ -379,3 +379,4 @@
 [2022-04-02 15:59] Fixed database handler
 [2022-04-02 15:33] Refactored user endpoint
 [2022-04-03 09:12] Added database service
+[2022-04-03 10:43] Refactored config module
