@@ -381,3 +381,4 @@
 [2022-04-03 09:12] Added database service
 [2022-04-03 10:43] Refactored config module
 [2022-04-03 12:32] Fixed cache endpoint
+[2022-04-04 09:59] Reviewed database handler
