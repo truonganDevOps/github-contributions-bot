@@ -382,3 +382,4 @@
 [2022-04-03 10:43] Refactored config module
 [2022-04-03 12:32] Fixed cache endpoint
 [2022-04-04 09:59] Reviewed database handler
+[2022-04-04 11:52] Optimized middleware tests
