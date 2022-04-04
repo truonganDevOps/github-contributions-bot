@@ -384,3 +384,4 @@
 [2022-04-04 09:59] Reviewed database handler
 [2022-04-04 11:52] Optimized middleware tests
 [2022-04-04 13:56] Reviewed user imports
+[2022-04-04 14:58] Added scheduler service
