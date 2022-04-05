@@ -387,3 +387,4 @@
 [2022-04-04 14:58] Added scheduler service
 [2022-04-05 09:22] Optimized api handler
 [2022-04-05 09:19] Optimized scheduler handler
+[2022-04-05 11:12] Cleaned config query
