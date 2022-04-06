@@ -388,3 +388,4 @@
 [2022-04-05 09:22] Optimized api handler
 [2022-04-05 09:19] Optimized scheduler handler
 [2022-04-05 11:12] Cleaned config query
+[2022-04-06 09:29] Optimized middleware logic
