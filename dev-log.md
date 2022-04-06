@@ -392,3 +392,4 @@
 [2022-04-06 09:38] Added user module
 [2022-04-06 11:15] Added middleware imports
 [2022-04-06 11:36] Cleaned api query
+[2022-04-06 11:16] Improved api logic
