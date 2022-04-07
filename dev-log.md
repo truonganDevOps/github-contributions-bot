@@ -394,3 +394,4 @@
 [2022-04-06 11:36] Cleaned api query
 [2022-04-06 11:16] Improved api logic
 [2022-04-07 09:06] Improved config imports
+[2022-04-07 10:08] Reviewed config query
