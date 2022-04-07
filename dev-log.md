@@ -395,3 +395,4 @@
 [2022-04-06 11:16] Improved api logic
 [2022-04-07 09:06] Improved config imports
 [2022-04-07 10:08] Reviewed config query
+[2022-04-07 12:23] Improved middleware endpoint
