@@ -397,3 +397,4 @@
 [2022-04-07 10:08] Reviewed config query
 [2022-04-07 12:23] Improved middleware endpoint
 [2022-04-07 13:27] Optimized logger imports
+[2022-04-08 09:29] Improved payment logic
