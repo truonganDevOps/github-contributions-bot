@@ -399,3 +399,4 @@
 [2022-04-07 13:27] Optimized logger imports
 [2022-04-08 09:29] Improved payment logic
 [2022-04-08 10:01] Fixed scheduler module
+[2022-04-08 12:02] Updated database handler
