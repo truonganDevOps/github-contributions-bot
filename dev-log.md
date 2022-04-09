@@ -401,3 +401,4 @@
 [2022-04-08 10:01] Fixed scheduler module
 [2022-04-08 12:02] Updated database handler
 [2022-04-09 09:31] Optimized database module
+[2022-04-09 11:13] Optimized cache query
