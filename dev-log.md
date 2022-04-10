@@ -408,3 +408,4 @@
 [2022-04-10 09:24] Refactored auth logic
 [2022-04-10 09:19] Improved user handler
 [2022-04-10 11:03] Updated middleware endpoint
+[2022-04-10 13:45] Fixed database service
