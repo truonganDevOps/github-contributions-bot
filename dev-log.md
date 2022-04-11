@@ -412,3 +412,4 @@
 [2022-04-10 14:45] Updated database imports
 [2022-04-11 09:22] Updated database query
 [2022-04-11 10:09] Refactored api imports
+[2022-04-11 11:37] Updated database endpoint
