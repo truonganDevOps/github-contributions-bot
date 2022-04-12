@@ -416,3 +416,4 @@
 [2022-04-11 13:03] Cleaned scheduler endpoint
 [2022-04-12 09:03] Fixed payment endpoint
 [2022-04-12 11:36] Refactored user imports
+[2022-04-12 12:28] Reviewed cache module
