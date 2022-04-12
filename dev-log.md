@@ -414,3 +414,4 @@
 [2022-04-11 10:09] Refactored api imports
 [2022-04-11 11:37] Updated database endpoint
 [2022-04-11 13:03] Cleaned scheduler endpoint
+[2022-04-12 09:03] Fixed payment endpoint
