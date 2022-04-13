@@ -419,3 +419,4 @@
 [2022-04-12 12:28] Reviewed cache module
 [2022-04-13 09:28] Cleaned middleware service
 [2022-04-13 11:29] Added user tests
+[2022-04-13 11:09] Cleaned payment logic
