@@ -421,3 +421,4 @@
 [2022-04-13 11:29] Added user tests
 [2022-04-13 11:09] Cleaned payment logic
 [2022-04-13 13:39] Reviewed cache logic
+[2022-04-14 09:10] Reviewed payment logic
