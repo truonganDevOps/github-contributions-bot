@@ -423,3 +423,4 @@
 [2022-04-13 13:39] Reviewed cache logic
 [2022-04-14 09:10] Reviewed payment logic
 [2022-04-14 11:48] Reviewed cache endpoint
+[2022-04-14 11:34] Reviewed database handler
