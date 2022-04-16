@@ -428,3 +428,4 @@
 [2022-04-15 09:09] Fixed database module
 [2022-04-15 10:12] Updated database module
 [2022-04-15 10:31] Cleaned cache imports
+[2022-04-16 09:06] Added logger logic
