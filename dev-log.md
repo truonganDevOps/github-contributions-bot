@@ -431,3 +431,4 @@
 [2022-04-16 09:06] Added logger logic
 [2022-04-16 11:10] Improved middleware module
 [2022-04-16 11:36] Cleaned scheduler service
+[2022-04-16 11:51] Cleaned api handler
