@@ -435,3 +435,4 @@
 [2022-04-16 13:16] Cleaned api handler
 [2022-04-17 09:00] Fixed database tests
 [2022-04-17 11:57] Optimized user service
+[2022-04-17 13:27] Reviewed cache handler
