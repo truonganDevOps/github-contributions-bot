@@ -438,3 +438,4 @@
 [2022-04-17 13:27] Reviewed cache handler
 [2022-04-18 09:11] Improved config handler
 [2022-04-18 10:04] Improved api module
+[2022-04-18 12:40] Added database service
