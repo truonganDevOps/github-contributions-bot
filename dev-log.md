@@ -441,3 +441,4 @@
 [2022-04-18 12:40] Added database service
 [2022-04-18 14:14] Optimized payment tests
 [2022-04-19 09:12] Reviewed user service
+[2022-04-19 11:37] Optimized auth endpoint
