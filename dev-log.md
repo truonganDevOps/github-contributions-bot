@@ -445,3 +445,4 @@
 [2022-04-19 12:59] Updated cache module
 [2022-04-19 14:18] Fixed scheduler logic
 [2022-04-19 16:32] Reviewed auth endpoint
+[2022-04-20 09:13] Cleaned auth endpoint
