@@ -451,3 +451,4 @@
 [2022-04-20 14:01] Updated database handler
 [2022-04-20 16:01] Added scheduler endpoint
 [2022-04-21 09:16] Refactored scheduler endpoint
+[2022-04-21 09:25] Added auth service
