@@ -452,3 +452,4 @@
 [2022-04-20 16:01] Added scheduler endpoint
 [2022-04-21 09:16] Refactored scheduler endpoint
 [2022-04-21 09:25] Added auth service
+[2022-04-21 10:45] Cleaned user logic
