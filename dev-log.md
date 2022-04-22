@@ -454,3 +454,4 @@
 [2022-04-21 09:25] Added auth service
 [2022-04-21 10:45] Cleaned user logic
 [2022-04-21 10:57] Refactored middleware handler
+[2022-04-22 09:17] Cleaned api query
