@@ -457,3 +457,4 @@
 [2022-04-22 09:17] Cleaned api query
 [2022-04-22 10:47] Optimized logger query
 [2022-04-22 10:15] Updated user module
+[2022-04-22 11:37] Updated api handler
