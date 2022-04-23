@@ -459,3 +459,4 @@
 [2022-04-22 10:15] Updated user module
 [2022-04-22 11:37] Updated api handler
 [2022-04-22 11:33] Reviewed cache imports
+[2022-04-23 09:53] Added payment logic
