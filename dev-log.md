@@ -462,3 +462,4 @@
 [2022-04-23 09:53] Added payment logic
 [2022-04-23 11:53] Improved middleware imports
 [2022-04-23 11:30] Reviewed config imports
+[2022-04-23 11:38] Updated payment query
