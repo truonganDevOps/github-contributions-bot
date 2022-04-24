@@ -463,3 +463,4 @@
 [2022-04-23 11:53] Improved middleware imports
 [2022-04-23 11:30] Reviewed config imports
 [2022-04-23 11:38] Updated payment query
+[2022-04-24 09:54] Fixed auth handler
