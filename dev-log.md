@@ -466,3 +466,4 @@
 [2022-04-24 09:54] Fixed auth handler
 [2022-04-24 11:28] Added logger module
 [2022-04-24 11:51] Optimized config module
+[2022-04-25 09:45] Reviewed payment tests
