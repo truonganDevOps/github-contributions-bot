@@ -469,3 +469,4 @@
 [2022-04-25 09:45] Reviewed payment tests
 [2022-04-25 11:50] Added scheduler tests
 [2022-04-25 11:26] Fixed middleware query
+[2022-04-26 09:30] Improved middleware tests
