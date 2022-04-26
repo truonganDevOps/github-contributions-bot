@@ -471,3 +471,4 @@
 [2022-04-25 11:26] Fixed middleware query
 [2022-04-26 09:30] Improved middleware tests
 [2022-04-26 09:47] Cleaned payment endpoint
+[2022-04-26 10:51] Updated database handler
