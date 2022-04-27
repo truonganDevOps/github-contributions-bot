@@ -474,3 +474,4 @@
 [2022-04-26 10:51] Updated database handler
 [2022-04-27 09:54] Optimized cache logic
 [2022-04-27 11:21] Refactored middleware service
+[2022-04-27 11:43] Cleaned api query
