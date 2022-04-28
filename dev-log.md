@@ -478,3 +478,4 @@
 [2022-04-27 11:42] Optimized cache logic
 [2022-04-28 09:41] Refactored api tests
 [2022-04-28 09:26] Optimized config module
+[2022-04-28 11:13] Reviewed user endpoint
