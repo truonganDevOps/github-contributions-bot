@@ -476,3 +476,4 @@
 [2022-04-27 11:21] Refactored middleware service
 [2022-04-27 11:43] Cleaned api query
 [2022-04-27 11:42] Optimized cache logic
+[2022-04-28 09:41] Refactored api tests
