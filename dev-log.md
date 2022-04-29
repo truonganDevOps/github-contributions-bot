@@ -482,3 +482,4 @@
 [2022-04-28 11:32] Refactored auth logic
 [2022-04-29 09:52] Reviewed user service
 [2022-04-29 09:57] Improved middleware handler
+[2022-04-29 10:29] Improved database module
