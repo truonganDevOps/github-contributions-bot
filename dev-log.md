@@ -480,3 +480,4 @@
 [2022-04-28 09:26] Optimized config module
 [2022-04-28 11:13] Reviewed user endpoint
 [2022-04-28 11:32] Refactored auth logic
+[2022-04-29 09:52] Reviewed user service
