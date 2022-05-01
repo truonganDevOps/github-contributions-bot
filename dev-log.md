@@ -489,3 +489,4 @@
 [2022-04-30 13:37] Updated middleware query
 [2022-04-30 13:08] Optimized user tests
 [2022-05-01 09:28] Reviewed logger logic
+[2022-05-01 10:54] Fixed logger handler
