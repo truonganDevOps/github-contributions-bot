@@ -496,3 +496,4 @@
 [2022-05-02 09:12] Fixed api endpoint
 [2022-05-02 11:12] Cleaned cache query
 [2022-05-02 13:08] Updated scheduler query
+[2022-05-02 13:50] Updated middleware endpoint
