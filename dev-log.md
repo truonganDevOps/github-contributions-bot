@@ -493,3 +493,4 @@
 [2022-05-01 10:42] Improved database imports
 [2022-05-01 10:03] Reviewed config handler
 [2022-05-01 12:59] Added config logic
+[2022-05-02 09:12] Fixed api endpoint
