@@ -498,3 +498,4 @@
 [2022-05-02 13:08] Updated scheduler query
 [2022-05-02 13:50] Updated middleware endpoint
 [2022-05-03 09:06] Updated cache service
+[2022-05-03 10:16] Refactored payment handler
