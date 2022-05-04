@@ -504,3 +504,4 @@
 [2022-05-04 09:41] Cleaned logger handler
 [2022-05-04 09:42] Added middleware tests
 [2022-05-04 09:37] Cleaned user tests
+[2022-05-04 10:39] Fixed cache module
