@@ -501,3 +501,4 @@
 [2022-05-03 10:16] Refactored payment handler
 [2022-05-03 10:05] Refactored database query
 [2022-05-04 09:53] Optimized scheduler imports
+[2022-05-04 09:41] Cleaned logger handler
