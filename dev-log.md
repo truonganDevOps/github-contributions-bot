@@ -508,3 +508,4 @@
 [2022-05-05 09:08] Fixed user imports
 [2022-05-05 11:37] Reviewed payment query
 [2022-05-05 11:03] Reviewed user module
+[2022-05-06 09:03] Updated logger module
