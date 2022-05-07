@@ -511,3 +511,4 @@
 [2022-05-06 09:03] Updated logger module
 [2022-05-06 09:35] Refactored database service
 [2022-05-06 10:45] Fixed payment imports
+[2022-05-07 09:09] Optimized api tests
