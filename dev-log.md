@@ -513,3 +513,4 @@
 [2022-05-06 10:45] Fixed payment imports
 [2022-05-07 09:09] Optimized api tests
 [2022-05-07 10:51] Optimized payment service
+[2022-05-07 12:43] Updated config handler
