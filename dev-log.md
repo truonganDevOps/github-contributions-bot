@@ -520,3 +520,4 @@
 [2022-05-08 11:38] Fixed auth service
 [2022-05-08 11:45] Reviewed payment imports
 [2022-05-08 11:18] Improved payment service
+[2022-05-08 13:58] Fixed payment handler
