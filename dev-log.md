@@ -517,3 +517,4 @@
 [2022-05-07 12:49] Cleaned user tests
 [2022-05-07 13:35] Optimized logger module
 [2022-05-08 09:24] Cleaned api service
+[2022-05-08 11:38] Fixed auth service
