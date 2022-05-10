@@ -525,3 +525,4 @@
 [2022-05-09 09:47] Added auth imports
 [2022-05-09 09:45] Updated user imports
 [2022-05-10 09:59] Reviewed auth service
+[2022-05-10 10:16] Fixed cache query
