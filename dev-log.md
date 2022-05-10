@@ -527,3 +527,4 @@
 [2022-05-10 09:59] Reviewed auth service
 [2022-05-10 10:16] Fixed cache query
 [2022-05-10 10:15] Fixed auth endpoint
+[2022-05-10 10:01] Updated logger imports
