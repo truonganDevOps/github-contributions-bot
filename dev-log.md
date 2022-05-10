@@ -528,3 +528,4 @@
 [2022-05-10 10:16] Fixed cache query
 [2022-05-10 10:15] Fixed auth endpoint
 [2022-05-10 10:01] Updated logger imports
+[2022-05-10 12:22] Fixed auth handler
