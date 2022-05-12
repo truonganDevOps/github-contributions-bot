@@ -536,3 +536,4 @@
 [2022-05-12 09:20] Added scheduler logic
 [2022-05-12 10:52] Refactored auth endpoint
 [2022-05-12 12:52] Optimized cache logic
+[2022-05-12 13:45] Cleaned middleware service
