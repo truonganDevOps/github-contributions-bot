@@ -538,3 +538,4 @@
 [2022-05-12 12:52] Optimized cache logic
 [2022-05-12 13:45] Cleaned middleware service
 [2022-05-12 15:24] Reviewed auth logic
+[2022-05-13 09:20] Improved middleware imports
