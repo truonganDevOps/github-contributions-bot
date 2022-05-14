@@ -544,3 +544,4 @@
 [2022-05-13 14:51] Updated cache handler
 [2022-05-13 16:39] Added scheduler imports
 [2022-05-14 09:35] Reviewed logger query
+[2022-05-14 10:21] Reviewed middleware endpoint
