@@ -548,3 +548,4 @@
 [2022-05-14 11:35] Updated payment imports
 [2022-05-14 13:11] Fixed config imports
 [2022-05-14 15:25] Updated config tests
+[2022-05-15 09:45] Fixed user tests
