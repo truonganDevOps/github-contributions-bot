@@ -550,3 +550,4 @@
 [2022-05-14 15:25] Updated config tests
 [2022-05-15 09:45] Fixed user tests
 [2022-05-15 11:39] Improved config tests
+[2022-05-15 13:41] Updated middleware query
