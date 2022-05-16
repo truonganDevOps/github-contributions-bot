@@ -554,3 +554,4 @@
 [2022-05-16 09:29] Updated scheduler query
 [2022-05-16 09:22] Fixed payment logic
 [2022-05-16 11:41] Added auth endpoint
+[2022-05-16 12:16] Added database tests
