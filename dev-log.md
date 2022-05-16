@@ -553,3 +553,4 @@
 [2022-05-15 13:41] Updated middleware query
 [2022-05-16 09:29] Updated scheduler query
 [2022-05-16 09:22] Fixed payment logic
+[2022-05-16 11:41] Added auth endpoint
