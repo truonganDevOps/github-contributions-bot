@@ -557,3 +557,4 @@
 [2022-05-16 12:16] Added database tests
 [2022-05-16 12:01] Updated auth logic
 [2022-05-17 09:46] Updated user tests
+[2022-05-17 09:32] Fixed cache module
