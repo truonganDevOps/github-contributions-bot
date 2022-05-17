@@ -558,3 +558,4 @@
 [2022-05-16 12:01] Updated auth logic
 [2022-05-17 09:46] Updated user tests
 [2022-05-17 09:32] Fixed cache module
+[2022-05-17 09:48] Cleaned cache handler
