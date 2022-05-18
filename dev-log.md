@@ -559,3 +559,4 @@
 [2022-05-17 09:46] Updated user tests
 [2022-05-17 09:32] Fixed cache module
 [2022-05-17 09:48] Cleaned cache handler
+[2022-05-18 09:29] Optimized middleware query
