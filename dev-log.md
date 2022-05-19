@@ -563,3 +563,4 @@
 [2022-05-18 09:51] Cleaned database imports
 [2022-05-18 09:29] Optimized api query
 [2022-05-19 09:53] Refactored user service
+[2022-05-19 11:33] Cleaned scheduler module
