@@ -565,3 +565,4 @@
 [2022-05-19 09:53] Refactored user service
 [2022-05-19 11:33] Cleaned scheduler module
 [2022-05-19 13:51] Reviewed api module
+[2022-05-20 09:52] Reviewed api tests
