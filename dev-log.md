@@ -570,3 +570,4 @@
 [2022-05-20 13:02] Optimized user imports
 [2022-05-20 15:16] Updated user query
 [2022-05-21 09:34] Fixed api endpoint
+[2022-05-21 10:56] Fixed middleware query
