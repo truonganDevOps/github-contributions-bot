@@ -574,3 +574,4 @@
 [2022-05-21 12:50] Fixed cache module
 [2022-05-22 09:01] Cleaned auth service
 [2022-05-22 09:22] Updated middleware endpoint
+[2022-05-22 11:32] Cleaned logger imports
