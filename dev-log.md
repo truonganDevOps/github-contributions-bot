@@ -577,3 +577,4 @@
 [2022-05-22 11:32] Cleaned logger imports
 [2022-05-23 09:28] Improved api tests
 [2022-05-23 11:44] Improved payment module
+[2022-05-23 12:48] Improved auth handler
