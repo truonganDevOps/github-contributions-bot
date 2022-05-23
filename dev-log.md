@@ -575,3 +575,4 @@
 [2022-05-22 09:01] Cleaned auth service
 [2022-05-22 09:22] Updated middleware endpoint
 [2022-05-22 11:32] Cleaned logger imports
+[2022-05-23 09:28] Improved api tests
