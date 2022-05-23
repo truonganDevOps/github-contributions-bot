@@ -578,3 +578,4 @@
 [2022-05-23 09:28] Improved api tests
 [2022-05-23 11:44] Improved payment module
 [2022-05-23 12:48] Improved auth handler
+[2022-05-23 12:23] Improved api service
