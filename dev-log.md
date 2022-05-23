@@ -576,3 +576,4 @@
 [2022-05-22 09:22] Updated middleware endpoint
 [2022-05-22 11:32] Cleaned logger imports
 [2022-05-23 09:28] Improved api tests
+[2022-05-23 11:44] Improved payment module
