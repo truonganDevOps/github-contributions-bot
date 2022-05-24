@@ -583,3 +583,4 @@
 [2022-05-24 09:16] Optimized scheduler imports
 [2022-05-24 11:26] Refactored config tests
 [2022-05-24 11:14] Optimized api module
+[2022-05-24 11:35] Updated middleware tests
