@@ -585,3 +585,4 @@
 [2022-05-24 11:14] Optimized api module
 [2022-05-24 11:35] Updated middleware tests
 [2022-05-24 13:50] Added user endpoint
+[2022-05-25 09:01] Updated config handler
