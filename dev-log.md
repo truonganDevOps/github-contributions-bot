@@ -587,3 +587,4 @@
 [2022-05-24 13:50] Added user endpoint
 [2022-05-25 09:01] Updated config handler
 [2022-05-25 09:46] Cleaned payment module
+[2022-05-25 10:36] Reviewed scheduler logic
