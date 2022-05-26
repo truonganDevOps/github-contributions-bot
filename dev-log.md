@@ -590,3 +590,4 @@
 [2022-05-25 10:36] Reviewed scheduler logic
 [2022-05-25 10:27] Refactored logger handler
 [2022-05-25 11:40] Fixed user endpoint
+[2022-05-26 09:54] Fixed config logic
