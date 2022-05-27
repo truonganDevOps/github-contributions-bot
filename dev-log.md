@@ -596,3 +596,4 @@
 [2022-05-27 09:11] Improved middleware service
 [2022-05-27 10:28] Reviewed scheduler handler
 [2022-05-27 11:25] Reviewed cache tests
+[2022-05-27 11:09] Refactored logger tests
