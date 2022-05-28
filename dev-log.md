@@ -599,3 +599,4 @@
 [2022-05-27 11:09] Refactored logger tests
 [2022-05-28 09:12] Improved database query
 [2022-05-28 09:18] Added database query
+[2022-05-28 10:21] Optimized auth imports
