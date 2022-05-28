@@ -598,3 +598,4 @@
 [2022-05-27 11:25] Reviewed cache tests
 [2022-05-27 11:09] Refactored logger tests
 [2022-05-28 09:12] Improved database query
+[2022-05-28 09:18] Added database query
