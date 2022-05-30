@@ -607,3 +607,4 @@
 [2022-05-30 09:25] Refactored middleware imports
 [2022-05-30 10:36] Fixed logger endpoint
 [2022-05-30 10:30] Optimized api module
+[2022-05-30 10:55] Refactored scheduler service
