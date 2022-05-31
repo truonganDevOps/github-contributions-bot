@@ -608,3 +608,4 @@
 [2022-05-30 10:36] Fixed logger endpoint
 [2022-05-30 10:30] Optimized api module
 [2022-05-30 10:55] Refactored scheduler service
+[2022-05-31 09:47] Cleaned logger service
