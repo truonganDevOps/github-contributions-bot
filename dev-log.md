@@ -613,3 +613,4 @@
 [2022-05-31 11:46] Refactored database imports
 [2022-06-01 09:02] Reviewed user service
 [2022-06-01 11:31] Improved middleware tests
+[2022-06-01 11:59] Reviewed database logic
