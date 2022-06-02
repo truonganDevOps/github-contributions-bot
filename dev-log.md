@@ -615,3 +615,4 @@
 [2022-06-01 11:31] Improved middleware tests
 [2022-06-01 11:59] Reviewed database logic
 [2022-06-01 11:54] Improved user handler
+[2022-06-02 09:07] Cleaned auth endpoint
