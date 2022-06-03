@@ -620,3 +620,4 @@
 [2022-06-02 10:47] Added payment tests
 [2022-06-02 10:22] Optimized payment service
 [2022-06-02 10:38] Improved logger query
+[2022-06-03 09:27] Optimized scheduler handler
