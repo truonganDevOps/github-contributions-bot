@@ -626,3 +626,4 @@
 [2022-06-04 09:07] Cleaned payment endpoint
 [2022-06-04 09:48] Cleaned middleware service
 [2022-06-04 10:09] Updated auth query
+[2022-06-04 11:44] Added user logic
