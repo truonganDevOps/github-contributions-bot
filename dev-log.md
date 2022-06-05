@@ -630,3 +630,4 @@
 [2022-06-04 13:20] Updated api endpoint
 [2022-06-05 09:01] Refactored user logic
 [2022-06-05 10:57] Optimized payment service
+[2022-06-05 11:11] Fixed middleware logic
