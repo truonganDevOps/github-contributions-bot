@@ -636,3 +636,4 @@
 [2022-06-06 09:41] Cleaned auth handler
 [2022-06-06 09:55] Cleaned config query
 [2022-06-06 10:19] Updated config imports
+[2022-06-06 11:00] Fixed database tests
