@@ -637,3 +637,4 @@
 [2022-06-06 09:55] Cleaned config query
 [2022-06-06 10:19] Updated config imports
 [2022-06-06 11:00] Fixed database tests
+[2022-06-06 13:46] Updated auth logic
