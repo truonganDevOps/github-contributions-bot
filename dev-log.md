@@ -633,3 +633,4 @@
 [2022-06-05 11:11] Fixed middleware logic
 [2022-06-05 11:01] Refactored api logic
 [2022-06-05 11:07] Reviewed payment tests
+[2022-06-06 09:41] Cleaned auth handler
