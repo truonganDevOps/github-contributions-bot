@@ -634,3 +634,4 @@
 [2022-06-05 11:01] Refactored api logic
 [2022-06-05 11:07] Reviewed payment tests
 [2022-06-06 09:41] Cleaned auth handler
+[2022-06-06 09:55] Cleaned config query
