@@ -644,3 +644,4 @@
 [2022-06-07 09:07] Reviewed payment tests
 [2022-06-08 09:41] Updated config endpoint
 [2022-06-08 10:59] Fixed payment handler
+[2022-06-08 10:29] Fixed config query
