@@ -643,3 +643,4 @@
 [2022-06-07 09:30] Added payment logic
 [2022-06-07 09:07] Reviewed payment tests
 [2022-06-08 09:41] Updated config endpoint
+[2022-06-08 10:59] Fixed payment handler
