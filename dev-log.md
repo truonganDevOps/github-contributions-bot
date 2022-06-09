@@ -648,3 +648,4 @@
 [2022-06-08 12:07] Reviewed config tests
 [2022-06-09 09:12] Optimized api query
 [2022-06-09 09:01] Added database imports
+[2022-06-09 11:21] Added payment service
