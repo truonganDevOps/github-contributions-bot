@@ -652,3 +652,4 @@
 [2022-06-09 11:04] Added scheduler module
 [2022-06-09 13:07] Cleaned api handler
 [2022-06-10 09:15] Updated auth logic
+[2022-06-10 11:07] Refactored user logic
