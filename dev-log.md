@@ -651,3 +651,4 @@
 [2022-06-09 11:21] Added payment service
 [2022-06-09 11:04] Added scheduler module
 [2022-06-09 13:07] Cleaned api handler
+[2022-06-10 09:15] Updated auth logic
