@@ -655,3 +655,4 @@
 [2022-06-10 11:07] Refactored user logic
 [2022-06-10 11:53] Optimized config imports
 [2022-06-11 09:25] Optimized logger query
+[2022-06-11 10:20] Cleaned middleware service
