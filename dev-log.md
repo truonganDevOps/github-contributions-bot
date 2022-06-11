@@ -654,3 +654,4 @@
 [2022-06-10 09:15] Updated auth logic
 [2022-06-10 11:07] Refactored user logic
 [2022-06-10 11:53] Optimized config imports
+[2022-06-11 09:25] Optimized logger query
