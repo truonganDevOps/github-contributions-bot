@@ -659,3 +659,4 @@
 [2022-06-11 11:06] Refactored scheduler logic
 [2022-06-11 12:47] Improved cache imports
 [2022-06-11 13:11] Added config query
+[2022-06-12 09:14] Cleaned cache query
