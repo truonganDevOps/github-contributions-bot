@@ -661,3 +661,4 @@
 [2022-06-11 13:11] Added config query
 [2022-06-12 09:14] Cleaned cache query
 [2022-06-12 11:23] Added user query
+[2022-06-12 12:43] Added middleware imports
