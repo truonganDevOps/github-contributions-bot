@@ -664,3 +664,4 @@
 [2022-06-12 12:43] Added middleware imports
 [2022-06-12 14:59] Improved api handler
 [2022-06-12 16:45] Fixed api tests
+[2022-06-13 09:23] Refactored user endpoint
