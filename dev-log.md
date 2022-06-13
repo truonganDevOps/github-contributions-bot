@@ -666,3 +666,4 @@
 [2022-06-12 16:45] Fixed api tests
 [2022-06-13 09:23] Refactored user endpoint
 [2022-06-13 10:31] Updated cache tests
+[2022-06-13 11:42] Refactored api handler
