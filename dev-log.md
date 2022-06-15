@@ -675,3 +675,4 @@
 [2022-06-15 09:49] Refactored cache module
 [2022-06-15 10:41] Updated logger logic
 [2022-06-15 12:51] Reviewed database tests
+[2022-06-15 14:23] Improved config logic
