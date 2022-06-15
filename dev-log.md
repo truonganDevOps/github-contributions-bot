@@ -673,3 +673,4 @@
 [2022-06-14 10:48] Updated auth handler
 [2022-06-14 12:39] Updated user service
 [2022-06-15 09:49] Refactored cache module
+[2022-06-15 10:41] Updated logger logic
