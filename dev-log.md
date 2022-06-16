@@ -679,3 +679,4 @@
 [2022-06-16 09:16] Cleaned middleware logic
 [2022-06-16 09:49] Fixed cache query
 [2022-06-16 10:38] Cleaned auth service
+[2022-06-16 12:31] Reviewed config service
