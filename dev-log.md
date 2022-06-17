@@ -683,3 +683,4 @@
 [2022-06-16 13:17] Fixed cache module
 [2022-06-17 09:34] Refactored auth tests
 [2022-06-17 11:21] Improved database endpoint
+[2022-06-17 12:40] Improved api logic
