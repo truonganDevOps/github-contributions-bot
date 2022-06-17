@@ -684,3 +684,4 @@
 [2022-06-17 09:34] Refactored auth tests
 [2022-06-17 11:21] Improved database endpoint
 [2022-06-17 12:40] Improved api logic
+[2022-06-17 13:53] Improved middleware query
