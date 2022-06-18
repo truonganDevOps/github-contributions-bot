@@ -690,3 +690,4 @@
 [2022-06-18 09:35] Reviewed config imports
 [2022-06-18 09:05] Fixed database service
 [2022-06-18 10:47] Cleaned middleware tests
+[2022-06-18 12:33] Cleaned logger query
