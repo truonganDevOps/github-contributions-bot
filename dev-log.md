@@ -702,3 +702,4 @@
 [2022-06-20 11:55] Improved api service
 [2022-06-21 09:56] Fixed middleware handler
 [2022-06-21 11:10] Fixed cache imports
+[2022-06-21 12:46] Optimized logger query
