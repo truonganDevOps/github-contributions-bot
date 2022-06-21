@@ -703,3 +703,4 @@
 [2022-06-21 09:56] Fixed middleware handler
 [2022-06-21 11:10] Fixed cache imports
 [2022-06-21 12:46] Optimized logger query
+[2022-06-21 13:37] Fixed config logic
