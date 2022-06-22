@@ -706,3 +706,4 @@
 [2022-06-21 13:37] Fixed config logic
 [2022-06-21 15:28] Refactored user endpoint
 [2022-06-22 09:24] Cleaned auth endpoint
+[2022-06-22 11:44] Optimized api handler
