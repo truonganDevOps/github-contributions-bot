@@ -705,3 +705,4 @@
 [2022-06-21 12:46] Optimized logger query
 [2022-06-21 13:37] Fixed config logic
 [2022-06-21 15:28] Refactored user endpoint
+[2022-06-22 09:24] Cleaned auth endpoint
