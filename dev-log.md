@@ -708,3 +708,4 @@
 [2022-06-22 09:24] Cleaned auth endpoint
 [2022-06-22 11:44] Optimized api handler
 [2022-06-22 12:54] Added scheduler imports
+[2022-06-23 09:24] Cleaned config handler
