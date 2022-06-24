@@ -713,3 +713,4 @@
 [2022-06-23 10:21] Improved middleware logic
 [2022-06-24 09:19] Optimized middleware service
 [2022-06-24 11:47] Cleaned user logic
+[2022-06-24 11:14] Cleaned payment endpoint
