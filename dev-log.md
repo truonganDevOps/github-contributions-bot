@@ -715,3 +715,4 @@
 [2022-06-24 11:47] Cleaned user logic
 [2022-06-24 11:14] Cleaned payment endpoint
 [2022-06-24 13:02] Updated cache endpoint
+[2022-06-24 15:41] Added logger module
