@@ -711,3 +711,4 @@
 [2022-06-23 09:24] Cleaned config handler
 [2022-06-23 10:45] Improved user service
 [2022-06-23 10:21] Improved middleware logic
+[2022-06-24 09:19] Optimized middleware service
