@@ -716,3 +716,4 @@
 [2022-06-24 11:14] Cleaned payment endpoint
 [2022-06-24 13:02] Updated cache endpoint
 [2022-06-24 15:41] Added logger module
+[2022-06-25 09:50] Cleaned middleware logic
