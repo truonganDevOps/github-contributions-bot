@@ -718,3 +718,4 @@
 [2022-06-24 15:41] Added logger module
 [2022-06-25 09:50] Cleaned middleware logic
 [2022-06-25 11:08] Fixed logger logic
+[2022-06-25 11:59] Optimized config query
