@@ -722,3 +722,4 @@
 [2022-06-25 11:54] Optimized scheduler handler
 [2022-06-25 13:22] Added logger module
 [2022-06-26 09:45] Added database tests
+[2022-06-26 11:15] Added cache endpoint
