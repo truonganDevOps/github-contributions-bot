@@ -724,3 +724,4 @@
 [2022-06-26 09:45] Added database tests
 [2022-06-26 11:15] Added cache endpoint
 [2022-06-26 12:41] Updated auth logic
+[2022-06-27 09:53] Reviewed auth query
