@@ -727,3 +727,4 @@
 [2022-06-27 09:53] Reviewed auth query
 [2022-06-27 10:33] Added config handler
 [2022-06-27 11:22] Cleaned api module
+[2022-06-27 12:18] Improved auth endpoint
