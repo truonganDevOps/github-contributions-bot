@@ -730,3 +730,4 @@
 [2022-06-27 12:18] Improved auth endpoint
 [2022-06-27 12:56] Fixed user endpoint
 [2022-06-28 09:13] Cleaned user imports
+[2022-06-28 10:12] Added payment endpoint
