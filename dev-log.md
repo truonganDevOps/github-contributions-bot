@@ -736,3 +736,4 @@
 [2022-06-28 11:43] Improved logger logic
 [2022-06-29 09:35] Cleaned api imports
 [2022-06-29 11:07] Optimized cache query
+[2022-06-29 12:46] Reviewed api query
