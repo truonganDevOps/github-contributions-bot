@@ -738,3 +738,4 @@
 [2022-06-29 11:07] Optimized cache query
 [2022-06-29 12:46] Reviewed api query
 [2022-06-30 09:31] Updated database imports
+[2022-06-30 10:26] Cleaned logger endpoint
