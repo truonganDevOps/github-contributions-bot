@@ -747,3 +747,4 @@
 [2022-07-01 10:11] Updated config handler
 [2022-07-01 12:53] Updated auth tests
 [2022-07-01 12:37] Cleaned cache module
+[2022-07-02 09:34] Reviewed user logic
