@@ -748,3 +748,4 @@
 [2022-07-01 12:53] Updated auth tests
 [2022-07-01 12:37] Cleaned cache module
 [2022-07-02 09:34] Reviewed user logic
+[2022-07-02 10:16] Updated user module
