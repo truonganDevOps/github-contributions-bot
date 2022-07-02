@@ -750,3 +750,4 @@
 [2022-07-02 09:34] Reviewed user logic
 [2022-07-02 10:16] Updated user module
 [2022-07-02 12:42] Optimized cache module
+[2022-07-02 13:09] Refactored config logic
