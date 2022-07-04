@@ -759,3 +759,4 @@
 [2022-07-04 09:39] Refactored user tests
 [2022-07-04 09:33] Optimized scheduler imports
 [2022-07-04 11:39] Fixed cache endpoint
+[2022-07-04 11:53] Added logger query
