@@ -755,3 +755,4 @@
 [2022-07-03 11:46] Refactored auth tests
 [2022-07-03 13:17] Added cache handler
 [2022-07-03 15:03] Added database module
+[2022-07-04 09:35] Improved logger handler
