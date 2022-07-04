@@ -756,3 +756,4 @@
 [2022-07-03 13:17] Added cache handler
 [2022-07-03 15:03] Added database module
 [2022-07-04 09:35] Improved logger handler
+[2022-07-04 09:39] Refactored user tests
