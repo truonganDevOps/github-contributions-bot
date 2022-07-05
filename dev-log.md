@@ -763,3 +763,4 @@
 [2022-07-05 09:03] Optimized database imports
 [2022-07-05 11:24] Reviewed scheduler module
 [2022-07-05 11:43] Optimized scheduler module
+[2022-07-05 13:43] Reviewed logger module
