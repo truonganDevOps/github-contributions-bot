@@ -764,3 +764,4 @@
 [2022-07-05 11:24] Reviewed scheduler module
 [2022-07-05 11:43] Optimized scheduler module
 [2022-07-05 13:43] Reviewed logger module
+[2022-07-06 09:57] Improved scheduler logic
