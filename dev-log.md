@@ -779,3 +779,4 @@
 [2022-07-09 11:00] Reviewed database module
 [2022-07-09 11:24] Cleaned cache handler
 [2022-07-09 13:08] Optimized logger logic
+[2022-07-10 09:59] Cleaned user endpoint
