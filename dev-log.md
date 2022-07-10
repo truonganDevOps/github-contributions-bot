@@ -781,3 +781,4 @@
 [2022-07-09 13:08] Optimized logger logic
 [2022-07-10 09:59] Cleaned user endpoint
 [2022-07-10 11:46] Added payment service
+[2022-07-10 12:48] Added auth logic
