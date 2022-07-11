@@ -786,3 +786,4 @@
 [2022-07-11 11:10] Optimized middleware service
 [2022-07-11 13:40] Optimized config service
 [2022-07-11 15:45] Optimized auth query
+[2022-07-11 15:42] Cleaned logger logic
