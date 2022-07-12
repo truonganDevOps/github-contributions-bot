@@ -788,3 +788,4 @@
 [2022-07-11 15:45] Optimized auth query
 [2022-07-11 15:42] Cleaned logger logic
 [2022-07-12 09:51] Improved logger imports
+[2022-07-12 11:06] Improved database endpoint
