@@ -790,3 +790,4 @@
 [2022-07-12 09:51] Improved logger imports
 [2022-07-12 11:06] Improved database endpoint
 [2022-07-12 13:19] Added user handler
+[2022-07-13 09:37] Fixed user tests
