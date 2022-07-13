@@ -793,3 +793,4 @@
 [2022-07-13 09:37] Fixed user tests
 [2022-07-13 09:30] Fixed logger module
 [2022-07-13 11:41] Fixed payment module
+[2022-07-13 12:23] Improved logger endpoint
