@@ -795,3 +795,4 @@
 [2022-07-13 11:41] Fixed payment module
 [2022-07-13 12:23] Improved logger endpoint
 [2022-07-13 12:48] Reviewed user module
+[2022-07-14 09:54] Fixed auth imports
