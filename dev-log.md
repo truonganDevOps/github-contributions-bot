@@ -802,3 +802,4 @@
 [2022-07-15 09:00] Cleaned database handler
 [2022-07-15 11:21] Improved middleware logic
 [2022-07-15 13:52] Refactored auth endpoint
+[2022-07-15 14:17] Reviewed api endpoint
