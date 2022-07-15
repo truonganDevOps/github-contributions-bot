@@ -799,3 +799,4 @@
 [2022-07-14 11:51] Reviewed cache service
 [2022-07-14 12:07] Fixed api module
 [2022-07-14 13:16] Reviewed middleware tests
+[2022-07-15 09:00] Cleaned database handler
