@@ -810,3 +810,4 @@
 [2022-07-16 10:08] Added auth logic
 [2022-07-17 09:47] Fixed payment endpoint
 [2022-07-17 10:41] Refactored payment service
+[2022-07-17 11:58] Reviewed user module
