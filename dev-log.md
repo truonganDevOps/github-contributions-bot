@@ -808,3 +808,4 @@
 [2022-07-16 10:33] Optimized middleware endpoint
 [2022-07-16 10:22] Reviewed api tests
 [2022-07-16 10:08] Added auth logic
+[2022-07-17 09:47] Fixed payment endpoint
