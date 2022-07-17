@@ -809,3 +809,4 @@
 [2022-07-16 10:22] Reviewed api tests
 [2022-07-16 10:08] Added auth logic
 [2022-07-17 09:47] Fixed payment endpoint
+[2022-07-17 10:41] Refactored payment service
