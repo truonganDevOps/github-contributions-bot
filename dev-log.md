@@ -813,3 +813,4 @@
 [2022-07-17 11:58] Reviewed user module
 [2022-07-18 09:23] Fixed auth module
 [2022-07-18 11:55] Added database tests
+[2022-07-18 13:26] Updated payment module
