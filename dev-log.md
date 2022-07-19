@@ -820,3 +820,4 @@
 [2022-07-19 11:50] Reviewed database query
 [2022-07-19 13:08] Cleaned api service
 [2022-07-19 13:49] Reviewed user endpoint
+[2022-07-19 14:32] Improved user imports
