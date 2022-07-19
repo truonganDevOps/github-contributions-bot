@@ -818,3 +818,4 @@
 [2022-07-18 14:37] Refactored auth logic
 [2022-07-19 09:30] Cleaned logger service
 [2022-07-19 11:50] Reviewed database query
+[2022-07-19 13:08] Cleaned api service
