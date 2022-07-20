@@ -822,3 +822,4 @@
 [2022-07-19 13:49] Reviewed user endpoint
 [2022-07-19 14:32] Improved user imports
 [2022-07-20 09:11] Improved database query
+[2022-07-20 10:19] Cleaned api module
