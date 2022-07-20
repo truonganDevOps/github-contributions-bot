@@ -823,3 +823,4 @@
 [2022-07-19 14:32] Improved user imports
 [2022-07-20 09:11] Improved database query
 [2022-07-20 10:19] Cleaned api module
+[2022-07-20 11:06] Reviewed middleware tests
