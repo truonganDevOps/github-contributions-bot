@@ -826,3 +826,4 @@
 [2022-07-20 11:06] Reviewed middleware tests
 [2022-07-20 11:51] Improved cache query
 [2022-07-20 12:37] Fixed logger endpoint
+[2022-07-21 09:51] Improved middleware tests
