@@ -830,3 +830,4 @@
 [2022-07-21 11:23] Added api service
 [2022-07-21 13:05] Fixed cache endpoint
 [2022-07-21 14:17] Improved database imports
+[2022-07-22 09:49] Fixed database handler
