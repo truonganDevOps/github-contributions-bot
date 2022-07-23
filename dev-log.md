@@ -835,3 +835,4 @@
 [2022-07-22 11:23] Updated api imports
 [2022-07-23 09:11] Updated cache logic
 [2022-07-23 09:26] Reviewed logger handler
+[2022-07-23 09:59] Fixed payment service
