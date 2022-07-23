@@ -833,3 +833,4 @@
 [2022-07-22 09:49] Fixed database handler
 [2022-07-22 10:20] Optimized payment service
 [2022-07-22 11:23] Updated api imports
+[2022-07-23 09:11] Updated cache logic
