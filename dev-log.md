@@ -839,3 +839,4 @@
 [2022-07-23 09:53] Improved payment logic
 [2022-07-23 10:41] Updated payment endpoint
 [2022-07-24 09:47] Refactored config logic
+[2022-07-24 09:11] Updated payment endpoint
