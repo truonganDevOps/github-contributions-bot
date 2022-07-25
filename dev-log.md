@@ -843,3 +843,4 @@
 [2022-07-24 09:07] Updated database logic
 [2022-07-24 11:35] Fixed logger endpoint
 [2022-07-25 09:08] Added auth tests
+[2022-07-25 09:58] Cleaned middleware imports
