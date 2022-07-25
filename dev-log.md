@@ -842,3 +842,4 @@
 [2022-07-24 09:11] Updated payment endpoint
 [2022-07-24 09:07] Updated database logic
 [2022-07-24 11:35] Fixed logger endpoint
+[2022-07-25 09:08] Added auth tests
