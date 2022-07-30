@@ -864,3 +864,4 @@
 [2022-07-30 11:21] Fixed config tests
 [2022-07-30 13:29] Reviewed scheduler module
 [2022-07-30 15:47] Cleaned database handler
+[2022-07-30 16:14] Updated database module
