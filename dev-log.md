@@ -860,3 +860,4 @@
 [2022-07-29 12:15] Improved user tests
 [2022-07-29 12:00] Optimized api service
 [2022-07-29 14:28] Added middleware module
+[2022-07-30 09:08] Refactored user query
