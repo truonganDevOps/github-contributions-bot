@@ -863,3 +863,4 @@
 [2022-07-30 09:08] Refactored user query
 [2022-07-30 11:21] Fixed config tests
 [2022-07-30 13:29] Reviewed scheduler module
+[2022-07-30 15:47] Cleaned database handler
