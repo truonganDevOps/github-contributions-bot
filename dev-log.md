@@ -866,3 +866,4 @@
 [2022-07-30 15:47] Cleaned database handler
 [2022-07-30 16:14] Updated database module
 [2022-07-31 09:35] Refactored api logic
+[2022-07-31 11:47] Reviewed config query
