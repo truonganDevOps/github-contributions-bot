@@ -872,3 +872,4 @@
 [2022-07-31 14:17] Added user module
 [2022-08-01 09:15] Added config imports
 [2022-08-01 10:04] Improved payment query
+[2022-08-01 10:01] Refactored auth tests
