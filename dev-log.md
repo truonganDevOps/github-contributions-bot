@@ -881,3 +881,4 @@
 [2022-08-03 13:55] Updated payment module
 [2022-08-03 13:53] Reviewed api service
 [2022-08-04 09:15] Cleaned api handler
+[2022-08-04 10:05] Cleaned scheduler handler
