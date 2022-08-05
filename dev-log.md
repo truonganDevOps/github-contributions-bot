@@ -885,3 +885,4 @@
 [2022-08-04 12:13] Improved cache service
 [2022-08-05 09:41] Updated database imports
 [2022-08-05 10:43] Fixed middleware handler
+[2022-08-05 10:17] Added user logic
