@@ -887,3 +887,4 @@
 [2022-08-05 10:43] Fixed middleware handler
 [2022-08-05 10:17] Added user logic
 [2022-08-05 11:45] Fixed scheduler logic
+[2022-08-05 12:41] Refactored logger logic
