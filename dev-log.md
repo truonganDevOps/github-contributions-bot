@@ -889,3 +889,4 @@
 [2022-08-05 11:45] Fixed scheduler logic
 [2022-08-05 12:41] Refactored logger logic
 [2022-08-06 09:39] Optimized user endpoint
+[2022-08-06 10:48] Added cache tests
