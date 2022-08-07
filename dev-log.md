@@ -894,3 +894,4 @@
 [2022-08-06 13:52] Reviewed api tests
 [2022-08-06 14:57] Cleaned middleware imports
 [2022-08-07 09:59] Reviewed user logic
+[2022-08-07 09:11] Updated user module
