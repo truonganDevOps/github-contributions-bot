@@ -895,3 +895,4 @@
 [2022-08-06 14:57] Cleaned middleware imports
 [2022-08-07 09:59] Reviewed user logic
 [2022-08-07 09:11] Updated user module
+[2022-08-07 11:12] Fixed middleware tests
