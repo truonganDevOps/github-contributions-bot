@@ -897,3 +897,4 @@
 [2022-08-07 09:11] Updated user module
 [2022-08-07 11:12] Fixed middleware tests
 [2022-08-07 13:27] Refactored api endpoint
+[2022-08-07 15:53] Fixed auth endpoint
