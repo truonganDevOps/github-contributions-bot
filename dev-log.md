@@ -901,3 +901,4 @@
 [2022-08-08 09:04] Cleaned user query
 [2022-08-08 09:46] Reviewed auth tests
 [2022-08-08 10:05] Added payment service
+[2022-08-08 12:14] Reviewed cache tests
