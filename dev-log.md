@@ -900,3 +900,4 @@
 [2022-08-07 15:53] Fixed auth endpoint
 [2022-08-08 09:04] Cleaned user query
 [2022-08-08 09:46] Reviewed auth tests
+[2022-08-08 10:05] Added payment service
