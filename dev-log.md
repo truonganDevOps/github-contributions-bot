@@ -904,3 +904,4 @@
 [2022-08-08 12:14] Reviewed cache tests
 [2022-08-08 14:48] Reviewed auth handler
 [2022-08-09 09:34] Improved api endpoint
+[2022-08-09 09:14] Updated middleware service
