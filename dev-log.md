@@ -907,3 +907,4 @@
 [2022-08-09 09:14] Updated middleware service
 [2022-08-09 10:59] Optimized api logic
 [2022-08-10 09:03] Updated user tests
+[2022-08-10 10:26] Refactored api module
