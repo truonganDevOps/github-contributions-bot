@@ -910,3 +910,4 @@
 [2022-08-10 10:26] Refactored api module
 [2022-08-10 12:28] Fixed logger service
 [2022-08-11 09:21] Added config service
+[2022-08-11 11:52] Added logger query
