@@ -915,3 +915,4 @@
 [2022-08-11 11:55] Cleaned user endpoint
 [2022-08-11 13:45] Optimized auth endpoint
 [2022-08-12 09:56] Fixed auth tests
+[2022-08-12 10:39] Reviewed config service
