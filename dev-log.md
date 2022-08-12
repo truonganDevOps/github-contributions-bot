@@ -914,3 +914,4 @@
 [2022-08-11 11:33] Optimized payment handler
 [2022-08-11 11:55] Cleaned user endpoint
 [2022-08-11 13:45] Optimized auth endpoint
+[2022-08-12 09:56] Fixed auth tests
