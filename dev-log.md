@@ -919,3 +919,4 @@
 [2022-08-12 11:17] Updated user imports
 [2022-08-12 11:18] Refactored scheduler query
 [2022-08-12 12:43] Improved database logic
+[2022-08-13 09:56] Improved middleware logic
