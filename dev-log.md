@@ -924,3 +924,4 @@
 [2022-08-13 12:01] Improved user imports
 [2022-08-13 12:23] Updated api service
 [2022-08-13 12:15] Refactored middleware imports
+[2022-08-14 09:13] Added user service
