@@ -928,3 +928,4 @@
 [2022-08-14 11:22] Reviewed logger query
 [2022-08-14 11:48] Updated middleware service
 [2022-08-15 09:51] Fixed config imports
+[2022-08-15 11:52] Refactored api handler
