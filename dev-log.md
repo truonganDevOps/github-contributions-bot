@@ -932,3 +932,4 @@
 [2022-08-15 11:07] Updated user query
 [2022-08-15 12:03] Cleaned config tests
 [2022-08-15 13:15] Reviewed database service
+[2022-08-16 09:05] Cleaned logger handler
