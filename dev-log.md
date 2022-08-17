@@ -940,3 +940,4 @@
 [2022-08-17 09:52] Cleaned api module
 [2022-08-17 09:52] Added api endpoint
 [2022-08-17 11:33] Fixed logger tests
+[2022-08-17 11:42] Refactored scheduler handler
