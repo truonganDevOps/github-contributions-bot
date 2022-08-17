@@ -938,3 +938,4 @@
 [2022-08-16 14:11] Cleaned middleware handler
 [2022-08-16 14:51] Refactored database imports
 [2022-08-17 09:52] Cleaned api module
+[2022-08-17 09:52] Added api endpoint
