@@ -941,3 +941,4 @@
 [2022-08-17 09:52] Added api endpoint
 [2022-08-17 11:33] Fixed logger tests
 [2022-08-17 11:42] Refactored scheduler handler
+[2022-08-18 09:56] Fixed api module
