@@ -944,3 +944,4 @@
 [2022-08-18 09:56] Fixed api module
 [2022-08-18 11:21] Optimized config service
 [2022-08-18 11:16] Fixed scheduler handler
+[2022-08-18 13:49] Reviewed config logic
