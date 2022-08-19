@@ -945,3 +945,4 @@
 [2022-08-18 11:21] Optimized config service
 [2022-08-18 11:16] Fixed scheduler handler
 [2022-08-18 13:49] Reviewed config logic
+[2022-08-19 09:53] Updated middleware endpoint
