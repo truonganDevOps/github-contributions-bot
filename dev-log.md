@@ -947,3 +947,4 @@
 [2022-08-18 13:49] Reviewed config logic
 [2022-08-19 09:53] Updated middleware endpoint
 [2022-08-19 10:41] Improved config imports
+[2022-08-19 12:24] Reviewed cache query
