@@ -956,3 +956,4 @@
 [2022-08-21 09:51] Reviewed logger imports
 [2022-08-21 09:35] Improved logger module
 [2022-08-21 09:22] Refactored database service
+[2022-08-21 10:25] Refactored auth module
