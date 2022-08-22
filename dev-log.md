@@ -958,3 +958,4 @@
 [2022-08-21 09:22] Refactored database service
 [2022-08-21 10:25] Refactored auth module
 [2022-08-22 09:17] Updated logger imports
+[2022-08-22 11:21] Added auth endpoint
