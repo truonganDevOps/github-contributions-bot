@@ -959,3 +959,4 @@
 [2022-08-21 10:25] Refactored auth module
 [2022-08-22 09:17] Updated logger imports
 [2022-08-22 11:21] Added auth endpoint
+[2022-08-22 12:09] Cleaned scheduler service
