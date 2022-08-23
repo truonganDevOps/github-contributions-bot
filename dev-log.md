@@ -961,3 +961,4 @@
 [2022-08-22 11:21] Added auth endpoint
 [2022-08-22 12:09] Cleaned scheduler service
 [2022-08-22 14:21] Fixed database logic
+[2022-08-23 09:10] Improved cache tests
