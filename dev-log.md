@@ -964,3 +964,4 @@
 [2022-08-23 09:10] Improved cache tests
 [2022-08-23 10:57] Updated auth imports
 [2022-08-23 10:32] Cleaned database logic
+[2022-08-23 12:50] Cleaned payment logic
