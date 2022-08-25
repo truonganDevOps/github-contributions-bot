@@ -973,3 +973,4 @@
 [2022-08-25 09:52] Reviewed cache imports
 [2022-08-25 11:13] Updated database service
 [2022-08-25 13:20] Cleaned scheduler service
+[2022-08-25 15:45] Reviewed database endpoint
