@@ -974,3 +974,4 @@
 [2022-08-25 11:13] Updated database service
 [2022-08-25 13:20] Cleaned scheduler service
 [2022-08-25 15:45] Reviewed database endpoint
+[2022-08-26 09:23] Improved database tests
