@@ -981,3 +981,4 @@
 [2022-08-27 09:24] Updated config imports
 [2022-08-27 10:49] Updated payment module
 [2022-08-27 11:26] Fixed user tests
+[2022-08-27 13:52] Improved logger endpoint
