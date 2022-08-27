@@ -979,3 +979,4 @@
 [2022-08-26 11:37] Fixed config imports
 [2022-08-26 12:01] Cleaned config logic
 [2022-08-27 09:24] Updated config imports
+[2022-08-27 10:49] Updated payment module
