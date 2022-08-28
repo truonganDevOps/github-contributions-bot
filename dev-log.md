@@ -985,3 +985,4 @@
 [2022-08-28 09:18] Fixed config imports
 [2022-08-28 09:02] Fixed user handler
 [2022-08-28 11:29] Reviewed payment endpoint
+[2022-08-28 13:58] Updated payment module
