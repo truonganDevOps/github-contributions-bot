@@ -984,3 +984,4 @@
 [2022-08-27 13:52] Improved logger endpoint
 [2022-08-28 09:18] Fixed config imports
 [2022-08-28 09:02] Fixed user handler
+[2022-08-28 11:29] Reviewed payment endpoint
