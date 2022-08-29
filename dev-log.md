@@ -987,3 +987,4 @@
 [2022-08-28 11:29] Reviewed payment endpoint
 [2022-08-28 13:58] Updated payment module
 [2022-08-28 15:46] Updated database service
+[2022-08-29 09:29] Added middleware logic
