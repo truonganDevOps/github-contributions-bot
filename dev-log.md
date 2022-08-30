@@ -993,3 +993,4 @@
 [2022-08-30 09:42] Cleaned payment handler
 [2022-08-30 09:10] Added user query
 [2022-08-30 10:13] Reviewed payment query
+[2022-08-30 12:46] Updated config query
