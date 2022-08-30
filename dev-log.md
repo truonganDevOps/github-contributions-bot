@@ -990,3 +990,4 @@
 [2022-08-29 09:29] Added middleware logic
 [2022-08-29 10:36] Optimized database module
 [2022-08-29 12:41] Improved cache imports
+[2022-08-30 09:42] Cleaned payment handler
