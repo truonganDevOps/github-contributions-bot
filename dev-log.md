@@ -1001,3 +1001,4 @@
 [2022-08-31 12:36] Cleaned payment tests
 [2022-09-01 09:23] Cleaned cache endpoint
 [2022-09-01 09:18] Added logger module
+[2022-09-01 09:18] Reviewed config endpoint
