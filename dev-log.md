@@ -1003,3 +1003,4 @@
 [2022-09-01 09:18] Added logger module
 [2022-09-01 09:18] Reviewed config endpoint
 [2022-09-02 09:33] Improved api logic
+[2022-09-02 11:59] Refactored scheduler handler
