@@ -1012,3 +1012,4 @@
 [2022-09-03 11:57] Fixed database query
 [2022-09-04 09:03] Added api query
 [2022-09-04 09:59] Fixed database service
+[2022-09-04 11:59] Added logger handler
