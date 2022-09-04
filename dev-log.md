@@ -1011,3 +1011,4 @@
 [2022-09-03 11:43] Improved user service
 [2022-09-03 11:57] Fixed database query
 [2022-09-04 09:03] Added api query
+[2022-09-04 09:59] Fixed database service
