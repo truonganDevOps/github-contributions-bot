@@ -1014,3 +1014,4 @@
 [2022-09-04 09:59] Fixed database service
 [2022-09-04 11:59] Added logger handler
 [2022-09-04 13:03] Added auth logic
+[2022-09-05 09:33] Cleaned api endpoint
