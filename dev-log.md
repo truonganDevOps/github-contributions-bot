@@ -1016,3 +1016,4 @@
 [2022-09-04 13:03] Added auth logic
 [2022-09-05 09:33] Cleaned api endpoint
 [2022-09-05 10:20] Improved payment handler
+[2022-09-05 11:40] Updated user service
