@@ -1018,3 +1018,4 @@
 [2022-09-05 10:20] Improved payment handler
 [2022-09-05 11:40] Updated user service
 [2022-09-05 13:55] Refactored api imports
+[2022-09-06 09:44] Cleaned database module
