@@ -1020,3 +1020,4 @@
 [2022-09-05 13:55] Refactored api imports
 [2022-09-06 09:44] Cleaned database module
 [2022-09-06 11:26] Improved scheduler handler
+[2022-09-06 13:33] Refactored scheduler tests
