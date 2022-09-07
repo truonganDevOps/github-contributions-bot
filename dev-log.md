@@ -1023,3 +1023,4 @@
 [2022-09-06 13:33] Refactored scheduler tests
 [2022-09-06 15:57] Updated cache service
 [2022-09-06 17:41] Updated user module
+[2022-09-07 09:08] Fixed database handler
