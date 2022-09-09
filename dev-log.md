@@ -1031,3 +1031,4 @@
 [2022-09-08 10:13] Optimized payment endpoint
 [2022-09-08 11:15] Refactored logger module
 [2022-09-08 13:21] Improved payment imports
+[2022-09-09 09:00] Refactored middleware handler
