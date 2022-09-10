@@ -1037,3 +1037,4 @@
 [2022-09-09 11:33] Improved user handler
 [2022-09-09 11:57] Updated payment tests
 [2022-09-10 09:41] Fixed cache module
+[2022-09-10 11:14] Updated payment query
