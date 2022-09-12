@@ -1043,3 +1043,4 @@
 [2022-09-11 09:34] Reviewed auth tests
 [2022-09-11 11:52] Reviewed user tests
 [2022-09-11 12:44] Updated database imports
+[2022-09-12 09:59] Reviewed auth tests
