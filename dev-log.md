@@ -1046,3 +1046,4 @@
 [2022-09-12 09:59] Reviewed auth tests
 [2022-09-12 11:17] Reviewed payment service
 [2022-09-12 11:55] Cleaned database service
+[2022-09-12 13:12] Improved logger service
