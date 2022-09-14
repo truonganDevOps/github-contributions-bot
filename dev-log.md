@@ -1051,3 +1051,4 @@
 [2022-09-13 10:21] Fixed api handler
 [2022-09-13 10:14] Optimized logger module
 [2022-09-13 12:10] Improved scheduler module
+[2022-09-14 09:04] Cleaned payment handler
