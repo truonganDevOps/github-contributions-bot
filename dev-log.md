@@ -1059,3 +1059,4 @@
 [2022-09-15 09:35] Optimized scheduler imports
 [2022-09-15 09:07] Optimized cache tests
 [2022-09-15 10:18] Cleaned auth endpoint
+[2022-09-15 10:01] Fixed config query
