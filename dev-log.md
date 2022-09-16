@@ -1063,3 +1063,4 @@
 [2022-09-15 10:10] Reviewed auth module
 [2022-09-16 09:40] Refactored scheduler handler
 [2022-09-16 09:21] Improved payment module
+[2022-09-16 11:10] Added user handler
