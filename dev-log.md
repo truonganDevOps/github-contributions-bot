@@ -1061,3 +1061,4 @@
 [2022-09-15 10:18] Cleaned auth endpoint
 [2022-09-15 10:01] Fixed config query
 [2022-09-15 10:10] Reviewed auth module
+[2022-09-16 09:40] Refactored scheduler handler
