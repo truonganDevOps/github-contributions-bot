@@ -1066,3 +1066,4 @@
 [2022-09-16 11:10] Added user handler
 [2022-09-16 12:25] Improved database service
 [2022-09-17 09:27] Updated payment service
+[2022-09-17 10:42] Fixed database module
