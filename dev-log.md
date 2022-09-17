@@ -1067,3 +1067,4 @@
 [2022-09-16 12:25] Improved database service
 [2022-09-17 09:27] Updated payment service
 [2022-09-17 10:42] Fixed database module
+[2022-09-17 12:40] Improved logger logic
