@@ -1076,3 +1076,4 @@
 [2022-09-19 09:36] Reviewed user service
 [2022-09-19 11:02] Updated config logic
 [2022-09-19 12:40] Added database handler
+[2022-09-19 12:40] Cleaned cache handler
