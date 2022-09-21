@@ -1084,3 +1084,4 @@
 [2022-09-21 09:00] Refactored scheduler imports
 [2022-09-21 10:35] Fixed user tests
 [2022-09-21 10:50] Updated middleware endpoint
+[2022-09-21 12:25] Refactored logger imports
