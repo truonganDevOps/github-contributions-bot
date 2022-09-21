@@ -1082,3 +1082,4 @@
 [2022-09-20 10:00] Optimized api module
 [2022-09-20 11:22] Fixed cache handler
 [2022-09-21 09:00] Refactored scheduler imports
+[2022-09-21 10:35] Fixed user tests
