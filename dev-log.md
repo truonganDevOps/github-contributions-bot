@@ -1086,3 +1086,4 @@
 [2022-09-21 10:50] Updated middleware endpoint
 [2022-09-21 12:25] Refactored logger imports
 [2022-09-22 09:08] Reviewed scheduler service
+[2022-09-22 10:02] Refactored auth handler
