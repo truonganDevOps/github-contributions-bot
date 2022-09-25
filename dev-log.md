@@ -1097,3 +1097,4 @@
 [2022-09-24 09:56] Refactored cache tests
 [2022-09-25 09:47] Cleaned auth imports
 [2022-09-25 10:26] Reviewed auth tests
+[2022-09-25 12:23] Improved middleware tests
