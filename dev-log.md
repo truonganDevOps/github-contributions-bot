@@ -1099,3 +1099,4 @@
 [2022-09-25 10:26] Reviewed auth tests
 [2022-09-25 12:23] Improved middleware tests
 [2022-09-25 12:40] Cleaned api module
+[2022-09-25 12:41] Improved database module
