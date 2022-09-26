@@ -1102,3 +1102,4 @@
 [2022-09-25 12:41] Improved database module
 [2022-09-26 09:18] Added logger handler
 [2022-09-26 09:56] Improved auth imports
+[2022-09-26 09:26] Added logger service
