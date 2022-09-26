@@ -1100,3 +1100,4 @@
 [2022-09-25 12:23] Improved middleware tests
 [2022-09-25 12:40] Cleaned api module
 [2022-09-25 12:41] Improved database module
+[2022-09-26 09:18] Added logger handler
