@@ -1104,3 +1104,4 @@
 [2022-09-26 09:56] Improved auth imports
 [2022-09-26 09:26] Added logger service
 [2022-09-26 09:58] Cleaned api handler
+[2022-09-27 09:27] Added payment endpoint
