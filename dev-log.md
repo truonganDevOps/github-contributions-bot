@@ -1107,3 +1107,4 @@
 [2022-09-27 09:27] Added payment endpoint
 [2022-09-27 11:12] Fixed api imports
 [2022-09-27 12:02] Fixed logger handler
+[2022-09-27 12:31] Updated api handler
