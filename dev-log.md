@@ -1112,3 +1112,4 @@
 [2022-09-28 11:24] Cleaned config imports
 [2022-09-28 13:00] Cleaned auth imports
 [2022-09-28 13:13] Updated auth logic
+[2022-09-29 09:16] Cleaned user module
