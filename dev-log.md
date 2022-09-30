@@ -1115,3 +1115,4 @@
 [2022-09-29 09:16] Cleaned user module
 [2022-09-29 10:05] Improved logger service
 [2022-09-29 12:15] Added payment tests
+[2022-09-30 09:11] Fixed cache tests
