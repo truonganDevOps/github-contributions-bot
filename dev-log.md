@@ -1116,3 +1116,4 @@
 [2022-09-29 10:05] Improved logger service
 [2022-09-29 12:15] Added payment tests
 [2022-09-30 09:11] Fixed cache tests
+[2022-09-30 10:35] Added auth handler
