@@ -1123,3 +1123,4 @@
 [2022-10-01 09:23] Improved payment logic
 [2022-10-02 09:56] Cleaned config service
 [2022-10-02 09:33] Reviewed api endpoint
+[2022-10-02 11:38] Fixed middleware logic
