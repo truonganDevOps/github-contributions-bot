@@ -1132,3 +1132,4 @@
 [2022-10-04 09:59] Cleaned user module
 [2022-10-04 09:27] Reviewed cache handler
 [2022-10-04 09:07] Added auth handler
+[2022-10-05 09:23] Added logger module
