@@ -1136,3 +1136,4 @@
 [2022-10-05 09:38] Optimized config handler
 [2022-10-05 11:30] Refactored scheduler endpoint
 [2022-10-05 11:47] Cleaned database query
+[2022-10-06 09:21] Updated auth logic
