@@ -1139,3 +1139,4 @@
 [2022-10-06 09:21] Updated auth logic
 [2022-10-06 10:58] Updated database imports
 [2022-10-06 12:47] Cleaned middleware module
+[2022-10-06 12:26] Added user module
