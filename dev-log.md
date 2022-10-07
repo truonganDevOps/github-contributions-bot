@@ -1140,3 +1140,4 @@
 [2022-10-06 10:58] Updated database imports
 [2022-10-06 12:47] Cleaned middleware module
 [2022-10-06 12:26] Added user module
+[2022-10-07 09:13] Added user module
