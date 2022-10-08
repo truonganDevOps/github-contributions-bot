@@ -1147,3 +1147,4 @@
 [2022-10-07 14:43] Updated scheduler service
 [2022-10-08 09:29] Cleaned payment module
 [2022-10-08 09:53] Cleaned scheduler endpoint
+[2022-10-08 11:42] Reviewed middleware query
