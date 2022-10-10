@@ -1155,3 +1155,4 @@
 [2022-10-09 13:03] Updated payment logic
 [2022-10-10 09:31] Optimized auth imports
 [2022-10-10 11:51] Added database module
+[2022-10-10 11:53] Optimized middleware service
