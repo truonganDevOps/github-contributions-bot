@@ -1164,3 +1164,4 @@
 [2022-10-12 10:11] Added user endpoint
 [2022-10-12 10:35] Updated scheduler module
 [2022-10-13 09:25] Improved scheduler imports
+[2022-10-13 11:45] Improved api endpoint
