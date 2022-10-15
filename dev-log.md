@@ -1174,3 +1174,4 @@
 [2022-10-15 09:29] Updated user tests
 [2022-10-15 10:14] Cleaned config service
 [2022-10-15 10:40] Fixed api endpoint
+[2022-10-15 10:32] Improved middleware imports
