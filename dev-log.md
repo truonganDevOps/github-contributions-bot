@@ -1176,3 +1176,4 @@
 [2022-10-15 10:40] Fixed api endpoint
 [2022-10-15 10:32] Improved middleware imports
 [2022-10-16 09:31] Refactored database query
+[2022-10-16 11:57] Refactored logger tests
