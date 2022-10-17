@@ -1182,3 +1182,4 @@
 [2022-10-16 14:17] Refactored scheduler query
 [2022-10-17 09:42] Added middleware tests
 [2022-10-17 11:45] Fixed api module
+[2022-10-17 12:05] Fixed api tests
