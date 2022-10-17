@@ -1181,3 +1181,4 @@
 [2022-10-16 14:32] Cleaned auth service
 [2022-10-16 14:17] Refactored scheduler query
 [2022-10-17 09:42] Added middleware tests
+[2022-10-17 11:45] Fixed api module
