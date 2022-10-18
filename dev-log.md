@@ -1184,3 +1184,4 @@
 [2022-10-17 11:45] Fixed api module
 [2022-10-17 12:05] Fixed api tests
 [2022-10-18 09:57] Refactored user endpoint
+[2022-10-18 10:10] Cleaned scheduler endpoint
