@@ -1190,3 +1190,4 @@
 [2022-10-19 09:03] Refactored logger tests
 [2022-10-19 09:47] Reviewed auth imports
 [2022-10-19 09:24] Fixed logger imports
+[2022-10-20 09:56] Optimized config logic
