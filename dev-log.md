@@ -1194,3 +1194,4 @@
 [2022-10-20 09:37] Added user imports
 [2022-10-20 09:03] Fixed auth tests
 [2022-10-21 09:20] Improved auth logic
+[2022-10-21 09:59] Improved user endpoint
