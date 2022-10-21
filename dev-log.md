@@ -1196,3 +1196,4 @@
 [2022-10-21 09:20] Improved auth logic
 [2022-10-21 09:59] Improved user endpoint
 [2022-10-21 11:16] Improved api module
+[2022-10-21 13:12] Refactored cache tests
