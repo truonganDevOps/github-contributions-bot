@@ -1201,3 +1201,4 @@
 [2022-10-22 10:29] Updated cache query
 [2022-10-22 12:06] Added scheduler service
 [2022-10-22 13:17] Improved database endpoint
+[2022-10-22 15:31] Improved middleware logic
