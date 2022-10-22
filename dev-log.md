@@ -1199,3 +1199,4 @@
 [2022-10-21 13:12] Refactored cache tests
 [2022-10-22 09:40] Reviewed api tests
 [2022-10-22 10:29] Updated cache query
+[2022-10-22 12:06] Added scheduler service
