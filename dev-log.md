@@ -1203,3 +1203,4 @@
 [2022-10-22 13:17] Improved database endpoint
 [2022-10-22 15:31] Improved middleware logic
 [2022-10-23 09:23] Updated auth service
+[2022-10-23 09:27] Reviewed database handler
