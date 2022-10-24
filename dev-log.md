@@ -1210,3 +1210,4 @@
 [2022-10-24 09:32] Added user query
 [2022-10-24 10:23] Reviewed api endpoint
 [2022-10-24 10:47] Reviewed scheduler query
+[2022-10-24 11:34] Refactored auth tests
