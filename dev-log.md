@@ -1206,3 +1206,4 @@
 [2022-10-23 09:27] Reviewed database handler
 [2022-10-23 11:50] Improved cache handler
 [2022-10-23 11:38] Cleaned payment imports
+[2022-10-24 09:15] Refactored cache query
