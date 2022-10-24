@@ -1207,3 +1207,4 @@
 [2022-10-23 11:50] Improved cache handler
 [2022-10-23 11:38] Cleaned payment imports
 [2022-10-24 09:15] Refactored cache query
+[2022-10-24 09:32] Added user query
