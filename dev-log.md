@@ -1213,3 +1213,4 @@
 [2022-10-24 11:34] Refactored auth tests
 [2022-10-25 09:48] Added scheduler tests
 [2022-10-25 11:25] Refactored auth logic
+[2022-10-25 13:58] Fixed middleware module
