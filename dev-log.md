@@ -1221,3 +1221,4 @@
 [2022-10-26 11:49] Cleaned database query
 [2022-10-27 09:14] Fixed cache handler
 [2022-10-27 10:02] Fixed user handler
+[2022-10-27 11:19] Reviewed payment imports
