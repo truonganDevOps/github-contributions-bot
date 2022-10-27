@@ -1219,3 +1219,4 @@
 [2022-10-26 09:23] Improved scheduler endpoint
 [2022-10-26 10:02] Refactored logger endpoint
 [2022-10-26 11:49] Cleaned database query
+[2022-10-27 09:14] Fixed cache handler
