@@ -1226,3 +1226,4 @@
 [2022-10-28 09:27] Fixed scheduler handler
 [2022-10-28 09:02] Added config tests
 [2022-10-28 11:54] Cleaned scheduler service
+[2022-10-28 12:51] Refactored auth handler
