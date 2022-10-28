@@ -1225,3 +1225,4 @@
 [2022-10-27 11:03] Optimized cache imports
 [2022-10-28 09:27] Fixed scheduler handler
 [2022-10-28 09:02] Added config tests
+[2022-10-28 11:54] Cleaned scheduler service
