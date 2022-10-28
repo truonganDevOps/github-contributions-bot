@@ -1223,3 +1223,4 @@
 [2022-10-27 10:02] Fixed user handler
 [2022-10-27 11:19] Reviewed payment imports
 [2022-10-27 11:03] Optimized cache imports
+[2022-10-28 09:27] Fixed scheduler handler
