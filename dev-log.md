@@ -1239,3 +1239,4 @@
 [2022-10-31 09:23] Cleaned config tests
 [2022-10-31 09:31] Optimized logger tests
 [2022-10-31 09:06] Refactored config module
+[2022-10-31 10:59] Reviewed api endpoint
