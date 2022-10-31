@@ -1238,3 +1238,4 @@
 [2022-10-30 12:13] Optimized user logic
 [2022-10-31 09:23] Cleaned config tests
 [2022-10-31 09:31] Optimized logger tests
+[2022-10-31 09:06] Refactored config module
