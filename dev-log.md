@@ -1251,3 +1251,4 @@
 [2022-11-02 11:08] Reviewed auth imports
 [2022-11-02 11:02] Updated user service
 [2022-11-03 09:54] Reviewed user imports
+[2022-11-03 11:08] Reviewed middleware module
