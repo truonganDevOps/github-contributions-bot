@@ -1257,3 +1257,4 @@
 [2022-11-04 09:55] Cleaned config imports
 [2022-11-04 10:58] Refactored auth endpoint
 [2022-11-04 12:18] Updated cache endpoint
+[2022-11-05 09:54] Refactored auth module
