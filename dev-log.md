@@ -1264,3 +1264,4 @@
 [2022-11-06 11:57] Refactored user handler
 [2022-11-06 11:58] Fixed payment tests
 [2022-11-07 09:05] Updated middleware query
+[2022-11-07 11:17] Improved logger module
