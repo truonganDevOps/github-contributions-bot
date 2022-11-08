@@ -1268,3 +1268,4 @@
 [2022-11-07 12:51] Added middleware module
 [2022-11-07 13:44] Cleaned database logic
 [2022-11-07 14:29] Cleaned auth logic
+[2022-11-08 09:22] Updated auth handler
