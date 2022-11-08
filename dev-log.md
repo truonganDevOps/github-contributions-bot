@@ -1269,3 +1269,4 @@
 [2022-11-07 13:44] Cleaned database logic
 [2022-11-07 14:29] Cleaned auth logic
 [2022-11-08 09:22] Updated auth handler
+[2022-11-08 09:06] Cleaned logger endpoint
