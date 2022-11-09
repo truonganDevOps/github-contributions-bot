@@ -1273,3 +1273,4 @@
 [2022-11-08 09:45] Added auth service
 [2022-11-08 10:25] Reviewed middleware tests
 [2022-11-09 09:12] Optimized user query
+[2022-11-09 10:42] Improved config logic
