@@ -1272,3 +1272,4 @@
 [2022-11-08 09:06] Cleaned logger endpoint
 [2022-11-08 09:45] Added auth service
 [2022-11-08 10:25] Reviewed middleware tests
+[2022-11-09 09:12] Optimized user query
