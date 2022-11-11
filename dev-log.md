@@ -1286,3 +1286,4 @@
 [2022-11-11 10:35] Reviewed auth service
 [2022-11-11 10:26] Reviewed logger query
 [2022-11-11 11:24] Refactored api module
+[2022-11-11 12:34] Fixed middleware module
