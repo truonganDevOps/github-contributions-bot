@@ -1287,3 +1287,4 @@
 [2022-11-11 10:26] Reviewed logger query
 [2022-11-11 11:24] Refactored api module
 [2022-11-11 12:34] Fixed middleware module
+[2022-11-12 09:32] Added user tests
