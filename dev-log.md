@@ -1289,3 +1289,4 @@
 [2022-11-11 12:34] Fixed middleware module
 [2022-11-12 09:32] Added user tests
 [2022-11-12 11:28] Fixed database handler
+[2022-11-12 12:04] Cleaned payment imports
