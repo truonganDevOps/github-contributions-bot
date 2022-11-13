@@ -1293,3 +1293,4 @@
 [2022-11-13 09:37] Updated user service
 [2022-11-13 11:06] Optimized config logic
 [2022-11-13 13:29] Cleaned cache query
+[2022-11-13 15:23] Cleaned api tests
