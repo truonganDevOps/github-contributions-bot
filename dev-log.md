@@ -1291,3 +1291,4 @@
 [2022-11-12 11:28] Fixed database handler
 [2022-11-12 12:04] Cleaned payment imports
 [2022-11-13 09:37] Updated user service
+[2022-11-13 11:06] Optimized config logic
