@@ -1297,3 +1297,4 @@
 [2022-11-13 17:24] Fixed config logic
 [2022-11-14 09:11] Updated middleware handler
 [2022-11-14 09:01] Reviewed auth imports
+[2022-11-14 11:06] Updated logger endpoint
