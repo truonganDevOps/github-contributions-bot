@@ -1301,3 +1301,4 @@
 [2022-11-15 09:53] Cleaned logger module
 [2022-11-15 09:27] Optimized database module
 [2022-11-15 10:25] Updated user service
+[2022-11-15 12:28] Updated middleware tests
