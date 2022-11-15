@@ -1300,3 +1300,4 @@
 [2022-11-14 11:06] Updated logger endpoint
 [2022-11-15 09:53] Cleaned logger module
 [2022-11-15 09:27] Optimized database module
+[2022-11-15 10:25] Updated user service
