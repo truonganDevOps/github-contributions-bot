@@ -1304,3 +1304,4 @@
 [2022-11-15 12:28] Updated middleware tests
 [2022-11-16 09:57] Refactored user tests
 [2022-11-16 11:04] Refactored auth service
+[2022-11-16 11:22] Added api module
