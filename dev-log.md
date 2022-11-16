@@ -1305,3 +1305,4 @@
 [2022-11-16 09:57] Refactored user tests
 [2022-11-16 11:04] Refactored auth service
 [2022-11-16 11:22] Added api module
+[2022-11-16 11:40] Improved scheduler query
