@@ -1302,3 +1302,4 @@
 [2022-11-15 09:27] Optimized database module
 [2022-11-15 10:25] Updated user service
 [2022-11-15 12:28] Updated middleware tests
+[2022-11-16 09:57] Refactored user tests
