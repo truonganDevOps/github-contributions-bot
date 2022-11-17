@@ -1306,3 +1306,4 @@
 [2022-11-16 11:04] Refactored auth service
 [2022-11-16 11:22] Added api module
 [2022-11-16 11:40] Improved scheduler query
+[2022-11-17 09:00] Reviewed auth module
