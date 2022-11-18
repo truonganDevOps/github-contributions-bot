@@ -1310,3 +1310,4 @@
 [2022-11-17 10:26] Optimized cache tests
 [2022-11-17 12:36] Added scheduler handler
 [2022-11-18 09:08] Refactored middleware endpoint
+[2022-11-18 10:01] Updated user tests
