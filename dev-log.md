@@ -1322,3 +1322,4 @@
 [2022-11-20 09:40] Improved logger imports
 [2022-11-20 11:46] Fixed api imports
 [2022-11-21 09:15] Optimized middleware handler
+[2022-11-21 09:37] Added config service
