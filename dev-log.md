@@ -1326,3 +1326,4 @@
 [2022-11-21 11:00] Fixed logger handler
 [2022-11-21 12:26] Optimized scheduler query
 [2022-11-22 09:05] Refactored auth imports
+[2022-11-22 09:04] Cleaned middleware endpoint
