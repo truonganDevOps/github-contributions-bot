@@ -1334,3 +1334,4 @@
 [2022-11-23 11:29] Fixed auth query
 [2022-11-23 12:26] Fixed scheduler handler
 [2022-11-24 09:36] Added cache service
+[2022-11-24 09:51] Refactored api tests
