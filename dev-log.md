@@ -1339,3 +1339,4 @@
 [2022-11-25 09:45] Added user imports
 [2022-11-25 10:04] Updated database query
 [2022-11-25 12:09] Optimized auth query
+[2022-11-25 13:55] Cleaned database endpoint
