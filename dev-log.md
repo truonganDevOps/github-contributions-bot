@@ -1337,3 +1337,4 @@
 [2022-11-24 09:51] Refactored api tests
 [2022-11-24 09:46] Added middleware tests
 [2022-11-25 09:45] Added user imports
+[2022-11-25 10:04] Updated database query
