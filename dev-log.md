@@ -1343,3 +1343,4 @@
 [2022-11-26 09:10] Cleaned database imports
 [2022-11-26 10:54] Cleaned config tests
 [2022-11-26 12:02] Reviewed user service
+[2022-11-26 13:07] Improved config logic
