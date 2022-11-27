@@ -1347,3 +1347,4 @@
 [2022-11-26 15:30] Updated scheduler handler
 [2022-11-27 09:14] Improved cache imports
 [2022-11-27 11:27] Refactored cache tests
+[2022-11-27 11:11] Updated cache query
