@@ -1353,3 +1353,4 @@
 [2022-11-28 10:28] Optimized auth logic
 [2022-11-28 11:55] Cleaned api query
 [2022-11-28 13:06] Optimized database tests
+[2022-11-28 13:44] Optimized logger service
