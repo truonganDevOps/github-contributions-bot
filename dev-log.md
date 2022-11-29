@@ -1354,3 +1354,4 @@
 [2022-11-28 11:55] Cleaned api query
 [2022-11-28 13:06] Optimized database tests
 [2022-11-28 13:44] Optimized logger service
+[2022-11-29 09:39] Updated user query
