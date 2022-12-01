@@ -1363,3 +1363,4 @@
 [2022-11-30 10:37] Improved middleware endpoint
 [2022-11-30 11:12] Cleaned cache tests
 [2022-12-01 09:17] Reviewed middleware logic
+[2022-12-01 11:11] Fixed auth module
