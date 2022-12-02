@@ -1368,3 +1368,4 @@
 [2022-12-01 12:12] Improved api module
 [2022-12-01 12:17] Cleaned config tests
 [2022-12-02 09:24] Improved auth query
+[2022-12-02 10:17] Optimized config logic
