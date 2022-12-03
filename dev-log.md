@@ -1370,3 +1370,4 @@
 [2022-12-02 09:24] Improved auth query
 [2022-12-02 10:17] Optimized config logic
 [2022-12-02 10:10] Updated cache module
+[2022-12-03 09:51] Refactored api handler
