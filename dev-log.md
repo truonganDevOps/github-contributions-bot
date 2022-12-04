@@ -1373,3 +1373,4 @@
 [2022-12-03 09:51] Refactored api handler
 [2022-12-03 10:43] Updated middleware imports
 [2022-12-03 11:09] Reviewed scheduler service
+[2022-12-04 09:31] Reviewed user service
