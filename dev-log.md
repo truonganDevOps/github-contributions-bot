@@ -1378,3 +1378,4 @@
 [2022-12-04 10:06] Cleaned config module
 [2022-12-04 12:51] Improved database handler
 [2022-12-05 09:22] Improved logger service
+[2022-12-05 10:48] Reviewed payment service
