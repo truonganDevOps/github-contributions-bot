@@ -1384,3 +1384,4 @@
 [2022-12-05 13:46] Cleaned auth module
 [2022-12-06 09:11] Improved scheduler query
 [2022-12-06 10:41] Reviewed user endpoint
+[2022-12-06 12:44] Reviewed config endpoint
