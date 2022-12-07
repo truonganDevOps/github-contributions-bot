@@ -1385,3 +1385,4 @@
 [2022-12-06 09:11] Improved scheduler query
 [2022-12-06 10:41] Reviewed user endpoint
 [2022-12-06 12:44] Reviewed config endpoint
+[2022-12-07 09:05] Fixed cache handler
