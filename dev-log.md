@@ -1388,3 +1388,4 @@
 [2022-12-07 09:05] Fixed cache handler
 [2022-12-07 10:12] Optimized config endpoint
 [2022-12-07 11:05] Added payment query
+[2022-12-08 09:32] Reviewed api module
