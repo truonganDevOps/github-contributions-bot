@@ -1390,3 +1390,4 @@
 [2022-12-07 11:05] Added payment query
 [2022-12-08 09:32] Reviewed api module
 [2022-12-08 10:17] Fixed cache query
+[2022-12-08 10:18] Fixed auth tests
