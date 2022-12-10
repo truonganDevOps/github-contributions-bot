@@ -1394,3 +1394,4 @@
 [2022-12-09 09:39] Optimized api logic
 [2022-12-09 09:59] Improved api endpoint
 [2022-12-09 11:32] Refactored api logic
+[2022-12-10 09:35] Refactored config module
