@@ -1401,3 +1401,4 @@
 [2022-12-11 09:21] Updated config logic
 [2022-12-11 10:23] Added cache tests
 [2022-12-12 09:19] Added payment module
+[2022-12-12 10:50] Fixed user endpoint
