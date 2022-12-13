@@ -1406,3 +1406,4 @@
 [2022-12-13 09:16] Improved user service
 [2022-12-13 10:54] Fixed database query
 [2022-12-13 10:39] Improved payment imports
+[2022-12-13 10:24] Refactored middleware tests
