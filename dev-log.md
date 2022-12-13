@@ -1403,3 +1403,4 @@
 [2022-12-12 09:19] Added payment module
 [2022-12-12 10:50] Fixed user endpoint
 [2022-12-12 11:15] Optimized auth imports
+[2022-12-13 09:16] Improved user service
