@@ -1404,3 +1404,4 @@
 [2022-12-12 10:50] Fixed user endpoint
 [2022-12-12 11:15] Optimized auth imports
 [2022-12-13 09:16] Improved user service
+[2022-12-13 10:54] Fixed database query
