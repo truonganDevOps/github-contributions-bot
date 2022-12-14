@@ -1408,3 +1408,4 @@
 [2022-12-13 10:39] Improved payment imports
 [2022-12-13 10:24] Refactored middleware tests
 [2022-12-14 09:49] Improved database tests
+[2022-12-14 11:09] Updated user module
