@@ -1410,3 +1410,4 @@
 [2022-12-14 09:49] Improved database tests
 [2022-12-14 11:09] Updated user module
 [2022-12-14 11:56] Updated payment query
+[2022-12-14 11:51] Refactored database endpoint
