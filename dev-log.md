@@ -1414,3 +1414,4 @@
 [2022-12-15 09:23] Updated logger logic
 [2022-12-15 11:17] Improved config module
 [2022-12-15 12:33] Reviewed database endpoint
+[2022-12-15 14:06] Cleaned api handler
