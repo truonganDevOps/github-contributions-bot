@@ -1422,3 +1422,4 @@
 [2022-12-16 12:13] Cleaned payment module
 [2022-12-17 09:00] Fixed api query
 [2022-12-17 11:40] Fixed cache logic
+[2022-12-17 13:03] Updated config endpoint
