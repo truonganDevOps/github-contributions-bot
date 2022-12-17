@@ -1420,3 +1420,4 @@
 [2022-12-16 11:13] Optimized auth handler
 [2022-12-16 12:09] Added scheduler logic
 [2022-12-16 12:13] Cleaned payment module
+[2022-12-17 09:00] Fixed api query
