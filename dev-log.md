@@ -1425,3 +1425,4 @@
 [2022-12-17 13:03] Updated config endpoint
 [2022-12-17 15:15] Added api module
 [2022-12-17 16:52] Cleaned logger imports
+[2022-12-18 09:41] Fixed middleware logic
