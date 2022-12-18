@@ -1426,3 +1426,4 @@
 [2022-12-17 15:15] Added api module
 [2022-12-17 16:52] Cleaned logger imports
 [2022-12-18 09:41] Fixed middleware logic
+[2022-12-18 11:26] Added user logic
