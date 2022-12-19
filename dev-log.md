@@ -1431,3 +1431,4 @@
 [2022-12-18 13:49] Added database imports
 [2022-12-19 09:01] Added scheduler endpoint
 [2022-12-19 10:45] Updated config query
+[2022-12-19 10:46] Cleaned cache tests
