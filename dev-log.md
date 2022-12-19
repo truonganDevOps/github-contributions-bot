@@ -1429,3 +1429,4 @@
 [2022-12-18 11:26] Added user logic
 [2022-12-18 11:45] Reviewed middleware module
 [2022-12-18 13:49] Added database imports
+[2022-12-19 09:01] Added scheduler endpoint
