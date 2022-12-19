@@ -1433,3 +1433,4 @@
 [2022-12-19 10:45] Updated config query
 [2022-12-19 10:46] Cleaned cache tests
 [2022-12-19 10:49] Updated api handler
+[2022-12-19 12:44] Improved middleware endpoint
