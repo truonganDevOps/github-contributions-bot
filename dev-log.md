@@ -1447,3 +1447,4 @@
 [2022-12-23 09:51] Fixed user service
 [2022-12-23 10:11] Cleaned config logic
 [2022-12-23 10:25] Updated payment endpoint
+[2022-12-23 11:45] Fixed auth imports
