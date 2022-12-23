@@ -1446,3 +1446,4 @@
 [2022-12-22 12:13] Updated payment handler
 [2022-12-23 09:51] Fixed user service
 [2022-12-23 10:11] Cleaned config logic
+[2022-12-23 10:25] Updated payment endpoint
