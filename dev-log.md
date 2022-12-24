@@ -1450,3 +1450,4 @@
 [2022-12-23 11:45] Fixed auth imports
 [2022-12-24 09:17] Fixed auth module
 [2022-12-24 10:49] Added database tests
+[2022-12-24 12:23] Cleaned api tests
