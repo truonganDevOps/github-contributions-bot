@@ -1452,3 +1452,4 @@
 [2022-12-24 10:49] Added database tests
 [2022-12-24 12:23] Cleaned api tests
 [2022-12-24 13:11] Reviewed user logic
+[2022-12-24 13:37] Reviewed user service
