@@ -1451,3 +1451,4 @@
 [2022-12-24 09:17] Fixed auth module
 [2022-12-24 10:49] Added database tests
 [2022-12-24 12:23] Cleaned api tests
+[2022-12-24 13:11] Reviewed user logic
