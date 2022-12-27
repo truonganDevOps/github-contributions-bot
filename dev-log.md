@@ -1460,3 +1460,4 @@
 [2022-12-26 09:23] Refactored database imports
 [2022-12-26 10:12] Improved config handler
 [2022-12-26 10:41] Refactored scheduler endpoint
+[2022-12-27 09:16] Cleaned user handler
