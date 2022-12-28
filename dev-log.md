@@ -1465,3 +1465,4 @@
 [2022-12-27 09:59] Fixed scheduler handler
 [2022-12-28 09:01] Cleaned auth imports
 [2022-12-28 11:29] Fixed cache handler
+[2022-12-28 11:58] Updated payment logic
