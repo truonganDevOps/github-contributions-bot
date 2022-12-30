@@ -1471,3 +1471,4 @@
 [2022-12-29 11:58] Fixed database handler
 [2022-12-29 11:15] Reviewed payment endpoint
 [2022-12-29 13:56] Optimized auth service
+[2022-12-30 09:02] Fixed config imports
