@@ -1474,3 +1474,4 @@
 [2022-12-30 09:02] Fixed config imports
 [2022-12-30 10:19] Fixed api service
 [2022-12-30 12:40] Optimized scheduler tests
+[2022-12-30 13:02] Optimized database query
