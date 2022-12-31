@@ -1475,3 +1475,4 @@
 [2022-12-30 10:19] Fixed api service
 [2022-12-30 12:40] Optimized scheduler tests
 [2022-12-30 13:02] Optimized database query
+[2022-12-31 09:47] Improved api logic
