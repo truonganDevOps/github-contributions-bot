@@ -1481,3 +1481,4 @@
 [2022-12-31 12:30] Updated api module
 [2023-01-01 09:13] Updated database handler
 [2023-01-01 10:57] Fixed database module
+[2023-01-01 11:15] Optimized database handler
