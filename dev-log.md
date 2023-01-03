@@ -1488,3 +1488,4 @@
 [2023-01-02 10:44] Cleaned logger tests
 [2023-01-02 10:46] Optimized scheduler tests
 [2023-01-03 09:42] Improved middleware service
+[2023-01-03 11:58] Cleaned api service
