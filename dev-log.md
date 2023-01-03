@@ -1490,3 +1490,4 @@
 [2023-01-03 09:42] Improved middleware service
 [2023-01-03 11:58] Cleaned api service
 [2023-01-03 12:23] Updated middleware module
+[2023-01-03 14:58] Updated middleware module
