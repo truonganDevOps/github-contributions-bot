@@ -1493,3 +1493,4 @@
 [2023-01-03 14:58] Updated middleware module
 [2023-01-04 09:20] Reviewed auth query
 [2023-01-04 09:32] Optimized middleware endpoint
+[2023-01-04 10:00] Refactored api logic
