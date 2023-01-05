@@ -1496,3 +1496,4 @@
 [2023-01-04 10:00] Refactored api logic
 [2023-01-05 09:18] Optimized api imports
 [2023-01-05 09:33] Added middleware service
+[2023-01-05 10:10] Optimized user query
