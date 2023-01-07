@@ -1503,3 +1503,4 @@
 [2023-01-07 09:51] Refactored config handler
 [2023-01-07 10:32] Optimized user imports
 [2023-01-07 12:28] Improved auth endpoint
+[2023-01-07 12:54] Added logger endpoint
