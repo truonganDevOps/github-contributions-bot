@@ -1507,3 +1507,4 @@
 [2023-01-07 14:39] Cleaned user endpoint
 [2023-01-08 09:29] Improved config endpoint
 [2023-01-08 09:40] Cleaned auth query
+[2023-01-08 11:03] Updated middleware module
