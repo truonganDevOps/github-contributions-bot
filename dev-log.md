@@ -1505,3 +1505,4 @@
 [2023-01-07 12:28] Improved auth endpoint
 [2023-01-07 12:54] Added logger endpoint
 [2023-01-07 14:39] Cleaned user endpoint
+[2023-01-08 09:29] Improved config endpoint
