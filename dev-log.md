@@ -1509,3 +1509,4 @@
 [2023-01-08 09:40] Cleaned auth query
 [2023-01-08 11:03] Updated middleware module
 [2023-01-09 09:30] Improved api module
+[2023-01-09 09:16] Fixed api endpoint
