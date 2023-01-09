@@ -1511,3 +1511,4 @@
 [2023-01-09 09:30] Improved api module
 [2023-01-09 09:16] Fixed api endpoint
 [2023-01-09 09:47] Updated user imports
+[2023-01-09 09:07] Added api service
