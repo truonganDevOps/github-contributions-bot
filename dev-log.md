@@ -1524,3 +1524,4 @@
 [2023-01-12 10:58] Cleaned middleware logic
 [2023-01-12 12:01] Fixed payment logic
 [2023-01-12 12:12] Updated middleware endpoint
+[2023-01-12 14:56] Reviewed api endpoint
