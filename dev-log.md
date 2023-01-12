@@ -1522,3 +1522,4 @@
 [2023-01-11 12:36] Added api module
 [2023-01-12 09:44] Optimized api endpoint
 [2023-01-12 10:58] Cleaned middleware logic
+[2023-01-12 12:01] Fixed payment logic
