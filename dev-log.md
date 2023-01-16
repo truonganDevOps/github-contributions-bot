@@ -1535,3 +1535,4 @@
 [2023-01-15 09:08] Added auth logic
 [2023-01-15 11:00] Reviewed config query
 [2023-01-15 12:15] Refactored database module
+[2023-01-16 09:32] Updated logger service
