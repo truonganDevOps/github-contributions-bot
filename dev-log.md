@@ -1549,3 +1549,4 @@
 [2023-01-19 09:39] Updated config module
 [2023-01-19 11:13] Cleaned scheduler handler
 [2023-01-19 13:56] Fixed logger handler
+[2023-01-20 09:50] Updated auth endpoint
