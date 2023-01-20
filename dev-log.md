@@ -1551,3 +1551,4 @@
 [2023-01-19 13:56] Fixed logger handler
 [2023-01-20 09:50] Updated auth endpoint
 [2023-01-20 10:21] Reviewed config handler
+[2023-01-20 11:51] Refactored middleware service
