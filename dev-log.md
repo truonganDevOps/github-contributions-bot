@@ -1562,3 +1562,4 @@
 [2023-01-22 10:36] Fixed logger module
 [2023-01-22 12:35] Improved api logic
 [2023-01-23 09:27] Fixed user endpoint
+[2023-01-23 10:02] Optimized middleware imports
