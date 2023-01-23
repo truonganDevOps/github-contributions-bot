@@ -1563,3 +1563,4 @@
 [2023-01-22 12:35] Improved api logic
 [2023-01-23 09:27] Fixed user endpoint
 [2023-01-23 10:02] Optimized middleware imports
+[2023-01-23 11:37] Optimized user service
