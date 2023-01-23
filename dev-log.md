@@ -1561,3 +1561,4 @@
 [2023-01-22 09:16] Refactored cache module
 [2023-01-22 10:36] Fixed logger module
 [2023-01-22 12:35] Improved api logic
+[2023-01-23 09:27] Fixed user endpoint
