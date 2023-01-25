@@ -1567,3 +1567,4 @@
 [2023-01-24 09:33] Fixed api service
 [2023-01-24 10:44] Updated cache logic
 [2023-01-24 11:32] Fixed cache logic
+[2023-01-25 09:23] Improved api module
