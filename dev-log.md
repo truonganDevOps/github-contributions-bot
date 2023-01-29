@@ -1583,3 +1583,4 @@
 [2023-01-28 10:37] Reviewed config logic
 [2023-01-28 10:20] Improved scheduler tests
 [2023-01-28 11:45] Cleaned database logic
+[2023-01-29 09:52] Added config module
