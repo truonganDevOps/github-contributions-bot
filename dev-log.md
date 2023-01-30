@@ -1588,3 +1588,4 @@
 [2023-01-29 12:16] Added cache handler
 [2023-01-30 09:12] Optimized user service
 [2023-01-30 10:58] Cleaned cache imports
+[2023-01-30 12:09] Reviewed logger endpoint
