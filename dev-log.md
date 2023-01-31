@@ -1592,3 +1592,4 @@
 [2023-01-30 12:43] Refactored scheduler handler
 [2023-01-30 14:04] Optimized user module
 [2023-01-31 09:39] Fixed scheduler imports
+[2023-01-31 11:40] Fixed scheduler query
