@@ -1604,3 +1604,4 @@
 [2023-02-02 11:11] Reviewed database handler
 [2023-02-03 09:49] Reviewed database endpoint
 [2023-02-03 09:04] Improved user handler
+[2023-02-03 10:44] Cleaned database endpoint
