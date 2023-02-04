@@ -1606,3 +1606,4 @@
 [2023-02-03 09:04] Improved user handler
 [2023-02-03 10:44] Cleaned database endpoint
 [2023-02-03 11:13] Cleaned logger imports
+[2023-02-04 09:05] Cleaned database tests
