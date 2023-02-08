@@ -1624,3 +1624,4 @@
 [2023-02-08 09:25] Fixed user tests
 [2023-02-08 09:34] Improved api endpoint
 [2023-02-08 11:44] Reviewed middleware tests
+[2023-02-08 12:40] Refactored database logic
