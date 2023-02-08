@@ -1622,3 +1622,4 @@
 [2023-02-07 10:28] Optimized payment service
 [2023-02-07 11:44] Added config imports
 [2023-02-08 09:25] Fixed user tests
+[2023-02-08 09:34] Improved api endpoint
