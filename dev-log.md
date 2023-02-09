@@ -1627,3 +1627,4 @@
 [2023-02-08 12:40] Refactored database logic
 [2023-02-08 12:08] Refactored scheduler imports
 [2023-02-09 09:25] Fixed middleware service
+[2023-02-09 10:18] Improved logger tests
