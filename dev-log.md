@@ -1631,3 +1631,4 @@
 [2023-02-09 12:43] Reviewed user handler
 [2023-02-10 09:31] Updated payment module
 [2023-02-10 11:19] Reviewed scheduler logic
+[2023-02-10 13:37] Refactored api handler
