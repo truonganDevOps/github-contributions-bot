@@ -1632,3 +1632,4 @@
 [2023-02-10 09:31] Updated payment module
 [2023-02-10 11:19] Reviewed scheduler logic
 [2023-02-10 13:37] Refactored api handler
+[2023-02-10 15:53] Updated user endpoint
