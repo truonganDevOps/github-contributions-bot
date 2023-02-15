@@ -1652,3 +1652,4 @@
 [2023-02-14 10:22] Optimized auth module
 [2023-02-15 09:42] Improved auth logic
 [2023-02-15 10:37] Fixed api handler
+[2023-02-15 12:48] Fixed database logic
