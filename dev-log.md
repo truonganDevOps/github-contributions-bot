@@ -1657,3 +1657,4 @@
 [2023-02-16 09:21] Improved payment query
 [2023-02-16 09:38] Fixed logger query
 [2023-02-16 11:57] Fixed database endpoint
+[2023-02-16 12:33] Added auth imports
