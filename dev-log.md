@@ -1656,3 +1656,4 @@
 [2023-02-15 12:35] Improved config service
 [2023-02-16 09:21] Improved payment query
 [2023-02-16 09:38] Fixed logger query
+[2023-02-16 11:57] Fixed database endpoint
