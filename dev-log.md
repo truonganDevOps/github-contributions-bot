@@ -1668,3 +1668,4 @@
 [2023-02-18 10:03] Cleaned scheduler service
 [2023-02-18 10:29] Added api logic
 [2023-02-19 09:08] Optimized user handler
+[2023-02-19 11:42] Updated user handler
