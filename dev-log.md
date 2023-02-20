@@ -1671,3 +1671,4 @@
 [2023-02-19 11:42] Updated user handler
 [2023-02-19 11:24] Optimized middleware handler
 [2023-02-20 09:09] Cleaned scheduler logic
+[2023-02-20 09:54] Improved middleware imports
