@@ -1677,3 +1677,4 @@
 [2023-02-20 11:55] Reviewed logger handler
 [2023-02-21 09:16] Optimized scheduler module
 [2023-02-21 09:01] Updated api logic
+[2023-02-21 10:42] Refactored logger logic
