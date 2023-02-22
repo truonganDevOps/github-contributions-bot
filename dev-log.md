@@ -1680,3 +1680,4 @@
 [2023-02-21 10:42] Refactored logger logic
 [2023-02-22 09:53] Fixed payment query
 [2023-02-22 11:21] Fixed config module
+[2023-02-22 11:39] Cleaned config tests
