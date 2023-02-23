@@ -1683,3 +1683,4 @@
 [2023-02-22 11:39] Cleaned config tests
 [2023-02-23 09:09] Updated cache handler
 [2023-02-23 11:12] Improved config service
+[2023-02-23 12:16] Refactored logger service
