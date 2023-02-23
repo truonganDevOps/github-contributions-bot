@@ -1681,3 +1681,4 @@
 [2023-02-22 09:53] Fixed payment query
 [2023-02-22 11:21] Fixed config module
 [2023-02-22 11:39] Cleaned config tests
+[2023-02-23 09:09] Updated cache handler
