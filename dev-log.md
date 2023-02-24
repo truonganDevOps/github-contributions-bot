@@ -1687,3 +1687,4 @@
 [2023-02-23 13:07] Improved logger imports
 [2023-02-24 09:37] Added user query
 [2023-02-24 10:30] Refactored auth endpoint
+[2023-02-24 12:19] Refactored database handler
