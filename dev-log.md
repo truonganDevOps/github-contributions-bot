@@ -1690,3 +1690,4 @@
 [2023-02-24 12:19] Refactored database handler
 [2023-02-24 13:46] Fixed database handler
 [2023-02-25 09:58] Optimized api module
+[2023-02-25 11:18] Optimized config imports
