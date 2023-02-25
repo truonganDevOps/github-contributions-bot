@@ -1693,3 +1693,4 @@
 [2023-02-25 11:18] Optimized config imports
 [2023-02-25 12:45] Cleaned database logic
 [2023-02-25 12:37] Cleaned config module
+[2023-02-25 12:59] Fixed cache service
