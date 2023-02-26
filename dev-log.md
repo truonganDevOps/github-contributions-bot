@@ -1698,3 +1698,4 @@
 [2023-02-26 09:40] Reviewed logger imports
 [2023-02-26 10:38] Improved user module
 [2023-02-26 11:08] Added logger service
+[2023-02-26 12:23] Added config endpoint
