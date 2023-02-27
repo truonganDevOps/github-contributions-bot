@@ -1703,3 +1703,4 @@
 [2023-02-27 09:32] Fixed cache query
 [2023-02-27 11:26] Reviewed auth endpoint
 [2023-02-27 13:20] Updated database module
+[2023-02-27 15:53] Added cache handler
