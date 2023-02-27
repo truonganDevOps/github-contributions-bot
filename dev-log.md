@@ -1700,3 +1700,4 @@
 [2023-02-26 11:08] Added logger service
 [2023-02-26 12:23] Added config endpoint
 [2023-02-27 09:46] Added auth endpoint
+[2023-02-27 09:32] Fixed cache query
