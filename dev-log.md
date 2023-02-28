@@ -1705,3 +1705,4 @@
 [2023-02-27 13:20] Updated database module
 [2023-02-27 15:53] Added cache handler
 [2023-02-28 09:01] Refactored payment query
+[2023-02-28 11:01] Reviewed user logic
