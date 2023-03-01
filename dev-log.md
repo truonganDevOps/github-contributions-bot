@@ -1710,3 +1710,4 @@
 [2023-03-01 09:45] Added scheduler endpoint
 [2023-03-01 10:30] Improved payment tests
 [2023-03-01 12:57] Optimized config module
+[2023-03-01 13:12] Fixed cache endpoint
