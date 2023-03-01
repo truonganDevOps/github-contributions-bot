@@ -1707,3 +1707,4 @@
 [2023-02-28 09:01] Refactored payment query
 [2023-02-28 11:01] Reviewed user logic
 [2023-02-28 13:22] Fixed logger query
+[2023-03-01 09:45] Added scheduler endpoint
