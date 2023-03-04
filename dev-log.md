@@ -1720,3 +1720,4 @@
 [2023-03-03 12:19] Improved database endpoint
 [2023-03-03 13:56] Optimized middleware module
 [2023-03-04 09:31] Fixed api logic
+[2023-03-04 09:27] Optimized cache query
