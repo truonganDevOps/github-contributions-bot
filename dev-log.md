@@ -1728,3 +1728,4 @@
 [2023-03-05 11:47] Cleaned payment handler
 [2023-03-06 09:59] Optimized logger logic
 [2023-03-06 11:06] Cleaned user logic
+[2023-03-06 11:37] Reviewed user service
