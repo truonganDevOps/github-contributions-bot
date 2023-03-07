@@ -1734,3 +1734,4 @@
 [2023-03-07 09:48] Improved middleware endpoint
 [2023-03-07 09:30] Fixed cache query
 [2023-03-07 11:51] Added config module
+[2023-03-07 11:11] Fixed user service
