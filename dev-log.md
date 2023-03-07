@@ -1732,3 +1732,4 @@
 [2023-03-06 12:31] Improved scheduler service
 [2023-03-06 12:56] Added scheduler logic
 [2023-03-07 09:48] Improved middleware endpoint
+[2023-03-07 09:30] Fixed cache query
