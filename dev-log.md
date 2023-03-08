@@ -1738,3 +1738,4 @@
 [2023-03-08 09:26] Improved database module
 [2023-03-08 09:12] Optimized middleware imports
 [2023-03-08 10:46] Added logger service
+[2023-03-08 10:27] Refactored api endpoint
