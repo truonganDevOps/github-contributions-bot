@@ -1741,3 +1741,4 @@
 [2023-03-08 10:27] Refactored api endpoint
 [2023-03-08 12:15] Improved cache logic
 [2023-03-09 09:41] Optimized cache query
+[2023-03-09 10:36] Cleaned database logic
