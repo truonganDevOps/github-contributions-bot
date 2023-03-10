@@ -1744,3 +1744,4 @@
 [2023-03-09 10:36] Cleaned database logic
 [2023-03-09 10:02] Reviewed user logic
 [2023-03-10 09:16] Fixed auth logic
+[2023-03-10 11:48] Refactored database endpoint
