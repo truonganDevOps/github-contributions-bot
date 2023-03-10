@@ -1746,3 +1746,4 @@
 [2023-03-10 09:16] Fixed auth logic
 [2023-03-10 11:48] Refactored database endpoint
 [2023-03-10 12:23] Cleaned api endpoint
+[2023-03-10 14:12] Updated cache logic
