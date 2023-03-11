@@ -1751,3 +1751,4 @@
 [2023-03-11 09:53] Optimized payment endpoint
 [2023-03-11 11:17] Refactored auth service
 [2023-03-11 12:26] Updated logger query
+[2023-03-11 14:45] Updated api logic
