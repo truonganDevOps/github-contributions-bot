@@ -1755,3 +1755,4 @@
 [2023-03-12 09:18] Cleaned auth handler
 [2023-03-12 10:45] Reviewed scheduler query
 [2023-03-12 12:24] Fixed logger endpoint
+[2023-03-12 12:47] Refactored user tests
