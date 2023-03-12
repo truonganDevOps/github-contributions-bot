@@ -1754,3 +1754,4 @@
 [2023-03-11 14:45] Updated api logic
 [2023-03-12 09:18] Cleaned auth handler
 [2023-03-12 10:45] Reviewed scheduler query
+[2023-03-12 12:24] Fixed logger endpoint
