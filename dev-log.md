@@ -1758,3 +1758,4 @@
 [2023-03-12 12:47] Refactored user tests
 [2023-03-13 09:06] Fixed scheduler module
 [2023-03-13 09:24] Reviewed user handler
+[2023-03-13 11:39] Optimized api query
