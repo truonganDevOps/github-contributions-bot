@@ -1757,3 +1757,4 @@
 [2023-03-12 12:24] Fixed logger endpoint
 [2023-03-12 12:47] Refactored user tests
 [2023-03-13 09:06] Fixed scheduler module
+[2023-03-13 09:24] Reviewed user handler
