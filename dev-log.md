@@ -1760,3 +1760,4 @@
 [2023-03-13 09:24] Reviewed user handler
 [2023-03-13 11:39] Optimized api query
 [2023-03-13 12:48] Cleaned api handler
+[2023-03-13 13:00] Updated user tests
