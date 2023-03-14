@@ -1763,3 +1763,4 @@
 [2023-03-13 13:00] Updated user tests
 [2023-03-14 09:33] Improved database imports
 [2023-03-14 11:27] Fixed logger module
+[2023-03-14 11:35] Reviewed middleware handler
