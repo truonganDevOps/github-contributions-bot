@@ -1765,3 +1765,4 @@
 [2023-03-14 11:27] Fixed logger module
 [2023-03-14 11:35] Reviewed middleware handler
 [2023-03-15 09:31] Reviewed auth logic
+[2023-03-15 10:09] Refactored database endpoint
