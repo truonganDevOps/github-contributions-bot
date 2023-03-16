@@ -1773,3 +1773,4 @@
 [2023-03-16 10:14] Added scheduler tests
 [2023-03-16 12:23] Reviewed scheduler handler
 [2023-03-16 13:54] Reviewed logger endpoint
+[2023-03-16 13:48] Fixed logger endpoint
