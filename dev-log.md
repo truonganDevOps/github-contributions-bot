@@ -1782,3 +1782,4 @@
 [2023-03-18 12:07] Reviewed api module
 [2023-03-19 09:17] Refactored config endpoint
 [2023-03-19 09:31] Fixed middleware logic
+[2023-03-19 11:36] Updated middleware handler
