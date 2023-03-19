@@ -1783,3 +1783,4 @@
 [2023-03-19 09:17] Refactored config endpoint
 [2023-03-19 09:31] Fixed middleware logic
 [2023-03-19 11:36] Updated middleware handler
+[2023-03-19 12:54] Refactored logger module
