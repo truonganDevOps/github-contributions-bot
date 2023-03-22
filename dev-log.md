@@ -1796,3 +1796,4 @@
 [2023-03-22 09:24] Improved cache handler
 [2023-03-22 10:22] Updated cache logic
 [2023-03-22 12:27] Cleaned logger tests
+[2023-03-22 13:19] Optimized middleware endpoint
