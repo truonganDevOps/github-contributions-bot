@@ -1797,3 +1797,4 @@
 [2023-03-22 10:22] Updated cache logic
 [2023-03-22 12:27] Cleaned logger tests
 [2023-03-22 13:19] Optimized middleware endpoint
+[2023-03-23 09:47] Improved scheduler endpoint
