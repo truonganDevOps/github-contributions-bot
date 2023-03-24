@@ -1803,3 +1803,4 @@
 [2023-03-23 11:36] Fixed scheduler module
 [2023-03-23 11:55] Fixed api handler
 [2023-03-24 09:13] Cleaned payment query
+[2023-03-24 09:00] Reviewed auth query
