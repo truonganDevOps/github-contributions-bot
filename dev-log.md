@@ -1802,3 +1802,4 @@
 [2023-03-23 11:30] Optimized api service
 [2023-03-23 11:36] Fixed scheduler module
 [2023-03-23 11:55] Fixed api handler
+[2023-03-24 09:13] Cleaned payment query
