@@ -1804,3 +1804,4 @@
 [2023-03-23 11:55] Fixed api handler
 [2023-03-24 09:13] Cleaned payment query
 [2023-03-24 09:00] Reviewed auth query
+[2023-03-24 09:02] Cleaned auth tests
