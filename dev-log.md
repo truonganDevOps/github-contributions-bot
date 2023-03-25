@@ -1807,3 +1807,4 @@
 [2023-03-24 09:02] Cleaned auth tests
 [2023-03-24 10:28] Updated middleware imports
 [2023-03-25 09:30] Updated api tests
+[2023-03-25 09:29] Updated scheduler handler
