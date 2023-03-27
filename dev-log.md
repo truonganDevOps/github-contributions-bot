@@ -1815,3 +1815,4 @@
 [2023-03-26 11:05] Improved scheduler logic
 [2023-03-26 12:04] Cleaned auth logic
 [2023-03-26 12:27] Updated user endpoint
+[2023-03-27 09:46] Added middleware tests
