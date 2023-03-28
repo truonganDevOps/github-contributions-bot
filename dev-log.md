@@ -1821,3 +1821,4 @@
 [2023-03-27 12:35] Reviewed scheduler logic
 [2023-03-27 14:11] Added scheduler endpoint
 [2023-03-28 09:38] Reviewed middleware logic
+[2023-03-28 10:56] Fixed user endpoint
