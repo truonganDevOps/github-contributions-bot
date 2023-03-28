@@ -1823,3 +1823,4 @@
 [2023-03-28 09:38] Reviewed middleware logic
 [2023-03-28 10:56] Fixed user endpoint
 [2023-03-28 10:53] Optimized middleware query
+[2023-03-28 11:29] Updated logger handler
