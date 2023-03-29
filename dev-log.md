@@ -1826,3 +1826,4 @@
 [2023-03-28 11:29] Updated logger handler
 [2023-03-28 13:16] Optimized cache logic
 [2023-03-29 09:34] Refactored cache endpoint
+[2023-03-29 09:00] Fixed config logic
