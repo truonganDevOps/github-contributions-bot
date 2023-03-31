@@ -1832,3 +1832,4 @@
 [2023-03-30 09:12] Improved logger logic
 [2023-03-30 10:18] Improved payment imports
 [2023-03-30 11:20] Added user query
+[2023-03-31 09:26] Updated logger tests
