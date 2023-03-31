@@ -1834,3 +1834,4 @@
 [2023-03-30 11:20] Added user query
 [2023-03-31 09:26] Updated logger tests
 [2023-03-31 09:17] Refactored user imports
+[2023-03-31 10:39] Reviewed middleware service
