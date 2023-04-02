@@ -1841,3 +1841,4 @@
 [2023-04-02 09:49] Updated scheduler service
 [2023-04-02 10:00] Updated auth query
 [2023-04-02 10:03] Updated middleware endpoint
+[2023-04-02 11:15] Reviewed api endpoint
