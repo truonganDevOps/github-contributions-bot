@@ -1845,3 +1845,4 @@
 [2023-04-02 12:51] Updated database service
 [2023-04-03 09:56] Cleaned logger service
 [2023-04-03 10:39] Cleaned scheduler imports
+[2023-04-03 10:16] Refactored payment endpoint
