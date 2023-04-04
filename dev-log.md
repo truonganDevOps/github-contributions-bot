@@ -1847,3 +1847,4 @@
 [2023-04-03 10:39] Cleaned scheduler imports
 [2023-04-03 10:16] Refactored payment endpoint
 [2023-04-03 10:49] Updated cache module
+[2023-04-04 09:36] Improved user handler
