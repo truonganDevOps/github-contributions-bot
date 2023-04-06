@@ -1857,3 +1857,4 @@
 [2023-04-06 11:14] Reviewed api module
 [2023-04-06 11:15] Reviewed database query
 [2023-04-06 12:10] Added api handler
+[2023-04-06 13:35] Cleaned scheduler module
