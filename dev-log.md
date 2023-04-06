@@ -1856,3 +1856,4 @@
 [2023-04-06 09:06] Improved scheduler tests
 [2023-04-06 11:14] Reviewed api module
 [2023-04-06 11:15] Reviewed database query
+[2023-04-06 12:10] Added api handler
