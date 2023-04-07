@@ -1861,3 +1861,4 @@
 [2023-04-07 09:55] Updated middleware imports
 [2023-04-07 10:44] Added api service
 [2023-04-07 11:30] Optimized scheduler tests
+[2023-04-07 12:32] Reviewed auth logic
