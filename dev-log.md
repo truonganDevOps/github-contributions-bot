@@ -1859,3 +1859,4 @@
 [2023-04-06 12:10] Added api handler
 [2023-04-06 13:35] Cleaned scheduler module
 [2023-04-07 09:55] Updated middleware imports
+[2023-04-07 10:44] Added api service
