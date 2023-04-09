@@ -1869,3 +1869,4 @@
 [2023-04-09 09:19] Improved logger imports
 [2023-04-09 09:34] Added database endpoint
 [2023-04-09 09:08] Reviewed scheduler handler
+[2023-04-09 10:10] Cleaned api logic
