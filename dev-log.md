@@ -1871,3 +1871,4 @@
 [2023-04-09 09:08] Reviewed scheduler handler
 [2023-04-09 10:10] Cleaned api logic
 [2023-04-10 09:43] Cleaned middleware service
+[2023-04-10 10:01] Reviewed config endpoint
