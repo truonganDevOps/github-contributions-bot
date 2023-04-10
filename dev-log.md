@@ -1872,3 +1872,4 @@
 [2023-04-09 10:10] Cleaned api logic
 [2023-04-10 09:43] Cleaned middleware service
 [2023-04-10 10:01] Reviewed config endpoint
+[2023-04-10 12:03] Refactored logger module
