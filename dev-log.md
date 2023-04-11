@@ -1876,3 +1876,4 @@
 [2023-04-10 12:24] Fixed api query
 [2023-04-11 09:07] Updated api service
 [2023-04-11 11:45] Added logger query
+[2023-04-11 13:55] Fixed config service
