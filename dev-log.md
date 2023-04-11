@@ -1874,3 +1874,4 @@
 [2023-04-10 10:01] Reviewed config endpoint
 [2023-04-10 12:03] Refactored logger module
 [2023-04-10 12:24] Fixed api query
+[2023-04-11 09:07] Updated api service
