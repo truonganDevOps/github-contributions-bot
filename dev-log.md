@@ -1885,3 +1885,4 @@
 [2023-04-12 11:36] Improved config module
 [2023-04-13 09:55] Cleaned payment handler
 [2023-04-13 11:50] Added user service
+[2023-04-13 13:35] Added middleware service
