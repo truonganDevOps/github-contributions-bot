@@ -1883,3 +1883,4 @@
 [2023-04-12 09:00] Added auth logic
 [2023-04-12 11:32] Refactored database handler
 [2023-04-12 11:36] Improved config module
+[2023-04-13 09:55] Cleaned payment handler
