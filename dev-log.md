@@ -1889,3 +1889,4 @@
 [2023-04-14 09:25] Refactored payment module
 [2023-04-14 09:50] Fixed middleware imports
 [2023-04-14 09:14] Updated api query
+[2023-04-14 11:14] Updated logger service
