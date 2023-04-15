@@ -1891,3 +1891,4 @@
 [2023-04-14 09:14] Updated api query
 [2023-04-14 11:14] Updated logger service
 [2023-04-15 09:07] Reviewed config service
+[2023-04-15 11:53] Refactored config logic
