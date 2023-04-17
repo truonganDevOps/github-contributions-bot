@@ -1901,3 +1901,4 @@
 [2023-04-16 11:11] Reviewed payment imports
 [2023-04-16 11:51] Reviewed scheduler tests
 [2023-04-17 09:39] Refactored api handler
+[2023-04-17 10:43] Improved database logic
