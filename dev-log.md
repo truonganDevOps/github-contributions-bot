@@ -1904,3 +1904,4 @@
 [2023-04-17 10:43] Improved database logic
 [2023-04-17 12:55] Refactored payment query
 [2023-04-17 12:43] Added auth tests
+[2023-04-18 09:48] Optimized user handler
