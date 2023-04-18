@@ -1906,3 +1906,4 @@
 [2023-04-17 12:43] Added auth tests
 [2023-04-18 09:48] Optimized user handler
 [2023-04-18 10:18] Optimized scheduler module
+[2023-04-18 12:33] Fixed auth imports
