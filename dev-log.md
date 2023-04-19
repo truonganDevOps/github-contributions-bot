@@ -1908,3 +1908,4 @@
 [2023-04-18 10:18] Optimized scheduler module
 [2023-04-18 12:33] Fixed auth imports
 [2023-04-19 09:44] Cleaned logger module
+[2023-04-19 09:05] Reviewed scheduler service
