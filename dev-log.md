@@ -1909,3 +1909,4 @@
 [2023-04-18 12:33] Fixed auth imports
 [2023-04-19 09:44] Cleaned logger module
 [2023-04-19 09:05] Reviewed scheduler service
+[2023-04-19 09:19] Refactored config service
