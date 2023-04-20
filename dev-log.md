@@ -1912,3 +1912,4 @@
 [2023-04-19 09:19] Refactored config service
 [2023-04-20 09:25] Optimized scheduler query
 [2023-04-20 10:02] Refactored config service
+[2023-04-20 10:48] Cleaned middleware endpoint
