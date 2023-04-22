@@ -1919,3 +1919,4 @@
 [2023-04-21 12:06] Refactored auth service
 [2023-04-21 14:18] Added logger imports
 [2023-04-22 09:40] Cleaned logger service
+[2023-04-22 10:35] Added user module
