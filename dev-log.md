@@ -1918,3 +1918,4 @@
 [2023-04-21 11:34] Cleaned auth logic
 [2023-04-21 12:06] Refactored auth service
 [2023-04-21 14:18] Added logger imports
+[2023-04-22 09:40] Cleaned logger service
