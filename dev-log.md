@@ -1922,3 +1922,4 @@
 [2023-04-22 10:35] Added user module
 [2023-04-22 10:05] Added payment endpoint
 [2023-04-23 09:32] Fixed logger imports
+[2023-04-23 10:07] Reviewed user endpoint
