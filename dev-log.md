@@ -1924,3 +1924,4 @@
 [2023-04-23 09:32] Fixed logger imports
 [2023-04-23 10:07] Reviewed user endpoint
 [2023-04-23 10:36] Fixed config imports
+[2023-04-23 11:04] Improved database query
