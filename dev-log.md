@@ -1929,3 +1929,4 @@
 [2023-04-24 09:05] Reviewed cache logic
 [2023-04-24 10:55] Cleaned auth endpoint
 [2023-04-24 12:34] Cleaned cache service
+[2023-04-24 14:18] Fixed user endpoint
