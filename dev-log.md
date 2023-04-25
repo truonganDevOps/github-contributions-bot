@@ -1932,3 +1932,4 @@
 [2023-04-24 14:18] Fixed user endpoint
 [2023-04-24 16:46] Optimized user service
 [2023-04-25 09:36] Reviewed user handler
+[2023-04-25 10:39] Updated auth tests
