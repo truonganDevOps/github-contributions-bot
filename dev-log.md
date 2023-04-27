@@ -1940,3 +1940,4 @@
 [2023-04-26 14:10] Cleaned scheduler module
 [2023-04-26 16:17] Reviewed middleware imports
 [2023-04-27 09:26] Added logger endpoint
+[2023-04-27 10:58] Refactored auth tests
