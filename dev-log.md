@@ -1942,3 +1942,4 @@
 [2023-04-27 09:26] Added logger endpoint
 [2023-04-27 10:58] Refactored auth tests
 [2023-04-27 12:55] Reviewed auth imports
+[2023-04-28 09:39] Reviewed api handler
