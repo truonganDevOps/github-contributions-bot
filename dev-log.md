@@ -1945,3 +1945,4 @@
 [2023-04-28 09:39] Reviewed api handler
 [2023-04-28 11:52] Optimized auth logic
 [2023-04-28 12:49] Updated database service
+[2023-04-28 12:56] Updated middleware handler
