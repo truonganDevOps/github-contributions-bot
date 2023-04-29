@@ -1949,3 +1949,4 @@
 [2023-04-29 09:08] Improved api service
 [2023-04-29 10:07] Optimized config endpoint
 [2023-04-29 10:08] Refactored config query
+[2023-04-29 10:50] Added logger query
