@@ -1953,3 +1953,4 @@
 [2023-04-30 09:28] Cleaned payment endpoint
 [2023-04-30 10:43] Cleaned cache query
 [2023-04-30 10:22] Added scheduler module
+[2023-04-30 12:48] Cleaned logger module
