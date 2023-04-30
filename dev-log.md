@@ -1950,3 +1950,4 @@
 [2023-04-29 10:07] Optimized config endpoint
 [2023-04-29 10:08] Refactored config query
 [2023-04-29 10:50] Added logger query
+[2023-04-30 09:28] Cleaned payment endpoint
