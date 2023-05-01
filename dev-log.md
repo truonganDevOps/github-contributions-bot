@@ -1956,3 +1956,4 @@
 [2023-04-30 12:48] Cleaned logger module
 [2023-04-30 12:21] Added middleware logic
 [2023-05-01 09:52] Reviewed database endpoint
+[2023-05-01 09:34] Reviewed logger service
