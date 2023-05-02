@@ -1960,3 +1960,4 @@
 [2023-05-01 10:24] Improved middleware handler
 [2023-05-01 12:48] Optimized user tests
 [2023-05-02 09:23] Cleaned payment module
+[2023-05-02 09:46] Optimized config endpoint
