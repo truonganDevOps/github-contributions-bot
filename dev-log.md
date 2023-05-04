@@ -1966,3 +1966,4 @@
 [2023-05-03 11:45] Fixed middleware service
 [2023-05-03 12:07] Added cache service
 [2023-05-04 09:35] Added payment logic
+[2023-05-04 09:36] Refactored auth logic
