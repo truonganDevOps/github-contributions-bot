@@ -1972,3 +1972,4 @@
 [2023-05-04 12:59] Cleaned middleware query
 [2023-05-05 09:48] Updated payment endpoint
 [2023-05-05 11:52] Refactored scheduler query
+[2023-05-05 11:18] Cleaned logger service
