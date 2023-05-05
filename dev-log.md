@@ -1970,3 +1970,4 @@
 [2023-05-04 10:20] Updated payment imports
 [2023-05-04 10:34] Refactored api module
 [2023-05-04 12:59] Cleaned middleware query
+[2023-05-05 09:48] Updated payment endpoint
