@@ -1982,3 +1982,4 @@
 [2023-05-07 09:03] Refactored payment tests
 [2023-05-08 09:46] Added cache query
 [2023-05-08 09:44] Improved cache service
+[2023-05-08 10:21] Cleaned logger endpoint
