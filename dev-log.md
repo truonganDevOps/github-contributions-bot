@@ -1980,3 +1980,4 @@
 [2023-05-07 09:16] Updated payment tests
 [2023-05-07 09:18] Cleaned api logic
 [2023-05-07 09:03] Refactored payment tests
+[2023-05-08 09:46] Added cache query
