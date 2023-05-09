@@ -1985,3 +1985,4 @@
 [2023-05-08 10:21] Cleaned logger endpoint
 [2023-05-08 12:10] Added database logic
 [2023-05-09 09:54] Added user handler
+[2023-05-09 10:43] Cleaned scheduler logic
