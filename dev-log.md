@@ -1984,3 +1984,4 @@
 [2023-05-08 09:44] Improved cache service
 [2023-05-08 10:21] Cleaned logger endpoint
 [2023-05-08 12:10] Added database logic
+[2023-05-09 09:54] Added user handler
