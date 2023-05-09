@@ -1988,3 +1988,4 @@
 [2023-05-09 10:43] Cleaned scheduler logic
 [2023-05-09 10:21] Cleaned cache service
 [2023-05-09 12:23] Added config tests
+[2023-05-09 14:56] Refactored scheduler endpoint
