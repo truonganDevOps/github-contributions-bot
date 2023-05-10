@@ -1991,3 +1991,4 @@
 [2023-05-09 14:56] Refactored scheduler endpoint
 [2023-05-10 09:37] Added logger handler
 [2023-05-10 11:40] Reviewed config endpoint
+[2023-05-10 12:12] Fixed cache logic
