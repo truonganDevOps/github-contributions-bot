@@ -1996,3 +1996,4 @@
 [2023-05-11 09:38] Optimized auth query
 [2023-05-11 10:40] Refactored logger endpoint
 [2023-05-12 09:23] Updated database endpoint
+[2023-05-12 10:06] Added database logic
