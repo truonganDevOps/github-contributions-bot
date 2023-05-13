@@ -2002,3 +2002,4 @@
 [2023-05-13 11:14] Improved scheduler logic
 [2023-05-13 11:58] Improved config module
 [2023-05-13 11:50] Cleaned scheduler logic
+[2023-05-13 11:04] Fixed auth handler
