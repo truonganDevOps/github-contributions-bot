@@ -2006,3 +2006,4 @@
 [2023-05-14 09:47] Refactored scheduler endpoint
 [2023-05-14 10:47] Added api tests
 [2023-05-14 10:09] Improved auth module
+[2023-05-14 11:18] Reviewed config endpoint
