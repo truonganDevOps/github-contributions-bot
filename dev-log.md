@@ -2007,3 +2007,4 @@
 [2023-05-14 10:47] Added api tests
 [2023-05-14 10:09] Improved auth module
 [2023-05-14 11:18] Reviewed config endpoint
+[2023-05-15 09:17] Improved middleware logic
