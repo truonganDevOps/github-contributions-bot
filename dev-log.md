@@ -2017,3 +2017,4 @@
 [2023-05-16 11:11] Refactored auth tests
 [2023-05-16 11:49] Improved scheduler handler
 [2023-05-17 09:34] Reviewed auth handler
+[2023-05-17 09:15] Cleaned api service
