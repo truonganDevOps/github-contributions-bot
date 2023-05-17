@@ -2019,3 +2019,4 @@
 [2023-05-17 09:34] Reviewed auth handler
 [2023-05-17 09:15] Cleaned api service
 [2023-05-17 11:51] Added config query
+[2023-05-17 11:42] Cleaned logger endpoint
