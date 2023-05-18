@@ -2022,3 +2022,4 @@
 [2023-05-17 11:42] Cleaned logger endpoint
 [2023-05-17 12:36] Refactored scheduler handler
 [2023-05-18 09:28] Reviewed cache logic
+[2023-05-18 09:47] Refactored auth module
