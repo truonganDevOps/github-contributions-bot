@@ -2029,3 +2029,4 @@
 [2023-05-19 09:43] Updated cache endpoint
 [2023-05-19 09:18] Cleaned logger imports
 [2023-05-19 09:06] Added auth module
+[2023-05-19 10:03] Refactored config endpoint
