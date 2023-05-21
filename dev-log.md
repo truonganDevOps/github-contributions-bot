@@ -2037,3 +2037,4 @@
 [2023-05-20 15:37] Updated scheduler logic
 [2023-05-21 09:53] Improved logger logic
 [2023-05-21 09:53] Refactored api service
+[2023-05-21 09:39] Improved config handler
