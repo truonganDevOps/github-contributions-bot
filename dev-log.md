@@ -2039,3 +2039,4 @@
 [2023-05-21 09:53] Refactored api service
 [2023-05-21 09:39] Improved config handler
 [2023-05-22 09:27] Updated middleware imports
+[2023-05-22 09:56] Added user endpoint
