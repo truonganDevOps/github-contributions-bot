@@ -2042,3 +2042,4 @@
 [2023-05-22 09:56] Added user endpoint
 [2023-05-22 09:16] Reviewed database logic
 [2023-05-23 09:01] Updated api module
+[2023-05-23 10:59] Improved database query
