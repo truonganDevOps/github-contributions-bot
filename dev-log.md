@@ -2047,3 +2047,4 @@
 [2023-05-23 13:34] Fixed payment service
 [2023-05-24 09:39] Optimized logger logic
 [2023-05-24 11:59] Reviewed cache imports
+[2023-05-24 12:34] Cleaned user handler
