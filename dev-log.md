@@ -2052,3 +2052,4 @@
 [2023-05-25 09:23] Added scheduler query
 [2023-05-25 09:46] Improved database handler
 [2023-05-25 11:12] Updated config logic
+[2023-05-25 11:52] Added auth handler
