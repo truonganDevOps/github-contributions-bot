@@ -2049,3 +2049,4 @@
 [2023-05-24 11:59] Reviewed cache imports
 [2023-05-24 12:34] Cleaned user handler
 [2023-05-24 14:00] Refactored api handler
+[2023-05-25 09:23] Added scheduler query
