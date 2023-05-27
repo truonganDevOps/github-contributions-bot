@@ -2057,3 +2057,4 @@
 [2023-05-26 09:56] Reviewed auth module
 [2023-05-26 09:03] Added api endpoint
 [2023-05-26 10:59] Fixed middleware tests
+[2023-05-27 09:39] Improved config tests
