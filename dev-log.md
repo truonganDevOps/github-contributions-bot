@@ -2061,3 +2061,4 @@
 [2023-05-27 09:20] Updated user query
 [2023-05-27 10:36] Improved logger module
 [2023-05-27 12:53] Improved config logic
+[2023-05-28 09:32] Refactored database module
