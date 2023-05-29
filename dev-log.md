@@ -2067,3 +2067,4 @@
 [2023-05-28 14:40] Refactored cache imports
 [2023-05-29 09:18] Reviewed payment query
 [2023-05-29 11:33] Added auth service
+[2023-05-29 13:12] Optimized auth logic
