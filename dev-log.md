@@ -2074,3 +2074,4 @@
 [2023-05-30 10:57] Improved config imports
 [2023-05-31 09:25] Improved middleware imports
 [2023-05-31 10:15] Improved config module
+[2023-05-31 11:39] Reviewed auth logic
