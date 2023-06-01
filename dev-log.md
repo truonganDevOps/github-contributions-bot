@@ -2078,3 +2078,4 @@
 [2023-05-31 12:34] Refactored auth endpoint
 [2023-06-01 09:11] Fixed database logic
 [2023-06-01 10:57] Fixed database tests
+[2023-06-01 10:01] Optimized middleware logic
