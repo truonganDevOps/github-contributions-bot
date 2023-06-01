@@ -2077,3 +2077,4 @@
 [2023-05-31 11:39] Reviewed auth logic
 [2023-05-31 12:34] Refactored auth endpoint
 [2023-06-01 09:11] Fixed database logic
+[2023-06-01 10:57] Fixed database tests
