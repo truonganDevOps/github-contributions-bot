@@ -2082,3 +2082,4 @@
 [2023-06-01 11:02] Fixed api tests
 [2023-06-02 09:07] Cleaned config module
 [2023-06-02 10:48] Updated logger module
+[2023-06-02 12:47] Updated scheduler endpoint
