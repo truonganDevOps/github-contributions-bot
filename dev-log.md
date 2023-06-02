@@ -2081,3 +2081,4 @@
 [2023-06-01 10:01] Optimized middleware logic
 [2023-06-01 11:02] Fixed api tests
 [2023-06-02 09:07] Cleaned config module
+[2023-06-02 10:48] Updated logger module
