@@ -2089,3 +2089,4 @@
 [2023-06-03 10:05] Updated database endpoint
 [2023-06-03 11:28] Improved middleware module
 [2023-06-04 09:05] Reviewed logger handler
+[2023-06-04 09:57] Added auth imports
