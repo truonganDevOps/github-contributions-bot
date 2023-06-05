@@ -2092,3 +2092,4 @@
 [2023-06-04 09:57] Added auth imports
 [2023-06-04 11:31] Added logger logic
 [2023-06-05 09:09] Reviewed cache tests
+[2023-06-05 10:46] Fixed user tests
