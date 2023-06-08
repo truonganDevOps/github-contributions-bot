@@ -2102,3 +2102,4 @@
 [2023-06-07 09:53] Added database handler
 [2023-06-07 10:28] Improved scheduler module
 [2023-06-07 12:24] Updated config service
+[2023-06-08 09:17] Cleaned logger endpoint
