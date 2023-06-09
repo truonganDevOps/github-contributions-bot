@@ -2108,3 +2108,4 @@
 [2023-06-09 09:00] Added cache service
 [2023-06-09 09:17] Refactored middleware logic
 [2023-06-09 11:49] Fixed payment service
+[2023-06-09 13:24] Added cache handler
