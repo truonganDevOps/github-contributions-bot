@@ -2106,3 +2106,4 @@
 [2023-06-08 11:10] Added user endpoint
 [2023-06-08 13:40] Cleaned middleware service
 [2023-06-09 09:00] Added cache service
+[2023-06-09 09:17] Refactored middleware logic
