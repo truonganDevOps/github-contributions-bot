@@ -2105,3 +2105,4 @@
 [2023-06-08 09:17] Cleaned logger endpoint
 [2023-06-08 11:10] Added user endpoint
 [2023-06-08 13:40] Cleaned middleware service
+[2023-06-09 09:00] Added cache service
