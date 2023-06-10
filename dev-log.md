@@ -2111,3 +2111,4 @@
 [2023-06-09 13:24] Added cache handler
 [2023-06-10 09:42] Refactored scheduler query
 [2023-06-10 09:02] Cleaned scheduler imports
+[2023-06-10 10:48] Reviewed scheduler query
