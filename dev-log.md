@@ -2112,3 +2112,4 @@
 [2023-06-10 09:42] Refactored scheduler query
 [2023-06-10 09:02] Cleaned scheduler imports
 [2023-06-10 10:48] Reviewed scheduler query
+[2023-06-11 09:38] Added scheduler logic
