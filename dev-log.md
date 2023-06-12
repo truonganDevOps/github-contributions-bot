@@ -2115,3 +2115,4 @@
 [2023-06-11 09:38] Added scheduler logic
 [2023-06-11 10:24] Reviewed scheduler endpoint
 [2023-06-11 11:08] Fixed logger endpoint
+[2023-06-12 09:50] Reviewed user endpoint
