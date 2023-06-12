@@ -2117,3 +2117,4 @@
 [2023-06-11 11:08] Fixed logger endpoint
 [2023-06-12 09:50] Reviewed user endpoint
 [2023-06-12 09:25] Fixed middleware endpoint
+[2023-06-12 11:23] Reviewed user module
