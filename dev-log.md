@@ -2122,3 +2122,4 @@
 [2023-06-13 09:17] Added logger handler
 [2023-06-13 11:10] Refactored scheduler imports
 [2023-06-13 12:56] Optimized logger imports
+[2023-06-13 12:13] Refactored scheduler handler
