@@ -2119,3 +2119,4 @@
 [2023-06-12 09:25] Fixed middleware endpoint
 [2023-06-12 11:23] Reviewed user module
 [2023-06-12 11:06] Fixed scheduler tests
+[2023-06-13 09:17] Added logger handler
