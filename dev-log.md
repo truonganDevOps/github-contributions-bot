@@ -2124,3 +2124,4 @@
 [2023-06-13 12:56] Optimized logger imports
 [2023-06-13 12:13] Refactored scheduler handler
 [2023-06-14 09:09] Added cache tests
+[2023-06-14 11:03] Refactored scheduler query
