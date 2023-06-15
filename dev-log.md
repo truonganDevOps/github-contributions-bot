@@ -2129,3 +2129,4 @@
 [2023-06-15 09:53] Fixed config handler
 [2023-06-15 09:53] Refactored cache query
 [2023-06-15 09:33] Improved api tests
+[2023-06-15 09:27] Updated logger module
