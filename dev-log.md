@@ -2130,3 +2130,4 @@
 [2023-06-15 09:53] Refactored cache query
 [2023-06-15 09:33] Improved api tests
 [2023-06-15 09:27] Updated logger module
+[2023-06-16 09:44] Updated middleware module
