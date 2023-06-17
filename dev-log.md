@@ -2134,3 +2134,4 @@
 [2023-06-16 11:55] Improved payment module
 [2023-06-16 12:36] Added auth module
 [2023-06-17 09:33] Added middleware imports
+[2023-06-17 10:46] Optimized middleware logic
