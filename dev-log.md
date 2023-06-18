@@ -2139,3 +2139,4 @@
 [2023-06-17 13:14] Fixed middleware imports
 [2023-06-18 09:14] Refactored user imports
 [2023-06-18 10:50] Refactored scheduler query
+[2023-06-18 12:01] Improved user handler
