@@ -2143,3 +2143,4 @@
 [2023-06-19 09:46] Added auth tests
 [2023-06-19 11:45] Updated cache query
 [2023-06-19 13:35] Added payment query
+[2023-06-20 09:38] Cleaned cache module
