@@ -2151,3 +2151,4 @@
 [2023-06-21 09:59] Added user query
 [2023-06-21 09:52] Improved logger imports
 [2023-06-21 11:12] Cleaned api endpoint
+[2023-06-21 12:37] Refactored user handler
