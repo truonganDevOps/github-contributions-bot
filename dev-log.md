@@ -2155,3 +2155,4 @@
 [2023-06-22 09:39] Fixed scheduler query
 [2023-06-22 10:50] Optimized cache endpoint
 [2023-06-22 12:08] Optimized scheduler tests
+[2023-06-22 12:08] Added middleware handler
