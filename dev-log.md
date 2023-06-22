@@ -2153,3 +2153,4 @@
 [2023-06-21 11:12] Cleaned api endpoint
 [2023-06-21 12:37] Refactored user handler
 [2023-06-22 09:39] Fixed scheduler query
+[2023-06-22 10:50] Optimized cache endpoint
