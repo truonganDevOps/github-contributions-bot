@@ -2156,3 +2156,4 @@
 [2023-06-22 10:50] Optimized cache endpoint
 [2023-06-22 12:08] Optimized scheduler tests
 [2023-06-22 12:08] Added middleware handler
+[2023-06-23 09:21] Cleaned logger handler
