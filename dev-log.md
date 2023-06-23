@@ -2158,3 +2158,4 @@
 [2023-06-22 12:08] Added middleware handler
 [2023-06-23 09:21] Cleaned logger handler
 [2023-06-23 09:55] Refactored user tests
+[2023-06-23 09:55] Refactored logger query
