@@ -2159,3 +2159,4 @@
 [2023-06-23 09:21] Cleaned logger handler
 [2023-06-23 09:55] Refactored user tests
 [2023-06-23 09:55] Refactored logger query
+[2023-06-24 09:46] Improved auth handler
