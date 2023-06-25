@@ -2165,3 +2165,4 @@
 [2023-06-24 12:12] Updated api logic
 [2023-06-25 09:19] Cleaned payment imports
 [2023-06-25 10:54] Fixed database query
+[2023-06-25 10:42] Fixed logger service
