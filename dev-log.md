@@ -2166,3 +2166,4 @@
 [2023-06-25 09:19] Cleaned payment imports
 [2023-06-25 10:54] Fixed database query
 [2023-06-25 10:42] Fixed logger service
+[2023-06-25 11:08] Fixed user handler
