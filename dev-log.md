@@ -2169,3 +2169,4 @@
 [2023-06-25 11:08] Fixed user handler
 [2023-06-26 09:03] Cleaned api service
 [2023-06-26 11:52] Reviewed middleware logic
+[2023-06-26 11:27] Updated scheduler query
