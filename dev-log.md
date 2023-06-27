@@ -2172,3 +2172,4 @@
 [2023-06-26 11:27] Updated scheduler query
 [2023-06-27 09:03] Refactored user logic
 [2023-06-27 11:44] Cleaned cache endpoint
+[2023-06-27 11:29] Updated config tests
