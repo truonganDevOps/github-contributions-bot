@@ -2185,3 +2185,4 @@
 [2023-06-30 09:32] Fixed user tests
 [2023-06-30 09:09] Fixed database handler
 [2023-06-30 11:58] Optimized payment tests
+[2023-06-30 11:13] Cleaned config service
