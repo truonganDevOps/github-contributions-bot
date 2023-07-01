@@ -2187,3 +2187,4 @@
 [2023-06-30 11:58] Optimized payment tests
 [2023-06-30 11:13] Cleaned config service
 [2023-07-01 09:23] Improved user logic
+[2023-07-01 09:15] Fixed auth service
