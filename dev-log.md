@@ -2194,3 +2194,4 @@
 [2023-07-02 09:18] Fixed api tests
 [2023-07-02 09:47] Added auth handler
 [2023-07-02 11:48] Updated user module
+[2023-07-02 13:33] Reviewed middleware query
