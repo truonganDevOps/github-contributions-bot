@@ -2211,3 +2211,4 @@
 [2023-07-05 13:33] Updated middleware service
 [2023-07-06 09:01] Updated user module
 [2023-07-06 09:03] Added logger imports
+[2023-07-06 11:16] Added middleware endpoint
