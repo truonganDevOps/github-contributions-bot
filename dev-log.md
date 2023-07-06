@@ -2212,3 +2212,4 @@
 [2023-07-06 09:01] Updated user module
 [2023-07-06 09:03] Added logger imports
 [2023-07-06 11:16] Added middleware endpoint
+[2023-07-06 11:55] Optimized auth query
