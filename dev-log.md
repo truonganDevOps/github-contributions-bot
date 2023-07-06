@@ -2213,3 +2213,4 @@
 [2023-07-06 09:03] Added logger imports
 [2023-07-06 11:16] Added middleware endpoint
 [2023-07-06 11:55] Optimized auth query
+[2023-07-06 11:47] Optimized user handler
