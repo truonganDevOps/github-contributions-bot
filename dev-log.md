@@ -2216,3 +2216,4 @@
 [2023-07-06 11:47] Optimized user handler
 [2023-07-07 09:57] Optimized logger handler
 [2023-07-07 10:40] Cleaned auth service
+[2023-07-07 12:36] Cleaned logger service
