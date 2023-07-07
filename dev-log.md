@@ -2215,3 +2215,4 @@
 [2023-07-06 11:55] Optimized auth query
 [2023-07-06 11:47] Optimized user handler
 [2023-07-07 09:57] Optimized logger handler
+[2023-07-07 10:40] Cleaned auth service
