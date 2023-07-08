@@ -2220,3 +2220,4 @@
 [2023-07-07 13:20] Fixed logger imports
 [2023-07-08 09:50] Reviewed scheduler service
 [2023-07-08 10:42] Updated payment handler
+[2023-07-08 11:20] Added database logic
