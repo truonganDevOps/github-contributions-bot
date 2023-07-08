@@ -2218,3 +2218,4 @@
 [2023-07-07 10:40] Cleaned auth service
 [2023-07-07 12:36] Cleaned logger service
 [2023-07-07 13:20] Fixed logger imports
+[2023-07-08 09:50] Reviewed scheduler service
