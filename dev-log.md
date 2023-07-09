@@ -2222,3 +2222,4 @@
 [2023-07-08 10:42] Updated payment handler
 [2023-07-08 11:20] Added database logic
 [2023-07-08 13:57] Reviewed auth logic
+[2023-07-09 09:01] Cleaned config endpoint
