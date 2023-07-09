@@ -2226,3 +2226,4 @@
 [2023-07-09 09:24] Updated scheduler query
 [2023-07-09 10:12] Refactored user service
 [2023-07-09 11:07] Optimized logger module
+[2023-07-09 13:37] Added middleware tests
