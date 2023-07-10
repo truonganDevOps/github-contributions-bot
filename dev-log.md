@@ -2229,3 +2229,4 @@
 [2023-07-09 13:37] Added middleware tests
 [2023-07-10 09:27] Improved middleware endpoint
 [2023-07-10 11:20] Cleaned api service
+[2023-07-10 11:00] Fixed api module
