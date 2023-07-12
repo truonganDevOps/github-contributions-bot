@@ -2237,3 +2237,4 @@
 [2023-07-11 11:29] Fixed logger module
 [2023-07-11 13:54] Fixed database endpoint
 [2023-07-12 09:31] Refactored middleware service
+[2023-07-12 09:18] Fixed config handler
