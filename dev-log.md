@@ -2248,3 +2248,4 @@
 [2023-07-15 09:05] Updated cache module
 [2023-07-15 11:05] Cleaned user logic
 [2023-07-15 12:50] Improved database query
+[2023-07-16 09:20] Refactored user handler
