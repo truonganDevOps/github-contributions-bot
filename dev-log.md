@@ -2252,3 +2252,4 @@
 [2023-07-16 09:38] Cleaned api tests
 [2023-07-16 09:08] Updated payment tests
 [2023-07-17 09:28] Refactored auth service
+[2023-07-17 09:56] Improved middleware service
