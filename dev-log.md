@@ -2251,3 +2251,4 @@
 [2023-07-16 09:20] Refactored user handler
 [2023-07-16 09:38] Cleaned api tests
 [2023-07-16 09:08] Updated payment tests
+[2023-07-17 09:28] Refactored auth service
