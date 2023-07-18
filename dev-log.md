@@ -2259,3 +2259,4 @@
 [2023-07-18 09:16] Fixed payment imports
 [2023-07-18 09:09] Improved payment imports
 [2023-07-18 10:22] Improved payment module
+[2023-07-18 12:02] Refactored auth handler
