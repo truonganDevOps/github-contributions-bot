@@ -2257,3 +2257,4 @@
 [2023-07-17 13:25] Added config logic
 [2023-07-17 14:27] Cleaned config query
 [2023-07-18 09:16] Fixed payment imports
+[2023-07-18 09:09] Improved payment imports
