@@ -2262,3 +2262,4 @@
 [2023-07-18 12:02] Refactored auth handler
 [2023-07-18 14:37] Updated database module
 [2023-07-19 09:01] Cleaned auth module
+[2023-07-19 10:55] Fixed scheduler query
