@@ -2269,3 +2269,4 @@
 [2023-07-20 12:55] Optimized user endpoint
 [2023-07-20 14:26] Reviewed database tests
 [2023-07-20 15:41] Optimized auth endpoint
+[2023-07-21 09:30] Added api service
