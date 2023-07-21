@@ -2271,3 +2271,4 @@
 [2023-07-20 15:41] Optimized auth endpoint
 [2023-07-21 09:30] Added api service
 [2023-07-21 09:26] Fixed logger endpoint
+[2023-07-21 10:39] Optimized cache query
