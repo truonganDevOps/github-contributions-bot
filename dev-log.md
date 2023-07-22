@@ -2275,3 +2275,4 @@
 [2023-07-22 09:13] Updated payment query
 [2023-07-22 09:58] Improved database service
 [2023-07-22 09:26] Improved config imports
+[2023-07-22 10:20] Fixed middleware module
