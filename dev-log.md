@@ -2277,3 +2277,4 @@
 [2023-07-22 09:26] Improved config imports
 [2023-07-22 10:20] Fixed middleware module
 [2023-07-23 09:30] Added cache module
+[2023-07-23 09:22] Updated payment handler
