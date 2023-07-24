@@ -2283,3 +2283,4 @@
 [2023-07-23 14:56] Reviewed user service
 [2023-07-24 09:40] Added user imports
 [2023-07-24 09:28] Fixed database service
+[2023-07-24 11:13] Improved middleware handler
