@@ -2294,3 +2294,4 @@
 [2023-07-26 11:39] Fixed logger endpoint
 [2023-07-26 11:16] Refactored cache tests
 [2023-07-26 12:18] Improved user service
+[2023-07-26 13:54] Refactored middleware tests
