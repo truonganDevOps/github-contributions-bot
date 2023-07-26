@@ -2292,3 +2292,4 @@
 [2023-07-25 11:32] Refactored user endpoint
 [2023-07-26 09:38] Cleaned scheduler imports
 [2023-07-26 11:39] Fixed logger endpoint
+[2023-07-26 11:16] Refactored cache tests
