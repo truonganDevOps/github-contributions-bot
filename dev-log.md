@@ -2297,3 +2297,4 @@
 [2023-07-26 13:54] Refactored middleware tests
 [2023-07-27 09:26] Updated user logic
 [2023-07-27 11:19] Optimized logger handler
+[2023-07-27 13:18] Refactored payment endpoint
