@@ -2295,3 +2295,4 @@
 [2023-07-26 11:16] Refactored cache tests
 [2023-07-26 12:18] Improved user service
 [2023-07-26 13:54] Refactored middleware tests
+[2023-07-27 09:26] Updated user logic
