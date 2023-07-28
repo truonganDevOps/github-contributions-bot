@@ -2302,3 +2302,4 @@
 [2023-07-28 09:54] Optimized auth tests
 [2023-07-28 11:12] Fixed api module
 [2023-07-28 12:46] Optimized payment imports
+[2023-07-28 13:20] Added payment endpoint
