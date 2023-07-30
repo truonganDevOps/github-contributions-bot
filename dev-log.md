@@ -2309,3 +2309,4 @@
 [2023-07-30 09:31] Optimized scheduler imports
 [2023-07-30 09:07] Cleaned api query
 [2023-07-30 11:19] Refactored config logic
+[2023-07-30 13:03] Updated user handler
