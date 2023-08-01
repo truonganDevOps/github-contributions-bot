@@ -2315,3 +2315,4 @@
 [2023-07-31 10:39] Reviewed auth tests
 [2023-07-31 12:46] Refactored auth imports
 [2023-07-31 14:04] Cleaned payment imports
+[2023-08-01 09:21] Updated middleware handler
