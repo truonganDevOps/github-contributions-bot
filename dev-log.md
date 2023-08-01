@@ -2317,3 +2317,4 @@
 [2023-07-31 14:04] Cleaned payment imports
 [2023-08-01 09:21] Updated middleware handler
 [2023-08-01 10:24] Cleaned scheduler query
+[2023-08-01 10:23] Updated config logic
