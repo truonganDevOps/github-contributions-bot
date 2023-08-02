@@ -2323,3 +2323,4 @@
 [2023-08-02 11:12] Fixed database tests
 [2023-08-02 12:12] Improved auth module
 [2023-08-02 12:20] Improved logger logic
+[2023-08-02 13:20] Refactored payment tests
