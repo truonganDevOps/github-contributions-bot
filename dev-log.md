@@ -2319,3 +2319,4 @@
 [2023-08-01 10:24] Cleaned scheduler query
 [2023-08-01 10:23] Updated config logic
 [2023-08-01 10:31] Improved api imports
+[2023-08-02 09:49] Updated database query
