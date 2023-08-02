@@ -2321,3 +2321,4 @@
 [2023-08-01 10:31] Improved api imports
 [2023-08-02 09:49] Updated database query
 [2023-08-02 11:12] Fixed database tests
+[2023-08-02 12:12] Improved auth module
