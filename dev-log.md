@@ -2329,3 +2329,4 @@
 [2023-08-03 11:58] Cleaned user imports
 [2023-08-03 11:31] Updated auth imports
 [2023-08-04 09:58] Fixed database handler
+[2023-08-04 10:27] Fixed middleware logic
