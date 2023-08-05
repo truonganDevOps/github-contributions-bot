@@ -2333,3 +2333,4 @@
 [2023-08-04 12:34] Cleaned config handler
 [2023-08-04 12:13] Improved auth tests
 [2023-08-05 09:11] Improved payment tests
+[2023-08-05 09:12] Improved middleware tests
