@@ -2350,3 +2350,4 @@
 [2023-08-08 10:11] Refactored cache imports
 [2023-08-08 10:54] Added database module
 [2023-08-09 09:19] Improved user query
+[2023-08-09 09:20] Cleaned scheduler service
