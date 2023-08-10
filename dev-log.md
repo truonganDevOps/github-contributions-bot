@@ -2353,3 +2353,4 @@
 [2023-08-09 09:20] Cleaned scheduler service
 [2023-08-09 10:46] Improved scheduler service
 [2023-08-10 09:24] Improved scheduler query
+[2023-08-10 11:44] Improved middleware logic
