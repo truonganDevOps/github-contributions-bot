@@ -2358,3 +2358,4 @@
 [2023-08-10 13:43] Reviewed database imports
 [2023-08-11 09:57] Cleaned scheduler tests
 [2023-08-11 11:07] Cleaned auth handler
+[2023-08-11 12:16] Fixed auth tests
