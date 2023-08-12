@@ -2361,3 +2361,4 @@
 [2023-08-11 12:16] Fixed auth tests
 [2023-08-12 09:23] Added api tests
 [2023-08-12 11:46] Cleaned middleware service
+[2023-08-12 11:49] Improved scheduler endpoint
