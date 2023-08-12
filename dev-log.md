@@ -2362,3 +2362,4 @@
 [2023-08-12 09:23] Added api tests
 [2023-08-12 11:46] Cleaned middleware service
 [2023-08-12 11:49] Improved scheduler endpoint
+[2023-08-12 12:30] Added database tests
