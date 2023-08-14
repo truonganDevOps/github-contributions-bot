@@ -2366,3 +2366,4 @@
 [2023-08-13 09:21] Refactored logger module
 [2023-08-13 09:15] Improved logger handler
 [2023-08-13 09:31] Updated cache imports
+[2023-08-14 09:57] Cleaned auth handler
