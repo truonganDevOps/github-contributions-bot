@@ -2375,3 +2375,4 @@
 [2023-08-15 10:59] Updated logger service
 [2023-08-16 09:28] Optimized database imports
 [2023-08-16 11:47] Fixed config logic
+[2023-08-16 13:56] Optimized config query
