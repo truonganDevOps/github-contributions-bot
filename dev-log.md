@@ -2376,3 +2376,4 @@
 [2023-08-16 09:28] Optimized database imports
 [2023-08-16 11:47] Fixed config logic
 [2023-08-16 13:56] Optimized config query
+[2023-08-17 09:26] Updated scheduler endpoint
