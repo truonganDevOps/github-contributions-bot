@@ -2381,3 +2381,4 @@
 [2023-08-17 10:44] Fixed api imports
 [2023-08-17 12:37] Reviewed auth imports
 [2023-08-17 12:48] Added payment imports
+[2023-08-18 09:19] Reviewed auth service
