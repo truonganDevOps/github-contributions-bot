@@ -2392,3 +2392,4 @@
 [2023-08-19 12:09] Optimized config query
 [2023-08-20 09:28] Improved cache handler
 [2023-08-20 10:56] Fixed api imports
+[2023-08-20 11:29] Fixed payment service
