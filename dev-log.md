@@ -2393,3 +2393,4 @@
 [2023-08-20 09:28] Improved cache handler
 [2023-08-20 10:56] Fixed api imports
 [2023-08-20 11:29] Fixed payment service
+[2023-08-20 12:40] Optimized logger logic
