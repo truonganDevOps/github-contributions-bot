@@ -2403,3 +2403,4 @@
 [2023-08-22 09:53] Cleaned config service
 [2023-08-22 09:57] Updated logger endpoint
 [2023-08-22 09:01] Improved payment query
+[2023-08-23 09:23] Fixed cache endpoint
