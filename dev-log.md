@@ -2406,3 +2406,4 @@
 [2023-08-23 09:23] Fixed cache endpoint
 [2023-08-23 09:14] Reviewed cache module
 [2023-08-23 10:45] Refactored user module
+[2023-08-24 09:49] Fixed auth handler
