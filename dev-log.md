@@ -2409,3 +2409,4 @@
 [2023-08-24 09:49] Fixed auth handler
 [2023-08-24 11:59] Cleaned logger module
 [2023-08-24 12:40] Refactored user tests
+[2023-08-24 13:20] Refactored logger logic
