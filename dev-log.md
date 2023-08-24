@@ -2408,3 +2408,4 @@
 [2023-08-23 10:45] Refactored user module
 [2023-08-24 09:49] Fixed auth handler
 [2023-08-24 11:59] Cleaned logger module
+[2023-08-24 12:40] Refactored user tests
