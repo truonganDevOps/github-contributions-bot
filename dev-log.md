@@ -2410,3 +2410,4 @@
 [2023-08-24 11:59] Cleaned logger module
 [2023-08-24 12:40] Refactored user tests
 [2023-08-24 13:20] Refactored logger logic
+[2023-08-25 09:47] Cleaned database endpoint
