@@ -2417,3 +2417,4 @@
 [2023-08-25 14:49] Optimized cache service
 [2023-08-26 09:30] Refactored api logic
 [2023-08-26 11:39] Added logger tests
+[2023-08-26 12:03] Optimized logger query
