@@ -2415,3 +2415,4 @@
 [2023-08-25 13:59] Updated cache imports
 [2023-08-25 14:16] Reviewed middleware handler
 [2023-08-25 14:49] Optimized cache service
+[2023-08-26 09:30] Refactored api logic
