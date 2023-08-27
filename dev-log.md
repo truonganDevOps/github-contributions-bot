@@ -2419,3 +2419,4 @@
 [2023-08-26 11:39] Added logger tests
 [2023-08-26 12:03] Optimized logger query
 [2023-08-27 09:46] Cleaned database imports
+[2023-08-27 09:02] Added auth tests
