@@ -2421,3 +2421,4 @@
 [2023-08-27 09:46] Cleaned database imports
 [2023-08-27 09:02] Added auth tests
 [2023-08-27 11:58] Added scheduler endpoint
+[2023-08-27 13:50] Refactored database endpoint
