@@ -2423,3 +2423,4 @@
 [2023-08-27 11:58] Added scheduler endpoint
 [2023-08-27 13:50] Refactored database endpoint
 [2023-08-28 09:15] Refactored logger logic
+[2023-08-28 11:38] Fixed auth tests
