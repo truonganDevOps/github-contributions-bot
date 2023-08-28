@@ -2425,3 +2425,4 @@
 [2023-08-28 09:15] Refactored logger logic
 [2023-08-28 11:38] Fixed auth tests
 [2023-08-28 13:02] Optimized logger service
+[2023-08-28 13:40] Optimized cache endpoint
