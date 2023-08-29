@@ -2426,3 +2426,4 @@
 [2023-08-28 11:38] Fixed auth tests
 [2023-08-28 13:02] Optimized logger service
 [2023-08-28 13:40] Optimized cache endpoint
+[2023-08-29 09:22] Improved user query
