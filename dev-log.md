@@ -2443,3 +2443,4 @@
 [2023-09-01 09:39] Reviewed auth imports
 [2023-09-01 11:37] Added cache handler
 [2023-09-01 13:34] Refactored auth endpoint
+[2023-09-01 14:49] Cleaned api logic
