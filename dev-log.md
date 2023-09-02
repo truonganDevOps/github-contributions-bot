@@ -2446,3 +2446,4 @@
 [2023-09-01 14:49] Cleaned api logic
 [2023-09-02 09:47] Cleaned auth logic
 [2023-09-02 10:25] Cleaned config endpoint
+[2023-09-02 11:02] Refactored user logic
