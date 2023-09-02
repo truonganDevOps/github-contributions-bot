@@ -2444,3 +2444,4 @@
 [2023-09-01 11:37] Added cache handler
 [2023-09-01 13:34] Refactored auth endpoint
 [2023-09-01 14:49] Cleaned api logic
+[2023-09-02 09:47] Cleaned auth logic
