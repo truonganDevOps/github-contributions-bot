@@ -2449,3 +2449,4 @@
 [2023-09-02 11:02] Refactored user logic
 [2023-09-02 11:05] Cleaned auth imports
 [2023-09-02 13:25] Cleaned middleware imports
+[2023-09-03 09:21] Cleaned scheduler endpoint
