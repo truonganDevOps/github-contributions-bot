@@ -2455,3 +2455,4 @@
 [2023-09-03 11:39] Cleaned user query
 [2023-09-03 12:28] Reviewed database tests
 [2023-09-04 09:14] Improved cache logic
+[2023-09-04 10:44] Added middleware logic
