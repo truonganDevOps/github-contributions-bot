@@ -2458,3 +2458,4 @@
 [2023-09-04 10:44] Added middleware logic
 [2023-09-04 10:51] Fixed logger tests
 [2023-09-04 10:41] Refactored api tests
+[2023-09-04 11:16] Refactored payment service
