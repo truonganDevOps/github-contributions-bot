@@ -2457,3 +2457,4 @@
 [2023-09-04 09:14] Improved cache logic
 [2023-09-04 10:44] Added middleware logic
 [2023-09-04 10:51] Fixed logger tests
+[2023-09-04 10:41] Refactored api tests
