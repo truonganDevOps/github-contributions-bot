@@ -2462,3 +2462,4 @@
 [2023-09-05 09:35] Updated auth query
 [2023-09-05 10:49] Improved logger service
 [2023-09-05 10:12] Fixed scheduler endpoint
+[2023-09-05 12:46] Refactored logger service
