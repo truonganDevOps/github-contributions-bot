@@ -2471,3 +2471,4 @@
 [2023-09-07 10:49] Cleaned config service
 [2023-09-07 12:40] Added auth module
 [2023-09-07 12:22] Fixed middleware service
+[2023-09-07 14:32] Fixed payment tests
