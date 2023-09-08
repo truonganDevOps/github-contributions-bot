@@ -2474,3 +2474,4 @@
 [2023-09-07 14:32] Fixed payment tests
 [2023-09-08 09:03] Updated database service
 [2023-09-08 11:13] Refactored database imports
+[2023-09-08 13:13] Reviewed payment endpoint
