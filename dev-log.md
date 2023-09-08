@@ -2475,3 +2475,4 @@
 [2023-09-08 09:03] Updated database service
 [2023-09-08 11:13] Refactored database imports
 [2023-09-08 13:13] Reviewed payment endpoint
+[2023-09-08 15:30] Added payment query
