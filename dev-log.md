@@ -2478,3 +2478,4 @@
 [2023-09-08 15:30] Added payment query
 [2023-09-09 09:44] Added scheduler tests
 [2023-09-09 09:46] Fixed scheduler module
+[2023-09-09 11:28] Optimized middleware logic
