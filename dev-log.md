@@ -2477,3 +2477,4 @@
 [2023-09-08 13:13] Reviewed payment endpoint
 [2023-09-08 15:30] Added payment query
 [2023-09-09 09:44] Added scheduler tests
+[2023-09-09 09:46] Fixed scheduler module
