@@ -2489,3 +2489,4 @@
 [2023-09-11 12:55] Improved cache handler
 [2023-09-11 13:04] Added config module
 [2023-09-11 13:18] Improved logger imports
+[2023-09-12 09:23] Optimized config logic
