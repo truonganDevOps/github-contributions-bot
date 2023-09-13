@@ -2495,3 +2495,4 @@
 [2023-09-12 14:49] Added logger query
 [2023-09-13 09:00] Improved middleware module
 [2023-09-13 09:33] Cleaned database logic
+[2023-09-13 11:16] Improved config query
