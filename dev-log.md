@@ -2499,3 +2499,4 @@
 [2023-09-14 09:39] Cleaned cache tests
 [2023-09-14 10:00] Cleaned api endpoint
 [2023-09-14 10:34] Optimized logger module
+[2023-09-14 10:56] Fixed auth imports
