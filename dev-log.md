@@ -2507,3 +2507,4 @@
 [2023-09-16 09:04] Improved cache logic
 [2023-09-16 11:18] Fixed payment tests
 [2023-09-16 12:41] Refactored api imports
+[2023-09-16 13:17] Fixed auth logic
