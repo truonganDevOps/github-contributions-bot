@@ -2511,3 +2511,4 @@
 [2023-09-17 09:04] Reviewed cache handler
 [2023-09-17 10:44] Cleaned logger endpoint
 [2023-09-17 12:21] Reviewed config query
+[2023-09-17 14:45] Fixed database handler
