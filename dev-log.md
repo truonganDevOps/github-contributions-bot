@@ -2509,3 +2509,4 @@
 [2023-09-16 12:41] Refactored api imports
 [2023-09-16 13:17] Fixed auth logic
 [2023-09-17 09:04] Reviewed cache handler
+[2023-09-17 10:44] Cleaned logger endpoint
