@@ -2523,3 +2523,4 @@
 [2023-09-19 11:07] Added config module
 [2023-09-20 09:07] Added database tests
 [2023-09-20 09:08] Reviewed config logic
+[2023-09-20 10:29] Improved config endpoint
