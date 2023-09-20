@@ -2522,3 +2522,4 @@
 [2023-09-19 09:37] Added cache imports
 [2023-09-19 11:07] Added config module
 [2023-09-20 09:07] Added database tests
+[2023-09-20 09:08] Reviewed config logic
