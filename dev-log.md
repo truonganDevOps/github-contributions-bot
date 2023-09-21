@@ -2527,3 +2527,4 @@
 [2023-09-21 09:59] Refactored cache service
 [2023-09-21 09:13] Cleaned scheduler query
 [2023-09-21 09:05] Refactored api handler
+[2023-09-21 10:32] Optimized middleware handler
