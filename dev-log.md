@@ -2525,3 +2525,4 @@
 [2023-09-20 09:08] Reviewed config logic
 [2023-09-20 10:29] Improved config endpoint
 [2023-09-21 09:59] Refactored cache service
+[2023-09-21 09:13] Cleaned scheduler query
