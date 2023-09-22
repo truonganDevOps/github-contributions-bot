@@ -2531,3 +2531,4 @@
 [2023-09-21 10:06] Reviewed database query
 [2023-09-22 09:27] Refactored logger module
 [2023-09-22 09:52] Fixed payment imports
+[2023-09-22 11:45] Added auth tests
