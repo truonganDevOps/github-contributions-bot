@@ -2533,3 +2533,4 @@
 [2023-09-22 09:52] Fixed payment imports
 [2023-09-22 11:45] Added auth tests
 [2023-09-22 13:24] Fixed database logic
+[2023-09-23 09:32] Fixed middleware handler
