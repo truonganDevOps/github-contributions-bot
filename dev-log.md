@@ -2540,3 +2540,4 @@
 [2023-09-23 16:30] Fixed user handler
 [2023-09-24 09:40] Optimized database imports
 [2023-09-24 09:03] Cleaned user query
+[2023-09-24 09:06] Fixed cache tests
