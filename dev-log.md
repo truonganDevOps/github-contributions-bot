@@ -2543,3 +2543,4 @@
 [2023-09-24 09:06] Fixed cache tests
 [2023-09-24 10:41] Added scheduler imports
 [2023-09-25 09:40] Improved payment endpoint
+[2023-09-25 09:50] Cleaned middleware endpoint
