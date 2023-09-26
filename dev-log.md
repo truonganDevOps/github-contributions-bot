@@ -2548,3 +2548,4 @@
 [2023-09-25 12:17] Fixed scheduler endpoint
 [2023-09-25 14:49] Refactored config handler
 [2023-09-26 09:34] Added scheduler module
+[2023-09-26 11:18] Optimized middleware tests
