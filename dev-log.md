@@ -2552,3 +2552,4 @@
 [2023-09-26 13:23] Refactored middleware logic
 [2023-09-26 14:19] Optimized auth logic
 [2023-09-27 09:27] Refactored cache endpoint
+[2023-09-27 09:00] Refactored logger service
