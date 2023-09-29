@@ -2562,3 +2562,4 @@
 [2023-09-28 13:59] Optimized auth tests
 [2023-09-28 15:48] Refactored user logic
 [2023-09-29 09:04] Fixed user module
+[2023-09-29 09:56] Added user query
