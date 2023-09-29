@@ -2563,3 +2563,4 @@
 [2023-09-28 15:48] Refactored user logic
 [2023-09-29 09:04] Fixed user module
 [2023-09-29 09:56] Added user query
+[2023-09-29 11:27] Updated middleware imports
