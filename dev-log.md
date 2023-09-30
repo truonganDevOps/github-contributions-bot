@@ -2566,3 +2566,4 @@
 [2023-09-29 11:27] Updated middleware imports
 [2023-09-30 09:18] Cleaned api module
 [2023-09-30 09:20] Optimized scheduler handler
+[2023-09-30 11:32] Optimized middleware logic
