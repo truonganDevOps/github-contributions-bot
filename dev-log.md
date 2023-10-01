@@ -2572,3 +2572,4 @@
 [2023-10-01 11:27] Reviewed logger query
 [2023-10-01 12:51] Refactored config imports
 [2023-10-01 14:50] Reviewed database handler
+[2023-10-01 16:09] Added scheduler endpoint
