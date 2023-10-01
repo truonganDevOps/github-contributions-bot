@@ -2571,3 +2571,4 @@
 [2023-10-01 09:23] Refactored middleware imports
 [2023-10-01 11:27] Reviewed logger query
 [2023-10-01 12:51] Refactored config imports
+[2023-10-01 14:50] Reviewed database handler
