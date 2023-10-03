@@ -2579,3 +2579,4 @@
 [2023-10-02 12:42] Updated scheduler service
 [2023-10-03 09:29] Added auth imports
 [2023-10-03 09:15] Reviewed api query
+[2023-10-03 11:14] Cleaned database handler
