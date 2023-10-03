@@ -2581,3 +2581,4 @@
 [2023-10-03 09:15] Reviewed api query
 [2023-10-03 11:14] Cleaned database handler
 [2023-10-03 11:15] Updated database tests
+[2023-10-03 13:23] Cleaned auth logic
