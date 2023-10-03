@@ -2577,3 +2577,4 @@
 [2023-10-02 10:43] Reviewed scheduler imports
 [2023-10-02 10:38] Updated user logic
 [2023-10-02 12:42] Updated scheduler service
+[2023-10-03 09:29] Added auth imports
