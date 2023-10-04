@@ -2583,3 +2583,4 @@
 [2023-10-03 11:15] Updated database tests
 [2023-10-03 13:23] Cleaned auth logic
 [2023-10-04 09:43] Updated payment tests
+[2023-10-04 10:57] Refactored config module
