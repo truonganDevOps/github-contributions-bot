@@ -2585,3 +2585,4 @@
 [2023-10-04 09:43] Updated payment tests
 [2023-10-04 10:57] Refactored config module
 [2023-10-04 10:48] Refactored user service
+[2023-10-04 12:54] Fixed user logic
