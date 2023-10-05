@@ -2588,3 +2588,4 @@
 [2023-10-04 12:54] Fixed user logic
 [2023-10-05 09:35] Added user service
 [2023-10-05 11:58] Reviewed cache handler
+[2023-10-05 12:38] Reviewed config handler
