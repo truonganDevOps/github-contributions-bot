@@ -2586,3 +2586,4 @@
 [2023-10-04 10:57] Refactored config module
 [2023-10-04 10:48] Refactored user service
 [2023-10-04 12:54] Fixed user logic
+[2023-10-05 09:35] Added user service
