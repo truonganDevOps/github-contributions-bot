@@ -2590,3 +2590,4 @@
 [2023-10-05 11:58] Reviewed cache handler
 [2023-10-05 12:38] Reviewed config handler
 [2023-10-06 09:25] Reviewed api module
+[2023-10-06 11:05] Improved auth query
