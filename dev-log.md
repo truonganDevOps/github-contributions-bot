@@ -2597,3 +2597,4 @@
 [2023-10-07 11:43] Cleaned database module
 [2023-10-07 13:01] Updated logger imports
 [2023-10-08 09:38] Refactored api module
+[2023-10-08 11:10] Added scheduler handler
