@@ -2600,3 +2600,4 @@
 [2023-10-08 11:10] Added scheduler handler
 [2023-10-08 13:01] Optimized config tests
 [2023-10-08 14:12] Cleaned auth endpoint
+[2023-10-08 14:02] Refactored api query
