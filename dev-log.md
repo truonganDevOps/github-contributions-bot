@@ -2607,3 +2607,4 @@
 [2023-10-10 09:12] Refactored logger tests
 [2023-10-10 09:03] Refactored api query
 [2023-10-10 09:16] Refactored scheduler tests
+[2023-10-10 11:33] Refactored scheduler logic
