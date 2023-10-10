@@ -2604,3 +2604,4 @@
 [2023-10-09 09:34] Updated cache service
 [2023-10-09 09:10] Added cache imports
 [2023-10-09 11:49] Updated user module
+[2023-10-10 09:12] Refactored logger tests
