@@ -2610,3 +2610,4 @@
 [2023-10-10 11:33] Refactored scheduler logic
 [2023-10-10 11:42] Fixed config endpoint
 [2023-10-11 09:52] Updated scheduler service
+[2023-10-11 10:22] Optimized cache query
