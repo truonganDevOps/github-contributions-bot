@@ -2618,3 +2618,4 @@
 [2023-10-12 11:01] Added config imports
 [2023-10-12 13:53] Optimized middleware query
 [2023-10-13 09:24] Cleaned database imports
+[2023-10-13 10:15] Refactored logger handler
