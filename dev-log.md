@@ -2625,3 +2625,4 @@
 [2023-10-14 09:37] Improved api service
 [2023-10-14 11:13] Refactored auth service
 [2023-10-14 11:08] Updated middleware handler
+[2023-10-14 11:32] Refactored auth module
