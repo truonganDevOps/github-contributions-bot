@@ -2629,3 +2629,4 @@
 [2023-10-15 09:22] Reviewed payment tests
 [2023-10-15 09:40] Refactored cache tests
 [2023-10-15 11:13] Updated user imports
+[2023-10-16 09:07] Cleaned payment logic
