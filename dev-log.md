@@ -2635,3 +2635,4 @@
 [2023-10-16 14:19] Updated payment imports
 [2023-10-17 09:33] Fixed cache endpoint
 [2023-10-17 10:26] Improved database handler
+[2023-10-17 10:26] Optimized user handler
