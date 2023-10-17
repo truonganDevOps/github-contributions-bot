@@ -2636,3 +2636,4 @@
 [2023-10-17 09:33] Fixed cache endpoint
 [2023-10-17 10:26] Improved database handler
 [2023-10-17 10:26] Optimized user handler
+[2023-10-17 10:01] Updated logger logic
