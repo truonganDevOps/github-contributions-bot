@@ -2646,3 +2646,4 @@
 [2023-10-19 13:38] Fixed user imports
 [2023-10-20 09:58] Improved config logic
 [2023-10-20 09:07] Reviewed cache tests
+[2023-10-20 11:42] Optimized api endpoint
