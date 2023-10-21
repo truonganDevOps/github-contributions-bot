@@ -2650,3 +2650,4 @@
 [2023-10-20 11:48] Fixed user logic
 [2023-10-21 09:36] Updated user logic
 [2023-10-21 09:33] Fixed config endpoint
+[2023-10-21 11:00] Fixed user query
