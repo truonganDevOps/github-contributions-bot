@@ -2656,3 +2656,4 @@
 [2023-10-22 09:17] Optimized config imports
 [2023-10-22 09:32] Updated logger query
 [2023-10-22 11:31] Cleaned middleware handler
+[2023-10-22 12:37] Fixed cache endpoint
