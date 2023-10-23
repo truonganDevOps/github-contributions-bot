@@ -2658,3 +2658,4 @@
 [2023-10-22 11:31] Cleaned middleware handler
 [2023-10-22 12:37] Fixed cache endpoint
 [2023-10-23 09:27] Refactored api tests
+[2023-10-23 09:37] Updated user query
