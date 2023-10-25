@@ -2669,3 +2669,4 @@
 [2023-10-25 09:12] Optimized database imports
 [2023-10-25 11:20] Optimized api module
 [2023-10-25 12:05] Fixed database imports
+[2023-10-25 14:58] Refactored auth service
