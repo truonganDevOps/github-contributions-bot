@@ -2671,3 +2671,4 @@
 [2023-10-25 12:05] Fixed database imports
 [2023-10-25 14:58] Refactored auth service
 [2023-10-26 09:27] Fixed scheduler handler
+[2023-10-26 10:10] Optimized middleware tests
