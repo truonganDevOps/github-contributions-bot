@@ -2675,3 +2675,4 @@
 [2023-10-26 11:46] Added payment query
 [2023-10-26 13:14] Reviewed middleware logic
 [2023-10-26 14:07] Updated scheduler handler
+[2023-10-27 09:04] Cleaned user handler
