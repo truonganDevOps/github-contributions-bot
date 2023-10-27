@@ -2679,3 +2679,4 @@
 [2023-10-27 11:11] Fixed logger handler
 [2023-10-27 12:35] Fixed scheduler handler
 [2023-10-27 13:59] Updated api query
+[2023-10-27 15:14] Updated middleware logic
