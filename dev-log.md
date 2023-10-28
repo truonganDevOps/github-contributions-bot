@@ -2684,3 +2684,4 @@
 [2023-10-28 11:33] Added user tests
 [2023-10-28 12:02] Improved api endpoint
 [2023-10-28 14:56] Cleaned cache endpoint
+[2023-10-28 14:19] Cleaned user query
