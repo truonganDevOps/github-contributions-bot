@@ -2682,3 +2682,4 @@
 [2023-10-27 15:14] Updated middleware logic
 [2023-10-28 09:29] Improved cache tests
 [2023-10-28 11:33] Added user tests
+[2023-10-28 12:02] Improved api endpoint
