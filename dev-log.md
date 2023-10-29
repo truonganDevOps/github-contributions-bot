@@ -2685,3 +2685,4 @@
 [2023-10-28 12:02] Improved api endpoint
 [2023-10-28 14:56] Cleaned cache endpoint
 [2023-10-28 14:19] Cleaned user query
+[2023-10-29 09:41] Reviewed cache service
