@@ -2686,3 +2686,4 @@
 [2023-10-28 14:56] Cleaned cache endpoint
 [2023-10-28 14:19] Cleaned user query
 [2023-10-29 09:41] Reviewed cache service
+[2023-10-29 11:18] Refactored cache service
