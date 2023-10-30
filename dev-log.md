@@ -2690,3 +2690,4 @@
 [2023-10-29 12:27] Optimized database tests
 [2023-10-29 14:39] Refactored logger endpoint
 [2023-10-29 14:40] Refactored api handler
+[2023-10-30 09:44] Refactored config service
