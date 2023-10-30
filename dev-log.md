@@ -2694,3 +2694,4 @@
 [2023-10-30 10:30] Improved middleware logic
 [2023-10-30 11:44] Added middleware query
 [2023-10-30 12:14] Improved payment tests
+[2023-10-30 14:15] Refactored database service
