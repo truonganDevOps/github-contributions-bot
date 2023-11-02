@@ -2703,3 +2703,4 @@
 [2023-11-01 13:37] Updated cache tests
 [2023-11-02 09:00] Reviewed scheduler tests
 [2023-11-02 11:42] Optimized api tests
+[2023-11-02 13:27] Optimized user service
