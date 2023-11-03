@@ -2705,3 +2705,4 @@
 [2023-11-02 11:42] Optimized api tests
 [2023-11-02 13:27] Optimized user service
 [2023-11-03 09:58] Added payment imports
+[2023-11-03 11:02] Refactored logger tests
