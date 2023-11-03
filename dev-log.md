@@ -2707,3 +2707,4 @@
 [2023-11-03 09:58] Added payment imports
 [2023-11-03 11:02] Refactored logger tests
 [2023-11-03 11:37] Updated payment service
+[2023-11-03 13:22] Updated user service
