@@ -2709,3 +2709,4 @@
 [2023-11-03 11:37] Updated payment service
 [2023-11-03 13:22] Updated user service
 [2023-11-04 09:53] Reviewed database handler
+[2023-11-04 10:56] Added middleware handler
