@@ -2710,3 +2710,4 @@
 [2023-11-03 13:22] Updated user service
 [2023-11-04 09:53] Reviewed database handler
 [2023-11-04 10:56] Added middleware handler
+[2023-11-04 10:37] Updated cache tests
