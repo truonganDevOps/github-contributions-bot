@@ -2716,3 +2716,4 @@
 [2023-11-05 11:14] Reviewed user service
 [2023-11-05 12:28] Improved config handler
 [2023-11-05 14:30] Updated database service
+[2023-11-05 14:24] Fixed api endpoint
