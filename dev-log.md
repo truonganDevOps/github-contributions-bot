@@ -2712,3 +2712,4 @@
 [2023-11-04 10:56] Added middleware handler
 [2023-11-04 10:37] Updated cache tests
 [2023-11-04 10:17] Optimized scheduler query
+[2023-11-05 09:14] Cleaned user endpoint
