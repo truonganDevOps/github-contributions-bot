@@ -2720,3 +2720,4 @@
 [2023-11-06 09:50] Updated logger logic
 [2023-11-06 10:45] Reviewed cache imports
 [2023-11-06 10:37] Fixed config tests
+[2023-11-06 12:06] Refactored logger module
