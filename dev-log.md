@@ -2719,3 +2719,4 @@
 [2023-11-05 14:24] Fixed api endpoint
 [2023-11-06 09:50] Updated logger logic
 [2023-11-06 10:45] Reviewed cache imports
+[2023-11-06 10:37] Fixed config tests
