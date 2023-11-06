@@ -2717,3 +2717,4 @@
 [2023-11-05 12:28] Improved config handler
 [2023-11-05 14:30] Updated database service
 [2023-11-05 14:24] Fixed api endpoint
+[2023-11-06 09:50] Updated logger logic
