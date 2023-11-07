@@ -2726,3 +2726,4 @@
 [2023-11-07 11:53] Cleaned middleware query
 [2023-11-07 12:44] Added middleware tests
 [2023-11-07 13:37] Refactored logger logic
+[2023-11-07 14:18] Optimized database tests
