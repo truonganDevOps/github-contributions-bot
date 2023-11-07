@@ -2723,3 +2723,4 @@
 [2023-11-06 12:06] Refactored logger module
 [2023-11-06 12:42] Fixed payment imports
 [2023-11-07 09:29] Updated user query
+[2023-11-07 11:53] Cleaned middleware query
