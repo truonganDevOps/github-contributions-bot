@@ -2728,3 +2728,4 @@
 [2023-11-07 13:37] Refactored logger logic
 [2023-11-07 14:18] Optimized database tests
 [2023-11-08 09:40] Refactored payment endpoint
+[2023-11-08 09:39] Refactored api query
