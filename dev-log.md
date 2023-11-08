@@ -2731,3 +2731,4 @@
 [2023-11-08 09:39] Refactored api query
 [2023-11-08 10:12] Updated cache service
 [2023-11-08 10:07] Fixed cache handler
+[2023-11-08 12:15] Cleaned payment endpoint
