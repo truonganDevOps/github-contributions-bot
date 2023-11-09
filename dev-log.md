@@ -2733,3 +2733,4 @@
 [2023-11-08 10:07] Fixed cache handler
 [2023-11-08 12:15] Cleaned payment endpoint
 [2023-11-09 09:46] Cleaned config module
+[2023-11-09 09:30] Improved database query
