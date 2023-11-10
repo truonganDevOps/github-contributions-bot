@@ -2739,3 +2739,4 @@
 [2023-11-10 09:33] Added auth logic
 [2023-11-10 11:18] Updated logger endpoint
 [2023-11-10 12:51] Fixed payment endpoint
+[2023-11-10 14:22] Cleaned api query
