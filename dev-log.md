@@ -2735,3 +2735,4 @@
 [2023-11-09 09:46] Cleaned config module
 [2023-11-09 09:30] Improved database query
 [2023-11-09 09:23] Reviewed scheduler module
+[2023-11-10 09:24] Fixed logger logic
