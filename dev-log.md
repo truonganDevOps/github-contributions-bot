@@ -2737,3 +2737,4 @@
 [2023-11-09 09:23] Reviewed scheduler module
 [2023-11-10 09:24] Fixed logger logic
 [2023-11-10 09:33] Added auth logic
+[2023-11-10 11:18] Updated logger endpoint
