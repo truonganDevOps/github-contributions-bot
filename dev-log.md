@@ -2741,3 +2741,4 @@
 [2023-11-10 12:51] Fixed payment endpoint
 [2023-11-10 14:22] Cleaned api query
 [2023-11-11 09:03] Improved cache logic
+[2023-11-11 10:07] Fixed scheduler module
