@@ -2746,3 +2746,4 @@
 [2023-11-11 11:11] Optimized auth imports
 [2023-11-12 09:31] Fixed scheduler module
 [2023-11-12 09:27] Fixed config imports
+[2023-11-12 09:45] Refactored user service
