@@ -2758,3 +2758,4 @@
 [2023-11-14 09:24] Improved scheduler module
 [2023-11-14 11:10] Added scheduler service
 [2023-11-15 09:12] Cleaned user service
+[2023-11-15 10:47] Cleaned database query
