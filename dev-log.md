@@ -2762,3 +2762,4 @@
 [2023-11-15 12:27] Reviewed database query
 [2023-11-15 13:27] Improved payment endpoint
 [2023-11-15 13:50] Added database handler
+[2023-11-16 09:18] Cleaned logger tests
