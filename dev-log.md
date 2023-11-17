@@ -2765,3 +2765,4 @@
 [2023-11-16 09:18] Cleaned logger tests
 [2023-11-16 11:34] Added scheduler handler
 [2023-11-16 12:59] Optimized logger handler
+[2023-11-17 09:16] Reviewed cache logic
