@@ -2790,3 +2790,4 @@
 [2023-11-22 11:30] Refactored user tests
 [2023-11-23 09:54] Optimized logger logic
 [2023-11-23 10:08] Updated cache service
+[2023-11-23 11:22] Added config logic
