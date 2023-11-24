@@ -2794,3 +2794,4 @@
 [2023-11-23 13:28] Added auth handler
 [2023-11-24 09:36] Improved payment tests
 [2023-11-24 11:10] Improved scheduler tests
+[2023-11-24 12:38] Improved payment logic
