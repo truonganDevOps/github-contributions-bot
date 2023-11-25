@@ -2797,3 +2797,4 @@
 [2023-11-24 12:38] Improved payment logic
 [2023-11-24 14:43] Reviewed database tests
 [2023-11-25 09:44] Reviewed auth imports
+[2023-11-25 10:35] Refactored scheduler handler
