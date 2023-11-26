@@ -2803,3 +2803,4 @@
 [2023-11-26 09:58] Added config handler
 [2023-11-26 11:50] Improved scheduler endpoint
 [2023-11-26 11:24] Improved payment imports
+[2023-11-26 13:29] Updated user handler
