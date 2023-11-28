@@ -2808,3 +2808,4 @@
 [2023-11-27 10:39] Added middleware endpoint
 [2023-11-27 11:48] Fixed scheduler handler
 [2023-11-27 11:58] Optimized auth endpoint
+[2023-11-28 09:50] Reviewed cache endpoint
