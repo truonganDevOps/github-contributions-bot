@@ -2813,3 +2813,4 @@
 [2023-11-28 12:24] Fixed cache module
 [2023-11-29 09:46] Optimized payment query
 [2023-11-29 09:52] Fixed scheduler service
+[2023-11-29 11:34] Cleaned scheduler query
