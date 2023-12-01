@@ -2822,3 +2822,4 @@
 [2023-12-01 09:02] Refactored auth tests
 [2023-12-01 11:45] Updated auth module
 [2023-12-01 11:12] Refactored middleware module
+[2023-12-01 13:05] Updated logger handler
