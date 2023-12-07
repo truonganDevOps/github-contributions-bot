@@ -2844,3 +2844,4 @@
 [2023-12-06 11:30] Added scheduler imports
 [2023-12-06 12:36] Added payment handler
 [2023-12-07 09:43] Added user handler
+[2023-12-07 10:34] Refactored payment logic
