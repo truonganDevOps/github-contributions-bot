@@ -2843,3 +2843,4 @@
 [2023-12-06 09:27] Refactored payment endpoint
 [2023-12-06 11:30] Added scheduler imports
 [2023-12-06 12:36] Added payment handler
+[2023-12-07 09:43] Added user handler
