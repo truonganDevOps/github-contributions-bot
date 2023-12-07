@@ -2845,3 +2845,4 @@
 [2023-12-06 12:36] Added payment handler
 [2023-12-07 09:43] Added user handler
 [2023-12-07 10:34] Refactored payment logic
+[2023-12-07 11:18] Improved database query
