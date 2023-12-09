@@ -2853,3 +2853,4 @@
 [2023-12-08 12:10] Cleaned api imports
 [2023-12-09 09:09] Improved user tests
 [2023-12-09 11:14] Fixed cache query
+[2023-12-09 11:50] Updated logger handler
