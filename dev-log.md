@@ -2856,3 +2856,4 @@
 [2023-12-09 11:50] Updated logger handler
 [2023-12-10 09:02] Improved config handler
 [2023-12-10 10:56] Optimized api query
+[2023-12-10 12:45] Updated cache handler
