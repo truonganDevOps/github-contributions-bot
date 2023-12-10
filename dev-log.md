@@ -2854,3 +2854,4 @@
 [2023-12-09 09:09] Improved user tests
 [2023-12-09 11:14] Fixed cache query
 [2023-12-09 11:50] Updated logger handler
+[2023-12-10 09:02] Improved config handler
