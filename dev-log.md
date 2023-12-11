@@ -2858,3 +2858,4 @@
 [2023-12-10 10:56] Optimized api query
 [2023-12-10 12:45] Updated cache handler
 [2023-12-11 09:22] Fixed auth logic
+[2023-12-11 10:45] Updated auth endpoint
