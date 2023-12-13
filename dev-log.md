@@ -2867,3 +2867,4 @@
 [2023-12-12 14:46] Reviewed cache endpoint
 [2023-12-13 09:29] Improved user logic
 [2023-12-13 09:52] Updated middleware imports
+[2023-12-13 11:39] Refactored user query
