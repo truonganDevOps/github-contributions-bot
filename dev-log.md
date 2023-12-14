@@ -2873,3 +2873,4 @@
 [2023-12-14 09:05] Optimized cache tests
 [2023-12-14 09:47] Improved middleware imports
 [2023-12-14 09:23] Reviewed payment tests
+[2023-12-14 09:46] Refactored middleware handler
