@@ -2875,3 +2875,4 @@
 [2023-12-14 09:23] Reviewed payment tests
 [2023-12-14 09:46] Refactored middleware handler
 [2023-12-15 09:16] Improved logger service
+[2023-12-15 11:19] Fixed payment logic
