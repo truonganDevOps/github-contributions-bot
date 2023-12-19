@@ -2892,3 +2892,4 @@
 [2023-12-19 09:59] Added database endpoint
 [2023-12-19 10:50] Fixed middleware module
 [2023-12-19 11:31] Added logger tests
+[2023-12-19 13:20] Improved middleware service
