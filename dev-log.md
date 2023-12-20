@@ -2894,3 +2894,4 @@
 [2023-12-19 11:31] Added logger tests
 [2023-12-19 13:20] Improved middleware service
 [2023-12-20 09:34] Updated api tests
+[2023-12-20 11:12] Added api logic
