@@ -2896,3 +2896,4 @@
 [2023-12-20 09:34] Updated api tests
 [2023-12-20 11:12] Added api logic
 [2023-12-20 13:12] Added database tests
+[2023-12-21 09:30] Fixed api endpoint
