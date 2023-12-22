@@ -2902,3 +2902,4 @@
 [2023-12-21 11:22] Updated scheduler module
 [2023-12-21 11:52] Cleaned cache handler
 [2023-12-22 09:21] Added cache tests
+[2023-12-22 10:39] Fixed scheduler tests
