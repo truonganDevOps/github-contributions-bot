@@ -2907,3 +2907,4 @@
 [2023-12-23 09:26] Reviewed auth tests
 [2023-12-23 09:29] Updated scheduler imports
 [2023-12-23 09:39] Cleaned database module
+[2023-12-23 10:39] Reviewed user service
