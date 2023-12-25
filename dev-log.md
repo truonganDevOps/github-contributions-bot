@@ -2914,3 +2914,4 @@
 [2023-12-24 13:49] Added config module
 [2023-12-24 15:15] Cleaned cache handler
 [2023-12-25 09:19] Fixed scheduler handler
+[2023-12-25 09:06] Added config tests
