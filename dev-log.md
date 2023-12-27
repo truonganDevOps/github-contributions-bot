@@ -2921,3 +2921,4 @@
 [2023-12-26 10:23] Fixed auth endpoint
 [2023-12-26 10:46] Refactored scheduler imports
 [2023-12-27 09:22] Fixed middleware handler
+[2023-12-27 09:49] Improved user handler
