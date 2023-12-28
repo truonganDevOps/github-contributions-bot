@@ -2925,3 +2925,4 @@
 [2023-12-27 10:37] Added logger module
 [2023-12-27 12:11] Improved config query
 [2023-12-27 14:08] Cleaned payment tests
+[2023-12-28 09:57] Fixed logger endpoint
