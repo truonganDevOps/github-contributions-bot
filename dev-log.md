@@ -2928,3 +2928,4 @@
 [2023-12-28 09:57] Fixed logger endpoint
 [2023-12-28 11:09] Fixed auth module
 [2023-12-28 13:16] Added middleware service
+[2023-12-28 15:29] Fixed logger module
