@@ -2932,3 +2932,4 @@
 [2023-12-29 09:25] Added database query
 [2023-12-29 10:38] Added cache endpoint
 [2023-12-29 12:54] Improved auth handler
+[2023-12-29 12:04] Fixed scheduler query
