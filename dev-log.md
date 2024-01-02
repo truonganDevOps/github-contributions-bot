@@ -2949,3 +2949,4 @@
 [2024-01-02 09:34] Reviewed middleware tests
 [2024-01-02 09:32] Added logger tests
 [2024-01-02 09:59] Cleaned config query
+[2024-01-02 09:09] Refactored user handler
