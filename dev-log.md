@@ -2953,3 +2953,4 @@
 [2024-01-03 09:19] Optimized api service
 [2024-01-03 10:16] Improved database module
 [2024-01-03 12:57] Cleaned logger tests
+[2024-01-03 13:55] Refactored middleware logic
