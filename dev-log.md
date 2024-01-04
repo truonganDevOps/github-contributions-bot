@@ -2955,3 +2955,4 @@
 [2024-01-03 12:57] Cleaned logger tests
 [2024-01-03 13:55] Refactored middleware logic
 [2024-01-03 15:49] Refactored auth endpoint
+[2024-01-04 09:13] Improved scheduler logic
