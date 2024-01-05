@@ -2958,3 +2958,4 @@
 [2024-01-04 09:13] Improved scheduler logic
 [2024-01-04 10:07] Refactored config imports
 [2024-01-04 10:28] Optimized scheduler module
+[2024-01-05 09:10] Fixed api service
