@@ -2964,3 +2964,4 @@
 [2024-01-06 09:03] Refactored payment module
 [2024-01-06 10:32] Refactored cache logic
 [2024-01-06 10:54] Refactored middleware query
+[2024-01-06 10:57] Fixed payment query
