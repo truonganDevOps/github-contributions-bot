@@ -2961,3 +2961,4 @@
 [2024-01-05 09:10] Fixed api service
 [2024-01-05 09:06] Added config module
 [2024-01-05 11:47] Refactored middleware imports
+[2024-01-06 09:03] Refactored payment module
