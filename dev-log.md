@@ -2966,3 +2966,4 @@
 [2024-01-06 10:54] Refactored middleware query
 [2024-01-06 10:57] Fixed payment query
 [2024-01-06 11:42] Updated config imports
+[2024-01-07 09:08] Fixed api logic
