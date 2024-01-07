@@ -2969,3 +2969,4 @@
 [2024-01-07 09:08] Fixed api logic
 [2024-01-07 11:59] Refactored payment query
 [2024-01-07 11:01] Reviewed middleware query
+[2024-01-07 13:14] Reviewed payment service
