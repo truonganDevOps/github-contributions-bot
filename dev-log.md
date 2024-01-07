@@ -2968,3 +2968,4 @@
 [2024-01-06 11:42] Updated config imports
 [2024-01-07 09:08] Fixed api logic
 [2024-01-07 11:59] Refactored payment query
+[2024-01-07 11:01] Reviewed middleware query
