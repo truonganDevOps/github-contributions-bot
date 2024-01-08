@@ -2971,3 +2971,4 @@
 [2024-01-07 11:01] Reviewed middleware query
 [2024-01-07 13:14] Reviewed payment service
 [2024-01-08 09:21] Fixed logger module
+[2024-01-08 09:33] Added database logic
