@@ -2979,3 +2979,4 @@
 [2024-01-09 11:31] Improved logger imports
 [2024-01-09 12:59] Refactored api imports
 [2024-01-10 09:03] Cleaned database imports
+[2024-01-10 11:23] Improved payment logic
