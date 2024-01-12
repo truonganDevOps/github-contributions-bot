@@ -2985,3 +2985,4 @@
 [2024-01-11 10:43] Refactored payment handler
 [2024-01-11 11:06] Refactored payment logic
 [2024-01-12 09:41] Cleaned database handler
+[2024-01-12 11:09] Cleaned database query
