@@ -2988,3 +2988,4 @@
 [2024-01-12 11:09] Cleaned database query
 [2024-01-12 13:38] Improved logger query
 [2024-01-12 14:18] Refactored scheduler query
+[2024-01-13 09:24] Cleaned middleware tests
