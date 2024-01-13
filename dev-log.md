@@ -2989,3 +2989,4 @@
 [2024-01-12 13:38] Improved logger query
 [2024-01-12 14:18] Refactored scheduler query
 [2024-01-13 09:24] Cleaned middleware tests
+[2024-01-13 11:19] Fixed payment handler
