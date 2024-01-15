@@ -2997,3 +2997,4 @@
 [2024-01-14 13:17] Refactored middleware logic
 [2024-01-15 09:49] Reviewed payment query
 [2024-01-15 10:20] Fixed database tests
+[2024-01-15 10:19] Updated logger imports
