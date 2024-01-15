@@ -2998,3 +2998,4 @@
 [2024-01-15 09:49] Reviewed payment query
 [2024-01-15 10:20] Fixed database tests
 [2024-01-15 10:19] Updated logger imports
+[2024-01-15 11:48] Cleaned config handler
