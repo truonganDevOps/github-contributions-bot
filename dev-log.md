@@ -3003,3 +3003,4 @@
 [2024-01-16 09:26] Reviewed user handler
 [2024-01-16 10:58] Added payment endpoint
 [2024-01-16 12:31] Updated config endpoint
+[2024-01-16 12:47] Added config query
