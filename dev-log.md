@@ -3001,3 +3001,4 @@
 [2024-01-15 11:48] Cleaned config handler
 [2024-01-15 12:37] Refactored payment module
 [2024-01-16 09:26] Reviewed user handler
+[2024-01-16 10:58] Added payment endpoint
