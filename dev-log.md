@@ -3004,3 +3004,4 @@
 [2024-01-16 10:58] Added payment endpoint
 [2024-01-16 12:31] Updated config endpoint
 [2024-01-16 12:47] Added config query
+[2024-01-17 09:04] Fixed config query
