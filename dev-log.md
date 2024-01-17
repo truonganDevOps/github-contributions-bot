@@ -3006,3 +3006,4 @@
 [2024-01-16 12:47] Added config query
 [2024-01-17 09:04] Fixed config query
 [2024-01-17 09:38] Added auth handler
+[2024-01-17 09:03] Fixed auth service
