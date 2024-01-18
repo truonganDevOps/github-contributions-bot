@@ -3009,3 +3009,4 @@
 [2024-01-17 09:03] Fixed auth service
 [2024-01-18 09:00] Fixed user handler
 [2024-01-18 09:18] Improved scheduler query
+[2024-01-18 09:13] Updated scheduler endpoint
