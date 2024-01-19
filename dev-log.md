@@ -3012,3 +3012,4 @@
 [2024-01-18 09:13] Updated scheduler endpoint
 [2024-01-18 11:27] Added cache service
 [2024-01-18 11:37] Fixed payment tests
+[2024-01-19 09:16] Cleaned scheduler service
