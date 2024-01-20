@@ -3015,3 +3015,4 @@
 [2024-01-19 09:16] Cleaned scheduler service
 [2024-01-19 10:17] Added database service
 [2024-01-19 12:44] Cleaned auth tests
+[2024-01-20 09:25] Reviewed auth query
