@@ -3019,3 +3019,4 @@
 [2024-01-20 10:18] Updated payment tests
 [2024-01-20 11:02] Optimized user imports
 [2024-01-20 12:59] Reviewed user imports
+[2024-01-21 09:00] Cleaned user handler
