@@ -3025,3 +3025,4 @@
 [2024-01-21 12:47] Improved database handler
 [2024-01-22 09:14] Improved api imports
 [2024-01-22 10:51] Reviewed middleware service
+[2024-01-22 11:29] Refactored api endpoint
