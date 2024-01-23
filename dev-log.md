@@ -3030,3 +3030,4 @@
 [2024-01-22 15:07] Reviewed middleware logic
 [2024-01-23 09:27] Improved api handler
 [2024-01-23 11:09] Improved scheduler query
+[2024-01-23 11:17] Added middleware handler
