@@ -3058,3 +3058,4 @@
 [2024-01-29 09:18] Added user query
 [2024-01-30 09:49] Updated database query
 [2024-01-30 09:10] Added payment module
+[2024-01-30 11:47] Optimized auth logic
