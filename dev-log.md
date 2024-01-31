@@ -3062,3 +3062,4 @@
 [2024-01-31 09:20] Cleaned api imports
 [2024-01-31 11:07] Refactored config module
 [2024-01-31 12:03] Improved database service
+[2024-01-31 13:07] Refactored api endpoint
