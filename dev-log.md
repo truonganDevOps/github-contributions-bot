@@ -3066,3 +3066,4 @@
 [2024-02-01 09:51] Added logger tests
 [2024-02-01 09:09] Updated cache logic
 [2024-02-01 11:41] Improved auth module
+[2024-02-01 11:13] Cleaned user handler
