@@ -3071,3 +3071,4 @@
 [2024-02-02 10:35] Reviewed database module
 [2024-02-02 12:08] Refactored database handler
 [2024-02-02 12:21] Updated logger module
+[2024-02-02 13:09] Added middleware tests
