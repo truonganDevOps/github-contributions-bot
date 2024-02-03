@@ -3074,3 +3074,4 @@
 [2024-02-02 13:09] Added middleware tests
 [2024-02-03 09:45] Improved database handler
 [2024-02-03 10:05] Added scheduler module
+[2024-02-03 10:41] Fixed config logic
