@@ -3084,3 +3084,4 @@
 [2024-02-05 11:39] Fixed user imports
 [2024-02-05 12:19] Updated logger handler
 [2024-02-05 12:56] Refactored payment imports
+[2024-02-06 09:53] Refactored database logic
