@@ -3099,3 +3099,4 @@
 [2024-02-09 11:39] Fixed logger tests
 [2024-02-09 13:36] Refactored database imports
 [2024-02-09 15:11] Cleaned middleware imports
+[2024-02-10 09:43] Added user tests
