@@ -3101,3 +3101,4 @@
 [2024-02-09 15:11] Cleaned middleware imports
 [2024-02-10 09:43] Added user tests
 [2024-02-10 09:57] Fixed scheduler query
+[2024-02-10 11:51] Reviewed user endpoint
