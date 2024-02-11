@@ -3102,3 +3102,4 @@
 [2024-02-10 09:43] Added user tests
 [2024-02-10 09:57] Fixed scheduler query
 [2024-02-10 11:51] Reviewed user endpoint
+[2024-02-11 09:47] Fixed user module
