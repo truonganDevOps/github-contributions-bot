@@ -3105,3 +3105,4 @@
 [2024-02-11 09:47] Fixed user module
 [2024-02-11 09:17] Cleaned payment imports
 [2024-02-11 11:32] Updated user query
+[2024-02-11 12:14] Optimized config service
