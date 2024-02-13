@@ -3111,3 +3111,4 @@
 [2024-02-12 13:22] Added user query
 [2024-02-12 14:55] Improved payment service
 [2024-02-13 09:02] Updated cache tests
+[2024-02-13 11:27] Cleaned user logic
