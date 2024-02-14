@@ -3117,3 +3117,4 @@
 [2024-02-14 11:14] Refactored config tests
 [2024-02-14 13:56] Optimized auth module
 [2024-02-14 14:20] Refactored api endpoint
+[2024-02-14 16:43] Updated auth query
