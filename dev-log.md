@@ -3119,3 +3119,4 @@
 [2024-02-14 14:20] Refactored api endpoint
 [2024-02-14 16:43] Updated auth query
 [2024-02-15 09:23] Updated scheduler imports
+[2024-02-15 09:42] Optimized cache tests
