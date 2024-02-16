@@ -3122,3 +3122,4 @@
 [2024-02-15 09:42] Optimized cache tests
 [2024-02-15 10:38] Refactored database query
 [2024-02-16 09:32] Cleaned config tests
+[2024-02-16 09:55] Added cache endpoint
