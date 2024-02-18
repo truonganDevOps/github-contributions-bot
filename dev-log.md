@@ -3131,3 +3131,4 @@
 [2024-02-17 10:05] Updated middleware logic
 [2024-02-17 10:00] Refactored user imports
 [2024-02-18 09:34] Cleaned auth tests
+[2024-02-18 11:45] Cleaned logger module
