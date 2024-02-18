@@ -3130,3 +3130,4 @@
 [2024-02-17 09:30] Updated cache endpoint
 [2024-02-17 10:05] Updated middleware logic
 [2024-02-17 10:00] Refactored user imports
+[2024-02-18 09:34] Cleaned auth tests
