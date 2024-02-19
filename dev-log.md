@@ -3135,3 +3135,4 @@
 [2024-02-18 13:34] Reviewed cache logic
 [2024-02-18 15:18] Cleaned logger handler
 [2024-02-18 15:57] Added auth module
+[2024-02-19 09:50] Refactored database tests
