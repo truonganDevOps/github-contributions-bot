@@ -3148,3 +3148,4 @@
 [2024-02-21 10:00] Added user logic
 [2024-02-21 10:34] Improved config handler
 [2024-02-21 11:33] Improved database tests
+[2024-02-21 12:59] Improved user service
