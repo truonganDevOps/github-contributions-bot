@@ -3146,3 +3146,4 @@
 [2024-02-20 14:20] Improved api module
 [2024-02-21 09:08] Optimized middleware tests
 [2024-02-21 10:00] Added user logic
+[2024-02-21 10:34] Improved config handler
