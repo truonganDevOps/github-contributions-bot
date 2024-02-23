@@ -3155,3 +3155,4 @@
 [2024-02-22 11:20] Added payment module
 [2024-02-23 09:06] Refactored scheduler endpoint
 [2024-02-23 11:42] Improved middleware handler
+[2024-02-23 12:40] Updated payment handler
