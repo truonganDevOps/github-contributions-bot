@@ -3159,3 +3159,4 @@
 [2024-02-23 14:06] Updated auth query
 [2024-02-23 15:11] Reviewed user tests
 [2024-02-24 09:59] Fixed api imports
+[2024-02-24 11:07] Refactored payment service
