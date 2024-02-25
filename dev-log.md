@@ -3164,3 +3164,4 @@
 [2024-02-24 13:38] Updated config imports
 [2024-02-24 14:19] Fixed middleware handler
 [2024-02-25 09:35] Refactored payment module
+[2024-02-25 11:58] Added config handler
