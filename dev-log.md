@@ -3176,3 +3176,4 @@
 [2024-02-27 09:27] Refactored user tests
 [2024-02-27 09:10] Optimized config module
 [2024-02-27 11:12] Reviewed user logic
+[2024-02-27 13:14] Fixed config handler
