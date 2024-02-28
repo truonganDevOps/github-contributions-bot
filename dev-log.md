@@ -3178,3 +3178,4 @@
 [2024-02-27 11:12] Reviewed user logic
 [2024-02-27 13:14] Fixed config handler
 [2024-02-28 09:48] Cleaned scheduler endpoint
+[2024-02-28 09:14] Fixed logger tests
