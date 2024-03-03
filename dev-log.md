@@ -3194,3 +3194,4 @@
 [2024-03-02 11:22] Improved config imports
 [2024-03-03 09:55] Added logger handler
 [2024-03-03 11:02] Improved api service
+[2024-03-03 11:28] Added payment module
