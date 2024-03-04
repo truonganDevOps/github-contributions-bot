@@ -3197,3 +3197,4 @@
 [2024-03-03 11:28] Added payment module
 [2024-03-03 13:55] Added config tests
 [2024-03-04 09:47] Optimized database imports
+[2024-03-04 09:56] Improved user logic
