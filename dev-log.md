@@ -3201,3 +3201,4 @@
 [2024-03-04 11:31] Reviewed config tests
 [2024-03-05 09:13] Cleaned cache query
 [2024-03-05 09:04] Updated user tests
+[2024-03-05 09:24] Improved cache endpoint
