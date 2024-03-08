@@ -3210,3 +3210,4 @@
 [2024-03-07 10:48] Cleaned api endpoint
 [2024-03-07 10:35] Cleaned api imports
 [2024-03-07 10:27] Reviewed middleware logic
+[2024-03-08 09:12] Fixed middleware query
