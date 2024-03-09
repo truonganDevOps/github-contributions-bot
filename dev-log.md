@@ -3217,3 +3217,4 @@
 [2024-03-08 14:24] Cleaned api module
 [2024-03-09 09:59] Reviewed api endpoint
 [2024-03-09 11:49] Cleaned user imports
+[2024-03-09 13:26] Added payment endpoint
