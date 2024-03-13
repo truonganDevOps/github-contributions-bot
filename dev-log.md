@@ -3231,3 +3231,4 @@
 [2024-03-12 11:20] Fixed config logic
 [2024-03-13 09:57] Cleaned config imports
 [2024-03-13 09:44] Reviewed auth logic
+[2024-03-13 10:09] Refactored middleware tests
