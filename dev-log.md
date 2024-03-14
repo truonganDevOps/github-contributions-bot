@@ -3234,3 +3234,4 @@
 [2024-03-13 10:09] Refactored middleware tests
 [2024-03-14 09:45] Refactored api logic
 [2024-03-14 10:50] Updated logger handler
+[2024-03-14 10:17] Optimized logger module
