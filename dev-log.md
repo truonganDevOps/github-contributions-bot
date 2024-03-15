@@ -3240,3 +3240,4 @@
 [2024-03-15 09:07] Cleaned api endpoint
 [2024-03-15 09:55] Improved payment module
 [2024-03-15 09:52] Improved auth query
+[2024-03-15 10:08] Fixed payment query
