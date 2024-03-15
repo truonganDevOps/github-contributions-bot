@@ -3237,3 +3237,4 @@
 [2024-03-14 10:17] Optimized logger module
 [2024-03-14 11:09] Improved logger logic
 [2024-03-14 11:14] Updated user handler
+[2024-03-15 09:07] Cleaned api endpoint
