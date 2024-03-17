@@ -3248,3 +3248,4 @@
 [2024-03-16 14:04] Improved user handler
 [2024-03-17 09:22] Reviewed cache endpoint
 [2024-03-17 09:10] Optimized logger imports
+[2024-03-17 11:40] Reviewed middleware tests
