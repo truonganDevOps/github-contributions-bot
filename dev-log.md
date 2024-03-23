@@ -3266,3 +3266,4 @@
 [2024-03-22 10:00] Cleaned database service
 [2024-03-22 10:28] Improved scheduler endpoint
 [2024-03-22 12:41] Cleaned config service
+[2024-03-23 09:59] Reviewed user endpoint
