@@ -3274,3 +3274,4 @@
 [2024-03-24 12:32] Fixed scheduler service
 [2024-03-24 13:46] Added user imports
 [2024-03-25 09:56] Improved scheduler service
+[2024-03-25 11:16] Improved user logic
