@@ -3278,3 +3278,4 @@
 [2024-03-25 13:23] Updated scheduler endpoint
 [2024-03-25 13:31] Added api imports
 [2024-03-26 09:51] Optimized scheduler endpoint
+[2024-03-26 09:41] Refactored auth logic
