@@ -3289,3 +3289,4 @@
 [2024-03-28 09:03] Updated cache logic
 [2024-03-28 11:38] Cleaned database service
 [2024-03-28 13:06] Added scheduler logic
+[2024-03-28 14:02] Updated auth query
