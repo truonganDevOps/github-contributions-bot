@@ -3288,3 +3288,4 @@
 [2024-03-27 13:31] Updated scheduler module
 [2024-03-28 09:03] Updated cache logic
 [2024-03-28 11:38] Cleaned database service
+[2024-03-28 13:06] Added scheduler logic
