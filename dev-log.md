@@ -3293,3 +3293,4 @@
 [2024-03-29 09:05] Fixed logger imports
 [2024-03-29 11:47] Reviewed database query
 [2024-03-29 13:25] Improved api module
+[2024-03-30 09:14] Cleaned user logic
