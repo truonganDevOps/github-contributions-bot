@@ -3295,3 +3295,4 @@
 [2024-03-29 13:25] Improved api module
 [2024-03-30 09:14] Cleaned user logic
 [2024-03-30 09:46] Cleaned config endpoint
+[2024-03-30 11:57] Improved user service
