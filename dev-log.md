@@ -3294,3 +3294,4 @@
 [2024-03-29 11:47] Reviewed database query
 [2024-03-29 13:25] Improved api module
 [2024-03-30 09:14] Cleaned user logic
+[2024-03-30 09:46] Cleaned config endpoint
