@@ -3297,3 +3297,4 @@
 [2024-03-30 09:46] Cleaned config endpoint
 [2024-03-30 11:57] Improved user service
 [2024-03-30 12:09] Cleaned middleware tests
+[2024-03-30 14:34] Improved logger handler
