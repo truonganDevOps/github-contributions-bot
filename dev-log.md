@@ -3299,3 +3299,4 @@
 [2024-03-30 12:09] Cleaned middleware tests
 [2024-03-30 14:34] Improved logger handler
 [2024-03-31 09:44] Cleaned user query
+[2024-03-31 09:38] Updated middleware query
