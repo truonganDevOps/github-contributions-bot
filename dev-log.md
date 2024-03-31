@@ -3300,3 +3300,4 @@
 [2024-03-30 14:34] Improved logger handler
 [2024-03-31 09:44] Cleaned user query
 [2024-03-31 09:38] Updated middleware query
+[2024-03-31 10:40] Reviewed middleware module
