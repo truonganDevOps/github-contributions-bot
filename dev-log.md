@@ -3308,3 +3308,4 @@
 [2024-04-01 15:43] Cleaned logger module
 [2024-04-02 09:42] Cleaned database endpoint
 [2024-04-02 10:53] Fixed cache handler
+[2024-04-02 10:38] Reviewed api tests
