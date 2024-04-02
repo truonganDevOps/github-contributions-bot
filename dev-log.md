@@ -3306,3 +3306,4 @@
 [2024-04-01 12:57] Optimized config module
 [2024-04-01 13:30] Added api query
 [2024-04-01 15:43] Cleaned logger module
+[2024-04-02 09:42] Cleaned database endpoint
