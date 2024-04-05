@@ -3318,3 +3318,4 @@
 [2024-04-04 11:09] Optimized payment module
 [2024-04-05 09:13] Improved logger module
 [2024-04-05 10:58] Improved middleware tests
+[2024-04-05 12:36] Refactored middleware module
