@@ -3320,3 +3320,4 @@
 [2024-04-05 10:58] Improved middleware tests
 [2024-04-05 12:36] Refactored middleware module
 [2024-04-06 09:54] Improved payment service
+[2024-04-06 09:00] Cleaned logger query
