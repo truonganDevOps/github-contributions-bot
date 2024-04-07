@@ -3322,3 +3322,4 @@
 [2024-04-06 09:54] Improved payment service
 [2024-04-06 09:00] Cleaned logger query
 [2024-04-06 11:39] Cleaned auth query
+[2024-04-07 09:02] Updated user handler
