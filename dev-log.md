@@ -3328,3 +3328,4 @@
 [2024-04-08 09:23] Added config service
 [2024-04-08 11:39] Cleaned config service
 [2024-04-08 11:05] Cleaned cache handler
+[2024-04-08 12:49] Fixed payment query
