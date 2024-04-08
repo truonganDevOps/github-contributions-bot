@@ -3326,3 +3326,4 @@
 [2024-04-07 10:07] Fixed config endpoint
 [2024-04-07 10:35] Refactored logger module
 [2024-04-08 09:23] Added config service
+[2024-04-08 11:39] Cleaned config service
