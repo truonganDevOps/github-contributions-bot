@@ -3330,3 +3330,4 @@
 [2024-04-08 11:05] Cleaned cache handler
 [2024-04-08 12:49] Fixed payment query
 [2024-04-09 09:44] Refactored api handler
+[2024-04-09 11:11] Improved auth logic
