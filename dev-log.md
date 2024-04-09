@@ -3332,3 +3332,4 @@
 [2024-04-09 09:44] Refactored api handler
 [2024-04-09 11:11] Improved auth logic
 [2024-04-09 11:12] Added payment service
+[2024-04-09 11:17] Refactored api tests
