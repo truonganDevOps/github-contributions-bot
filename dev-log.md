@@ -3333,3 +3333,4 @@
 [2024-04-09 11:11] Improved auth logic
 [2024-04-09 11:12] Added payment service
 [2024-04-09 11:17] Refactored api tests
+[2024-04-10 09:36] Refactored config tests
