@@ -3336,3 +3336,4 @@
 [2024-04-10 09:36] Refactored config tests
 [2024-04-10 09:36] Added config tests
 [2024-04-10 10:42] Fixed database tests
+[2024-04-10 11:20] Cleaned middleware logic
