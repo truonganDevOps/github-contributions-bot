@@ -3335,3 +3335,4 @@
 [2024-04-09 11:17] Refactored api tests
 [2024-04-10 09:36] Refactored config tests
 [2024-04-10 09:36] Added config tests
+[2024-04-10 10:42] Fixed database tests
