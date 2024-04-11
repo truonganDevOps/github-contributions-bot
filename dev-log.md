@@ -3338,3 +3338,4 @@
 [2024-04-10 10:42] Fixed database tests
 [2024-04-10 11:20] Cleaned middleware logic
 [2024-04-11 09:33] Refactored user handler
+[2024-04-11 09:46] Reviewed auth tests
