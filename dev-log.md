@@ -3339,3 +3339,4 @@
 [2024-04-10 11:20] Cleaned middleware logic
 [2024-04-11 09:33] Refactored user handler
 [2024-04-11 09:46] Reviewed auth tests
+[2024-04-11 11:43] Fixed api handler
