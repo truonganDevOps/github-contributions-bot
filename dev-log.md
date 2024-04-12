@@ -3344,3 +3344,4 @@
 [2024-04-12 10:06] Cleaned api imports
 [2024-04-12 11:47] Added middleware logic
 [2024-04-12 13:32] Added middleware handler
+[2024-04-12 14:12] Added payment endpoint
