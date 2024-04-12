@@ -3343,3 +3343,4 @@
 [2024-04-12 09:17] Updated config query
 [2024-04-12 10:06] Cleaned api imports
 [2024-04-12 11:47] Added middleware logic
+[2024-04-12 13:32] Added middleware handler
