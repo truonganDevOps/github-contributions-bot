@@ -3347,3 +3347,4 @@
 [2024-04-12 14:12] Added payment endpoint
 [2024-04-13 09:02] Cleaned payment module
 [2024-04-13 10:27] Optimized logger imports
+[2024-04-13 10:01] Added auth tests
