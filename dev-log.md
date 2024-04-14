@@ -3348,3 +3348,4 @@
 [2024-04-13 09:02] Cleaned payment module
 [2024-04-13 10:27] Optimized logger imports
 [2024-04-13 10:01] Added auth tests
+[2024-04-14 09:31] Cleaned config endpoint
