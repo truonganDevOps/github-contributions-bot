@@ -3353,3 +3353,4 @@
 [2024-04-14 10:59] Cleaned api logic
 [2024-04-14 10:22] Added database service
 [2024-04-15 09:41] Cleaned auth imports
+[2024-04-15 10:48] Fixed config query
