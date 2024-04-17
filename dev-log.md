@@ -3361,3 +3361,4 @@
 [2024-04-16 10:29] Cleaned payment imports
 [2024-04-16 11:06] Updated scheduler tests
 [2024-04-17 09:12] Fixed logger imports
+[2024-04-17 10:49] Added payment tests
