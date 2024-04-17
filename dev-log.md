@@ -3362,3 +3362,4 @@
 [2024-04-16 11:06] Updated scheduler tests
 [2024-04-17 09:12] Fixed logger imports
 [2024-04-17 10:49] Added payment tests
+[2024-04-17 12:11] Added scheduler logic
