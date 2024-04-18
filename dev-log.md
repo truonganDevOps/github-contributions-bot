@@ -3366,3 +3366,4 @@
 [2024-04-17 13:34] Refactored user tests
 [2024-04-17 13:19] Reviewed api service
 [2024-04-18 09:24] Optimized database service
+[2024-04-18 10:56] Reviewed cache logic
