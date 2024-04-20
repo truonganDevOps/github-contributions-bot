@@ -3377,3 +3377,4 @@
 [2024-04-20 10:07] Updated config handler
 [2024-04-20 10:33] Optimized cache imports
 [2024-04-20 12:34] Cleaned database tests
+[2024-04-20 12:35] Cleaned logger query
