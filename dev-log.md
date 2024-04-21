@@ -3380,3 +3380,4 @@
 [2024-04-20 12:35] Cleaned logger query
 [2024-04-21 09:04] Added cache service
 [2024-04-21 11:45] Added middleware handler
+[2024-04-21 11:28] Refactored logger query
