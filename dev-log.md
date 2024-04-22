@@ -3383,3 +3383,4 @@
 [2024-04-21 11:28] Refactored logger query
 [2024-04-21 13:34] Reviewed config logic
 [2024-04-21 15:28] Updated api service
+[2024-04-22 09:27] Cleaned middleware service
