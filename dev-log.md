@@ -3385,3 +3385,4 @@
 [2024-04-21 15:28] Updated api service
 [2024-04-22 09:27] Cleaned middleware service
 [2024-04-22 11:47] Optimized api tests
+[2024-04-22 12:14] Reviewed logger query
