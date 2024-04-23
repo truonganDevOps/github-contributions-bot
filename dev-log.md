@@ -3389,3 +3389,4 @@
 [2024-04-22 12:12] Added payment tests
 [2024-04-23 09:01] Improved scheduler service
 [2024-04-23 11:46] Optimized middleware logic
+[2024-04-23 11:27] Added auth imports
