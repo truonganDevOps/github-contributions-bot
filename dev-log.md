@@ -3391,3 +3391,4 @@
 [2024-04-23 11:46] Optimized middleware logic
 [2024-04-23 11:27] Added auth imports
 [2024-04-24 09:40] Updated cache imports
+[2024-04-24 10:59] Optimized user query
