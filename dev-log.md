@@ -3408,3 +3408,4 @@
 [2024-04-27 11:57] Cleaned config service
 [2024-04-27 11:36] Fixed auth logic
 [2024-04-28 09:45] Added middleware service
+[2024-04-28 09:28] Added user handler
