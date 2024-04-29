@@ -3412,3 +3412,4 @@
 [2024-04-28 11:18] Reviewed cache handler
 [2024-04-28 12:53] Refactored cache handler
 [2024-04-29 09:16] Cleaned api tests
+[2024-04-29 09:01] Refactored scheduler endpoint
