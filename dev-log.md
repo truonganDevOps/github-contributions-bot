@@ -3422,3 +3422,4 @@
 [2024-05-01 09:21] Updated auth imports
 [2024-05-01 11:12] Fixed api tests
 [2024-05-01 11:48] Reviewed payment service
+[2024-05-01 11:23] Added user handler
