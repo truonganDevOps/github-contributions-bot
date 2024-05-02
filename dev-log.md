@@ -3427,3 +3427,4 @@
 [2024-05-02 09:19] Improved user logic
 [2024-05-02 09:06] Updated api query
 [2024-05-02 11:37] Added user logic
+[2024-05-02 13:01] Updated payment module
