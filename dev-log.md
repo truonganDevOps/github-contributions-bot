@@ -3425,3 +3425,4 @@
 [2024-05-01 11:23] Added user handler
 [2024-05-01 12:19] Reviewed user handler
 [2024-05-02 09:19] Improved user logic
+[2024-05-02 09:06] Updated api query
