@@ -3429,3 +3429,4 @@
 [2024-05-02 11:37] Added user logic
 [2024-05-02 13:01] Updated payment module
 [2024-05-03 09:24] Fixed config query
+[2024-05-03 10:15] Cleaned user query
