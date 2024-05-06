@@ -3440,3 +3440,4 @@
 [2024-05-05 10:58] Improved api handler
 [2024-05-05 12:47] Reviewed logger tests
 [2024-05-06 09:57] Improved auth endpoint
+[2024-05-06 09:09] Improved payment logic
