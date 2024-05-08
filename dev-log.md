@@ -3450,3 +3450,4 @@
 [2024-05-07 14:37] Fixed auth module
 [2024-05-08 09:59] Updated scheduler query
 [2024-05-08 11:22] Updated logger logic
+[2024-05-08 11:40] Refactored payment endpoint
