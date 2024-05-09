@@ -3453,3 +3453,4 @@
 [2024-05-08 11:40] Refactored payment endpoint
 [2024-05-08 12:43] Cleaned middleware imports
 [2024-05-08 12:44] Improved auth query
+[2024-05-09 09:10] Refactored scheduler handler
