@@ -3464,3 +3464,4 @@
 [2024-05-11 09:17] Cleaned scheduler service
 [2024-05-11 11:19] Cleaned payment tests
 [2024-05-11 13:41] Updated auth imports
+[2024-05-12 09:19] Refactored user service
