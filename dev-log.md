@@ -3466,3 +3466,4 @@
 [2024-05-11 13:41] Updated auth imports
 [2024-05-12 09:19] Refactored user service
 [2024-05-12 09:16] Reviewed payment endpoint
+[2024-05-12 11:42] Fixed api tests
