@@ -3467,3 +3467,4 @@
 [2024-05-12 09:19] Refactored user service
 [2024-05-12 09:16] Reviewed payment endpoint
 [2024-05-12 11:42] Fixed api tests
+[2024-05-12 11:49] Cleaned config query
