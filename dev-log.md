@@ -3471,3 +3471,4 @@
 [2024-05-13 09:37] Fixed payment endpoint
 [2024-05-13 10:32] Optimized api tests
 [2024-05-13 10:27] Improved database tests
+[2024-05-13 10:29] Fixed database query
