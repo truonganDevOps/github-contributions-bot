@@ -3468,3 +3468,4 @@
 [2024-05-12 09:16] Reviewed payment endpoint
 [2024-05-12 11:42] Fixed api tests
 [2024-05-12 11:49] Cleaned config query
+[2024-05-13 09:37] Fixed payment endpoint
