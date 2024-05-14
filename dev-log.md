@@ -3472,3 +3472,4 @@
 [2024-05-13 10:32] Optimized api tests
 [2024-05-13 10:27] Improved database tests
 [2024-05-13 10:29] Fixed database query
+[2024-05-14 09:56] Fixed database handler
