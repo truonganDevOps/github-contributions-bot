@@ -3487,3 +3487,4 @@
 [2024-05-17 10:10] Updated payment query
 [2024-05-17 12:53] Optimized cache handler
 [2024-05-17 14:09] Reviewed api imports
+[2024-05-17 16:39] Fixed middleware handler
