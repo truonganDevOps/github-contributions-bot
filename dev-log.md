@@ -3491,3 +3491,4 @@
 [2024-05-18 09:17] Refactored scheduler query
 [2024-05-18 10:53] Cleaned database query
 [2024-05-18 12:57] Updated scheduler endpoint
+[2024-05-18 12:10] Cleaned logger endpoint
