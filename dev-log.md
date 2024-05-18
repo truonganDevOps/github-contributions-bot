@@ -3490,3 +3490,4 @@
 [2024-05-17 16:39] Fixed middleware handler
 [2024-05-18 09:17] Refactored scheduler query
 [2024-05-18 10:53] Cleaned database query
+[2024-05-18 12:57] Updated scheduler endpoint
