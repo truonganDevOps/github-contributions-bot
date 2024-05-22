@@ -3508,3 +3508,4 @@
 [2024-05-21 13:02] Improved user tests
 [2024-05-22 09:40] Fixed scheduler module
 [2024-05-22 09:49] Refactored database query
+[2024-05-22 11:39] Improved middleware query
