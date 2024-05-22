@@ -3507,3 +3507,4 @@
 [2024-05-21 11:16] Reviewed user query
 [2024-05-21 13:02] Improved user tests
 [2024-05-22 09:40] Fixed scheduler module
+[2024-05-22 09:49] Refactored database query
