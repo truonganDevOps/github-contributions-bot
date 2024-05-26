@@ -3524,3 +3524,4 @@
 [2024-05-25 11:39] Refactored user endpoint
 [2024-05-25 12:59] Added user handler
 [2024-05-26 09:32] Added cache module
+[2024-05-26 10:41] Refactored config module
