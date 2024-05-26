@@ -3526,3 +3526,4 @@
 [2024-05-26 09:32] Added cache module
 [2024-05-26 10:41] Refactored config module
 [2024-05-26 11:23] Fixed logger endpoint
+[2024-05-26 12:07] Fixed config endpoint
