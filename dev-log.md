@@ -3531,3 +3531,4 @@
 [2024-05-27 09:36] Cleaned database handler
 [2024-05-27 11:43] Added logger service
 [2024-05-27 12:19] Updated logger service
+[2024-05-27 14:52] Reviewed logger logic
