@@ -3529,3 +3529,4 @@
 [2024-05-26 12:07] Fixed config endpoint
 [2024-05-26 12:58] Fixed logger logic
 [2024-05-27 09:36] Cleaned database handler
+[2024-05-27 11:43] Added logger service
