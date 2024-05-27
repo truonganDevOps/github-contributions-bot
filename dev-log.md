@@ -3528,3 +3528,4 @@
 [2024-05-26 11:23] Fixed logger endpoint
 [2024-05-26 12:07] Fixed config endpoint
 [2024-05-26 12:58] Fixed logger logic
+[2024-05-27 09:36] Cleaned database handler
