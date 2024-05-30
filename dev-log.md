@@ -3542,3 +3542,4 @@
 [2024-05-29 11:48] Updated scheduler handler
 [2024-05-29 12:27] Reviewed auth tests
 [2024-05-29 12:19] Improved middleware handler
+[2024-05-30 09:37] Reviewed middleware tests
