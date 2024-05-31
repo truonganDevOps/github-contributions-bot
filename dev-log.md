@@ -3547,3 +3547,4 @@
 [2024-05-30 10:21] Added payment module
 [2024-05-30 12:25] Improved cache imports
 [2024-05-30 13:02] Added scheduler service
+[2024-05-31 09:35] Added api endpoint
