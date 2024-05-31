@@ -3549,3 +3549,4 @@
 [2024-05-30 13:02] Added scheduler service
 [2024-05-31 09:35] Added api endpoint
 [2024-05-31 09:27] Optimized scheduler tests
+[2024-05-31 11:11] Added config handler
