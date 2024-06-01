@@ -3551,3 +3551,4 @@
 [2024-05-31 09:27] Optimized scheduler tests
 [2024-05-31 11:11] Added config handler
 [2024-06-01 09:23] Refactored payment tests
+[2024-06-01 10:32] Fixed config query
