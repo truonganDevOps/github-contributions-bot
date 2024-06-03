@@ -3559,3 +3559,4 @@
 [2024-06-02 10:48] Reviewed user tests
 [2024-06-02 11:29] Improved middleware endpoint
 [2024-06-02 11:36] Updated cache imports
+[2024-06-03 09:17] Added auth logic
