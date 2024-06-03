@@ -3562,3 +3562,4 @@
 [2024-06-03 09:17] Added auth logic
 [2024-06-03 11:24] Optimized database imports
 [2024-06-03 11:25] Fixed user handler
+[2024-06-03 11:29] Updated config handler
