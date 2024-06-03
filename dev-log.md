@@ -3563,3 +3563,4 @@
 [2024-06-03 11:24] Optimized database imports
 [2024-06-03 11:25] Fixed user handler
 [2024-06-03 11:29] Updated config handler
+[2024-06-03 12:02] Added config logic
