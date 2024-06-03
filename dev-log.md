@@ -3561,3 +3561,4 @@
 [2024-06-02 11:36] Updated cache imports
 [2024-06-03 09:17] Added auth logic
 [2024-06-03 11:24] Optimized database imports
+[2024-06-03 11:25] Fixed user handler
