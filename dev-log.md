@@ -3566,3 +3566,4 @@
 [2024-06-03 12:02] Added config logic
 [2024-06-04 09:33] Refactored config module
 [2024-06-04 09:39] Added middleware query
+[2024-06-04 11:11] Optimized api endpoint
