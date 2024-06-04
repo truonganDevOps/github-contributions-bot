@@ -3564,3 +3564,4 @@
 [2024-06-03 11:25] Fixed user handler
 [2024-06-03 11:29] Updated config handler
 [2024-06-03 12:02] Added config logic
+[2024-06-04 09:33] Refactored config module
