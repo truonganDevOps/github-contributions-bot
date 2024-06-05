@@ -3572,3 +3572,4 @@
 [2024-06-05 10:25] Cleaned logger logic
 [2024-06-05 12:22] Fixed cache service
 [2024-06-05 14:07] Refactored auth imports
+[2024-06-05 14:50] Added middleware handler
