@@ -3570,3 +3570,4 @@
 [2024-06-04 12:45] Added payment tests
 [2024-06-05 09:18] Improved auth imports
 [2024-06-05 10:25] Cleaned logger logic
+[2024-06-05 12:22] Fixed cache service
