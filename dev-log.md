@@ -3577,3 +3577,4 @@
 [2024-06-06 10:24] Cleaned auth tests
 [2024-06-06 11:18] Cleaned middleware handler
 [2024-06-06 13:42] Improved auth service
+[2024-06-06 14:51] Improved middleware tests
