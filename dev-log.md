@@ -3575,3 +3575,4 @@
 [2024-06-05 14:50] Added middleware handler
 [2024-06-06 09:19] Optimized middleware imports
 [2024-06-06 10:24] Cleaned auth tests
+[2024-06-06 11:18] Cleaned middleware handler
