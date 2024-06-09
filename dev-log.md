@@ -3584,3 +3584,4 @@
 [2024-06-08 09:32] Added database query
 [2024-06-08 10:52] Updated logger query
 [2024-06-08 12:03] Added auth imports
+[2024-06-09 09:45] Cleaned middleware module
