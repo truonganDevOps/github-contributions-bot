@@ -3589,3 +3589,4 @@
 [2024-06-09 11:25] Cleaned config endpoint
 [2024-06-10 09:56] Optimized user logic
 [2024-06-10 09:21] Reviewed api tests
+[2024-06-10 10:11] Refactored config tests
