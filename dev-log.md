@@ -3588,3 +3588,4 @@
 [2024-06-09 10:14] Fixed middleware tests
 [2024-06-09 11:25] Cleaned config endpoint
 [2024-06-10 09:56] Optimized user logic
+[2024-06-10 09:21] Reviewed api tests
