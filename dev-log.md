@@ -3597,3 +3597,4 @@
 [2024-06-11 14:57] Fixed config query
 [2024-06-12 09:44] Updated cache query
 [2024-06-12 09:48] Added api module
+[2024-06-12 10:28] Updated middleware service
