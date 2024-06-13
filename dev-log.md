@@ -3602,3 +3602,4 @@
 [2024-06-12 10:45] Updated user logic
 [2024-06-13 09:41] Improved middleware service
 [2024-06-13 11:33] Added scheduler module
+[2024-06-13 13:38] Fixed cache query
