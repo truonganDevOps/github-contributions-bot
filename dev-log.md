@@ -3604,3 +3604,4 @@
 [2024-06-13 11:33] Added scheduler module
 [2024-06-13 13:38] Fixed cache query
 [2024-06-14 09:24] Updated payment query
+[2024-06-14 11:49] Cleaned logger handler
