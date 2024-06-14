@@ -3605,3 +3605,4 @@
 [2024-06-13 13:38] Fixed cache query
 [2024-06-14 09:24] Updated payment query
 [2024-06-14 11:49] Cleaned logger handler
+[2024-06-14 13:31] Updated middleware query
