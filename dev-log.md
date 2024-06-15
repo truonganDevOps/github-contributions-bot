@@ -3610,3 +3610,4 @@
 [2024-06-14 15:17] Improved database endpoint
 [2024-06-15 09:15] Added api module
 [2024-06-15 10:44] Added config endpoint
+[2024-06-15 11:01] Cleaned user module
