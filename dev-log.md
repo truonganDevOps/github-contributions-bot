@@ -3609,3 +3609,4 @@
 [2024-06-14 15:28] Reviewed payment handler
 [2024-06-14 15:17] Improved database endpoint
 [2024-06-15 09:15] Added api module
+[2024-06-15 10:44] Added config endpoint
