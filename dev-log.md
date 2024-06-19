@@ -3628,3 +3628,4 @@
 [2024-06-19 11:26] Cleaned user service
 [2024-06-19 13:40] Fixed database logic
 [2024-06-19 14:32] Reviewed database service
+[2024-06-19 15:12] Added user query
