@@ -3625,3 +3625,4 @@
 [2024-06-18 10:25] Reviewed database handler
 [2024-06-18 12:07] Optimized middleware module
 [2024-06-19 09:49] Added api logic
+[2024-06-19 11:26] Cleaned user service
