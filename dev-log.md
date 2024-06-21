@@ -3636,3 +3636,4 @@
 [2024-06-20 16:13] Cleaned auth query
 [2024-06-21 09:23] Added auth handler
 [2024-06-21 09:24] Cleaned database imports
+[2024-06-21 10:07] Fixed logger module
