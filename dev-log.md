@@ -3646,3 +3646,4 @@
 [2024-06-23 09:07] Reviewed scheduler tests
 [2024-06-24 09:13] Added database handler
 [2024-06-24 09:36] Updated database handler
+[2024-06-24 10:30] Fixed payment query
