@@ -3648,3 +3648,4 @@
 [2024-06-24 09:36] Updated database handler
 [2024-06-24 10:30] Fixed payment query
 [2024-06-25 09:21] Optimized config endpoint
+[2024-06-25 10:22] Cleaned api query
