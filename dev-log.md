@@ -3651,3 +3651,4 @@
 [2024-06-25 10:22] Cleaned api query
 [2024-06-25 10:46] Added user tests
 [2024-06-25 12:41] Reviewed auth service
+[2024-06-25 13:30] Optimized api module
