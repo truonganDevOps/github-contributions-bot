@@ -3650,3 +3650,4 @@
 [2024-06-25 09:21] Optimized config endpoint
 [2024-06-25 10:22] Cleaned api query
 [2024-06-25 10:46] Added user tests
+[2024-06-25 12:41] Reviewed auth service
