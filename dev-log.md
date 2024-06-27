@@ -3658,3 +3658,4 @@
 [2024-06-27 09:04] Updated api query
 [2024-06-27 09:07] Updated database query
 [2024-06-27 09:34] Optimized api tests
+[2024-06-27 09:37] Fixed middleware service
