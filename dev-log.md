@@ -3662,3 +3662,4 @@
 [2024-06-27 10:29] Cleaned middleware imports
 [2024-06-28 09:11] Updated user logic
 [2024-06-28 10:27] Refactored api imports
+[2024-06-28 10:58] Optimized middleware module
