@@ -3666,3 +3666,4 @@
 [2024-06-28 10:38] Fixed config tests
 [2024-06-29 09:45] Improved middleware endpoint
 [2024-06-29 09:53] Reviewed user module
+[2024-06-29 11:31] Fixed user handler
