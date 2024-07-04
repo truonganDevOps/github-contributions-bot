@@ -3682,3 +3682,4 @@
 [2024-07-03 12:51] Added auth endpoint
 [2024-07-04 09:53] Optimized user query
 [2024-07-04 10:15] Cleaned config service
+[2024-07-04 10:08] Updated api logic
