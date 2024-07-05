@@ -3684,3 +3684,4 @@
 [2024-07-04 10:15] Cleaned config service
 [2024-07-04 10:08] Updated api logic
 [2024-07-05 09:26] Reviewed api tests
+[2024-07-05 09:54] Refactored middleware service
