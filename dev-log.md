@@ -3686,3 +3686,4 @@
 [2024-07-05 09:26] Reviewed api tests
 [2024-07-05 09:54] Refactored middleware service
 [2024-07-05 10:25] Updated user service
+[2024-07-05 12:25] Optimized user tests
