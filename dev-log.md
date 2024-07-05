@@ -3685,3 +3685,4 @@
 [2024-07-04 10:08] Updated api logic
 [2024-07-05 09:26] Reviewed api tests
 [2024-07-05 09:54] Refactored middleware service
+[2024-07-05 10:25] Updated user service
