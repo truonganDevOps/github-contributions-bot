@@ -3690,3 +3690,4 @@
 [2024-07-05 13:05] Refactored payment endpoint
 [2024-07-06 09:26] Refactored auth service
 [2024-07-06 10:46] Optimized logger service
+[2024-07-06 10:26] Cleaned user logic
