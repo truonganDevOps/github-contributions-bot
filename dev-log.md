@@ -3688,3 +3688,4 @@
 [2024-07-05 10:25] Updated user service
 [2024-07-05 12:25] Optimized user tests
 [2024-07-05 13:05] Refactored payment endpoint
+[2024-07-06 09:26] Refactored auth service
