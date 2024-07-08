@@ -3698,3 +3698,4 @@
 [2024-07-07 12:35] Reviewed logger query
 [2024-07-08 09:42] Added database handler
 [2024-07-08 10:18] Updated logger service
+[2024-07-08 12:45] Refactored cache endpoint
