@@ -3700,3 +3700,4 @@
 [2024-07-08 10:18] Updated logger service
 [2024-07-08 12:45] Refactored cache endpoint
 [2024-07-09 09:11] Refactored payment logic
+[2024-07-09 10:25] Added user module
