@@ -3704,3 +3704,4 @@
 [2024-07-09 12:06] Refactored database module
 [2024-07-09 13:11] Cleaned payment handler
 [2024-07-09 14:46] Fixed auth query
+[2024-07-10 09:51] Fixed database logic
