@@ -3714,3 +3714,4 @@
 [2024-07-11 13:59] Updated payment logic
 [2024-07-11 14:40] Cleaned payment module
 [2024-07-12 09:51] Updated config tests
+[2024-07-12 11:19] Fixed api service
