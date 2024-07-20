@@ -3750,3 +3750,4 @@
 [2024-07-20 09:36] Refactored middleware tests
 [2024-07-20 09:41] Fixed payment query
 [2024-07-20 11:08] Fixed api handler
+[2024-07-20 12:07] Refactored middleware endpoint
