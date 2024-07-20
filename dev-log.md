@@ -3749,3 +3749,4 @@
 [2024-07-19 11:59] Optimized cache service
 [2024-07-20 09:36] Refactored middleware tests
 [2024-07-20 09:41] Fixed payment query
+[2024-07-20 11:08] Fixed api handler
