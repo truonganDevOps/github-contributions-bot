@@ -3748,3 +3748,4 @@
 [2024-07-19 11:22] Reviewed user endpoint
 [2024-07-19 11:59] Optimized cache service
 [2024-07-20 09:36] Refactored middleware tests
+[2024-07-20 09:41] Fixed payment query
