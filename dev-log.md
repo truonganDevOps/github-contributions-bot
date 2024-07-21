@@ -3754,3 +3754,4 @@
 [2024-07-20 12:17] Added database imports
 [2024-07-21 09:03] Refactored payment imports
 [2024-07-21 10:28] Reviewed config logic
+[2024-07-21 10:32] Updated scheduler endpoint
