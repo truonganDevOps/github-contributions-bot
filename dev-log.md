@@ -3758,3 +3758,4 @@
 [2024-07-22 09:42] Refactored cache module
 [2024-07-22 09:31] Added user module
 [2024-07-22 11:30] Refactored middleware service
+[2024-07-22 11:19] Improved api query
