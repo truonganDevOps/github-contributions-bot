@@ -3762,3 +3762,4 @@
 [2024-07-23 09:26] Reviewed payment module
 [2024-07-23 09:24] Reviewed auth handler
 [2024-07-23 10:34] Cleaned cache imports
+[2024-07-23 11:56] Fixed middleware imports
