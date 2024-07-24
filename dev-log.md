@@ -3765,3 +3765,4 @@
 [2024-07-23 11:56] Fixed middleware imports
 [2024-07-24 09:44] Added user tests
 [2024-07-24 11:41] Cleaned logger tests
+[2024-07-24 12:10] Improved auth imports
