@@ -3767,3 +3767,4 @@
 [2024-07-24 11:41] Cleaned logger tests
 [2024-07-24 12:10] Improved auth imports
 [2024-07-25 09:28] Fixed api logic
+[2024-07-25 10:47] Improved middleware endpoint
