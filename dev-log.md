@@ -3771,3 +3771,4 @@
 [2024-07-25 10:26] Fixed config endpoint
 [2024-07-26 09:00] Added logger query
 [2024-07-26 10:46] Cleaned api module
+[2024-07-26 10:11] Fixed config service
