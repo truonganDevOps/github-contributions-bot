@@ -3769,3 +3769,4 @@
 [2024-07-25 09:28] Fixed api logic
 [2024-07-25 10:47] Improved middleware endpoint
 [2024-07-25 10:26] Fixed config endpoint
+[2024-07-26 09:00] Added logger query
