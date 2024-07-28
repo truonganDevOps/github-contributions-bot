@@ -3782,3 +3782,4 @@
 [2024-07-28 10:48] Added user endpoint
 [2024-07-28 10:42] Updated user service
 [2024-07-28 12:10] Optimized database tests
+[2024-07-28 14:14] Updated payment endpoint
