@@ -3787,3 +3787,4 @@
 [2024-07-29 11:26] Reviewed middleware handler
 [2024-07-29 13:00] Fixed api imports
 [2024-07-29 15:28] Fixed middleware query
+[2024-07-29 17:04] Refactored config tests
