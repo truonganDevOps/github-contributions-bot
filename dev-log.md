@@ -3786,3 +3786,4 @@
 [2024-07-29 09:30] Reviewed payment logic
 [2024-07-29 11:26] Reviewed middleware handler
 [2024-07-29 13:00] Fixed api imports
+[2024-07-29 15:28] Fixed middleware query
