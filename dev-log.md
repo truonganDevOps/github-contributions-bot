@@ -3791,3 +3791,4 @@
 [2024-07-30 09:54] Updated api query
 [2024-07-30 10:31] Updated cache handler
 [2024-07-30 11:00] Improved cache imports
+[2024-07-30 11:15] Refactored logger service
