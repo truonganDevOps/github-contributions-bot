@@ -3798,3 +3798,4 @@
 [2024-07-31 12:22] Added database handler
 [2024-08-01 09:07] Cleaned middleware endpoint
 [2024-08-01 11:39] Improved config endpoint
+[2024-08-01 13:15] Refactored user logic
