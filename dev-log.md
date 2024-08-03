@@ -3808,3 +3808,4 @@
 [2024-08-03 10:44] Added api tests
 [2024-08-03 10:27] Fixed database query
 [2024-08-03 10:50] Updated config logic
+[2024-08-03 10:41] Fixed api module
