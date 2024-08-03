@@ -3807,3 +3807,4 @@
 [2024-08-03 09:24] Added payment logic
 [2024-08-03 10:44] Added api tests
 [2024-08-03 10:27] Fixed database query
+[2024-08-03 10:50] Updated config logic
