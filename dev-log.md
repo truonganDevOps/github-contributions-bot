@@ -3811,3 +3811,4 @@
 [2024-08-03 10:41] Fixed api module
 [2024-08-04 09:21] Cleaned api endpoint
 [2024-08-04 11:13] Cleaned auth handler
+[2024-08-04 13:26] Added auth endpoint
