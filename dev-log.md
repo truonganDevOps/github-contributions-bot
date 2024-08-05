@@ -3813,3 +3813,4 @@
 [2024-08-04 11:13] Cleaned auth handler
 [2024-08-04 13:26] Added auth endpoint
 [2024-08-04 14:00] Fixed auth imports
+[2024-08-05 09:08] Optimized auth tests
