@@ -3814,3 +3814,4 @@
 [2024-08-04 13:26] Added auth endpoint
 [2024-08-04 14:00] Fixed auth imports
 [2024-08-05 09:08] Optimized auth tests
+[2024-08-05 09:47] Improved logger logic
