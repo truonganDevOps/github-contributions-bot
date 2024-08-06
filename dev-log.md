@@ -3818,3 +3818,4 @@
 [2024-08-05 11:19] Added payment tests
 [2024-08-06 09:51] Refactored middleware tests
 [2024-08-06 09:18] Improved auth query
+[2024-08-06 11:15] Fixed scheduler endpoint
