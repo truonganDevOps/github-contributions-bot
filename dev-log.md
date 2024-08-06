@@ -3816,3 +3816,4 @@
 [2024-08-05 09:08] Optimized auth tests
 [2024-08-05 09:47] Improved logger logic
 [2024-08-05 11:19] Added payment tests
+[2024-08-06 09:51] Refactored middleware tests
