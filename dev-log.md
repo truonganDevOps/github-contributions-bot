@@ -3821,3 +3821,4 @@
 [2024-08-06 11:15] Fixed scheduler endpoint
 [2024-08-07 09:30] Refactored auth handler
 [2024-08-07 09:17] Updated user endpoint
+[2024-08-07 10:44] Optimized api query
