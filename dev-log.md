@@ -3822,3 +3822,4 @@
 [2024-08-07 09:30] Refactored auth handler
 [2024-08-07 09:17] Updated user endpoint
 [2024-08-07 10:44] Optimized api query
+[2024-08-07 11:22] Reviewed cache tests
