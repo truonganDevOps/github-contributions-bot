@@ -3831,3 +3831,4 @@
 [2024-08-09 11:45] Cleaned logger tests
 [2024-08-09 11:10] Updated database module
 [2024-08-09 13:30] Optimized logger logic
+[2024-08-10 09:43] Fixed config tests
