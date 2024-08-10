@@ -3833,3 +3833,4 @@
 [2024-08-09 13:30] Optimized logger logic
 [2024-08-10 09:43] Fixed config tests
 [2024-08-10 10:50] Optimized auth endpoint
+[2024-08-10 12:51] Fixed payment handler
