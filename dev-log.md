@@ -3860,3 +3860,4 @@
 [2024-08-16 10:31] Optimized database tests
 [2024-08-17 09:52] Optimized scheduler query
 [2024-08-17 10:29] Optimized api query
+[2024-08-17 10:46] Fixed logger handler
