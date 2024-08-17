@@ -3858,3 +3858,4 @@
 [2024-08-16 09:46] Refactored logger tests
 [2024-08-16 10:42] Improved api tests
 [2024-08-16 10:31] Optimized database tests
+[2024-08-17 09:52] Optimized scheduler query
