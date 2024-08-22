@@ -3878,3 +3878,4 @@
 [2024-08-21 09:47] Updated api logic
 [2024-08-21 11:10] Fixed database tests
 [2024-08-22 09:40] Fixed cache endpoint
+[2024-08-22 11:35] Updated middleware module
