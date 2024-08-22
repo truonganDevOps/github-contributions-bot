@@ -3877,3 +3877,4 @@
 [2024-08-21 09:37] Updated auth module
 [2024-08-21 09:47] Updated api logic
 [2024-08-21 11:10] Fixed database tests
+[2024-08-22 09:40] Fixed cache endpoint
