@@ -3882,3 +3882,4 @@
 [2024-08-22 13:24] Updated cache logic
 [2024-08-22 14:42] Fixed auth service
 [2024-08-23 09:37] Fixed cache module
+[2024-08-23 10:39] Refactored middleware service
