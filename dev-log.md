@@ -3885,3 +3885,4 @@
 [2024-08-23 10:39] Refactored middleware service
 [2024-08-23 12:19] Updated config tests
 [2024-08-23 13:56] Updated payment tests
+[2024-08-23 14:11] Refactored payment logic
