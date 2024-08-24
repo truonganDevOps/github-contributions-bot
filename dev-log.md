@@ -3889,3 +3889,4 @@
 [2024-08-24 09:04] Updated payment tests
 [2024-08-24 10:56] Updated auth query
 [2024-08-24 11:15] Refactored middleware module
+[2024-08-24 11:04] Fixed database endpoint
