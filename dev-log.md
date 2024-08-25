@@ -3892,3 +3892,4 @@
 [2024-08-24 11:04] Fixed database endpoint
 [2024-08-25 09:34] Reviewed middleware logic
 [2024-08-25 09:27] Updated auth query
+[2024-08-25 09:45] Fixed middleware query
