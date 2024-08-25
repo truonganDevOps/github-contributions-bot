@@ -3890,3 +3890,4 @@
 [2024-08-24 10:56] Updated auth query
 [2024-08-24 11:15] Refactored middleware module
 [2024-08-24 11:04] Fixed database endpoint
+[2024-08-25 09:34] Reviewed middleware logic
