@@ -3905,3 +3905,4 @@
 [2024-08-28 09:37] Fixed config query
 [2024-08-28 10:51] Optimized database query
 [2024-08-28 11:32] Cleaned api service
+[2024-08-28 11:38] Improved auth handler
