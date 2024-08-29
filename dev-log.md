@@ -3908,3 +3908,4 @@
 [2024-08-28 11:38] Improved auth handler
 [2024-08-29 09:16] Improved auth imports
 [2024-08-29 11:31] Optimized middleware endpoint
+[2024-08-29 11:56] Refactored user query
