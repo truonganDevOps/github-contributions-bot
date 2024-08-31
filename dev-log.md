@@ -3918,3 +3918,4 @@
 [2024-08-31 09:11] Optimized api service
 [2024-08-31 10:43] Fixed user imports
 [2024-08-31 10:14] Cleaned cache logic
+[2024-08-31 12:36] Fixed cache tests
