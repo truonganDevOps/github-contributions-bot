@@ -3919,3 +3919,4 @@
 [2024-08-31 10:43] Fixed user imports
 [2024-08-31 10:14] Cleaned cache logic
 [2024-08-31 12:36] Fixed cache tests
+[2024-09-01 09:37] Added middleware query
