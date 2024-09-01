@@ -3921,3 +3921,4 @@
 [2024-08-31 12:36] Fixed cache tests
 [2024-09-01 09:37] Added middleware query
 [2024-09-01 09:52] Cleaned logger logic
+[2024-09-01 10:48] Reviewed user module
