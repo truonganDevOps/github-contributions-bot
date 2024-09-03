@@ -3929,3 +3929,4 @@
 [2024-09-03 11:12] Fixed config service
 [2024-09-03 12:40] Refactored scheduler query
 [2024-09-03 14:13] Cleaned api endpoint
+[2024-09-03 15:56] Reviewed payment endpoint
