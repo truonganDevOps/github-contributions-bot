@@ -3928,3 +3928,4 @@
 [2024-09-03 09:09] Optimized scheduler handler
 [2024-09-03 11:12] Fixed config service
 [2024-09-03 12:40] Refactored scheduler query
+[2024-09-03 14:13] Cleaned api endpoint
