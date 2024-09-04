@@ -3933,3 +3933,4 @@
 [2024-09-04 09:47] Updated user service
 [2024-09-04 11:16] Cleaned payment tests
 [2024-09-04 13:41] Added config service
+[2024-09-04 15:15] Reviewed auth query
