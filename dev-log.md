@@ -3932,3 +3932,4 @@
 [2024-09-03 15:56] Reviewed payment endpoint
 [2024-09-04 09:47] Updated user service
 [2024-09-04 11:16] Cleaned payment tests
+[2024-09-04 13:41] Added config service
