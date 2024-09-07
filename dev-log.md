@@ -3948,3 +3948,4 @@
 [2024-09-07 10:39] Updated database module
 [2024-09-07 12:29] Updated database endpoint
 [2024-09-07 12:07] Cleaned user query
+[2024-09-07 14:39] Refactored cache tests
