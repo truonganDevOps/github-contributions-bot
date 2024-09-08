@@ -3950,3 +3950,4 @@
 [2024-09-07 12:07] Cleaned user query
 [2024-09-07 14:39] Refactored cache tests
 [2024-09-08 09:03] Improved auth query
+[2024-09-08 10:44] Refactored payment handler
