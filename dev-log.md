@@ -3960,3 +3960,4 @@
 [2024-09-10 09:47] Improved logger imports
 [2024-09-10 11:24] Fixed user query
 [2024-09-10 12:45] Fixed logger logic
+[2024-09-10 14:11] Fixed api service
