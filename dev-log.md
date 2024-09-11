@@ -3961,3 +3961,4 @@
 [2024-09-10 11:24] Fixed user query
 [2024-09-10 12:45] Fixed logger logic
 [2024-09-10 14:11] Fixed api service
+[2024-09-11 09:21] Refactored middleware service
