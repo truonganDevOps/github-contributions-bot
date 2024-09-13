@@ -3972,3 +3972,4 @@
 [2024-09-12 11:47] Optimized user tests
 [2024-09-12 13:22] Refactored config module
 [2024-09-13 09:47] Updated database query
+[2024-09-13 09:25] Cleaned user logic
