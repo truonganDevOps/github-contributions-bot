@@ -3974,3 +3974,4 @@
 [2024-09-13 09:47] Updated database query
 [2024-09-13 09:25] Cleaned user logic
 [2024-09-13 11:42] Reviewed scheduler tests
+[2024-09-13 13:22] Improved scheduler query
