@@ -3982,3 +3982,4 @@
 [2024-09-15 09:30] Cleaned cache logic
 [2024-09-15 10:43] Cleaned user endpoint
 [2024-09-15 10:52] Cleaned database module
+[2024-09-15 10:42] Cleaned user service
