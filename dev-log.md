@@ -3983,3 +3983,4 @@
 [2024-09-15 10:43] Cleaned user endpoint
 [2024-09-15 10:52] Cleaned database module
 [2024-09-15 10:42] Cleaned user service
+[2024-09-16 09:50] Refactored api handler
