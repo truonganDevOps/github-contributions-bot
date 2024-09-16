@@ -3985,3 +3985,4 @@
 [2024-09-15 10:42] Cleaned user service
 [2024-09-16 09:50] Refactored api handler
 [2024-09-16 10:07] Updated middleware tests
+[2024-09-16 11:11] Fixed middleware logic
