@@ -3993,3 +3993,4 @@
 [2024-09-17 13:58] Reviewed scheduler imports
 [2024-09-18 09:39] Reviewed api service
 [2024-09-18 11:04] Cleaned database query
+[2024-09-18 12:25] Cleaned api logic
