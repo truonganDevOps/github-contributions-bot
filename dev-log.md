@@ -3996,3 +3996,4 @@
 [2024-09-18 12:25] Cleaned api logic
 [2024-09-18 12:47] Optimized logger endpoint
 [2024-09-19 09:29] Updated database endpoint
+[2024-09-19 11:55] Optimized config endpoint
