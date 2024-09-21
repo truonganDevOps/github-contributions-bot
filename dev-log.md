@@ -4006,3 +4006,4 @@
 [2024-09-20 14:21] Updated logger module
 [2024-09-21 09:50] Cleaned middleware tests
 [2024-09-21 09:10] Optimized cache tests
+[2024-09-21 11:27] Added middleware logic
