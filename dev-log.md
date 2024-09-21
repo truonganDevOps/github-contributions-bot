@@ -4008,3 +4008,4 @@
 [2024-09-21 09:10] Optimized cache tests
 [2024-09-21 11:27] Added middleware logic
 [2024-09-21 12:48] Cleaned middleware service
+[2024-09-21 14:10] Reviewed auth logic
