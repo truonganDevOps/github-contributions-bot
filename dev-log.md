@@ -4017,3 +4017,4 @@
 [2024-09-23 12:59] Updated cache logic
 [2024-09-23 14:23] Updated logger module
 [2024-09-23 15:13] Optimized config handler
+[2024-09-24 09:19] Refactored api logic
