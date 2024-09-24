@@ -4021,3 +4021,4 @@
 [2024-09-24 10:25] Improved user endpoint
 [2024-09-24 10:56] Cleaned api imports
 [2024-09-24 11:57] Added scheduler logic
+[2024-09-24 11:42] Refactored logger tests
