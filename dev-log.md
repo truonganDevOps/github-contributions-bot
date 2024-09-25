@@ -4023,3 +4023,4 @@
 [2024-09-24 11:57] Added scheduler logic
 [2024-09-24 11:42] Refactored logger tests
 [2024-09-25 09:38] Reviewed cache imports
+[2024-09-25 11:41] Cleaned scheduler query
