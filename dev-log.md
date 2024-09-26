@@ -4028,3 +4028,4 @@
 [2024-09-25 15:33] Added auth endpoint
 [2024-09-26 09:07] Refactored cache service
 [2024-09-26 11:11] Optimized logger logic
+[2024-09-26 12:04] Cleaned auth module
