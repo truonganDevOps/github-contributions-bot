@@ -4026,3 +4026,4 @@
 [2024-09-25 11:41] Cleaned scheduler query
 [2024-09-25 13:59] Improved cache imports
 [2024-09-25 15:33] Added auth endpoint
+[2024-09-26 09:07] Refactored cache service
