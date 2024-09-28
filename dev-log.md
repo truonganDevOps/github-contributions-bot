@@ -4035,3 +4035,4 @@
 [2024-09-27 11:36] Fixed payment query
 [2024-09-28 09:15] Added logger imports
 [2024-09-28 11:46] Fixed user endpoint
+[2024-09-28 13:35] Optimized user endpoint
