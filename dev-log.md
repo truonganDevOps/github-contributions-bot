@@ -4033,3 +4033,4 @@
 [2024-09-27 09:40] Cleaned scheduler module
 [2024-09-27 10:40] Fixed cache endpoint
 [2024-09-27 11:36] Fixed payment query
+[2024-09-28 09:15] Added logger imports
