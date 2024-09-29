@@ -4036,3 +4036,4 @@
 [2024-09-28 09:15] Added logger imports
 [2024-09-28 11:46] Fixed user endpoint
 [2024-09-28 13:35] Optimized user endpoint
+[2024-09-29 09:50] Refactored auth logic
