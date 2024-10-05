@@ -4061,3 +4061,4 @@
 [2024-10-04 14:59] Cleaned database endpoint
 [2024-10-05 09:40] Updated payment handler
 [2024-10-05 09:31] Fixed payment imports
+[2024-10-05 09:30] Fixed middleware logic
