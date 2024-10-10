@@ -4081,3 +4081,4 @@
 [2024-10-09 09:40] Cleaned middleware handler
 [2024-10-10 09:55] Reviewed api endpoint
 [2024-10-10 09:36] Updated middleware endpoint
+[2024-10-10 11:46] Refactored middleware service
