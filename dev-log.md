@@ -4083,3 +4083,4 @@
 [2024-10-10 09:36] Updated middleware endpoint
 [2024-10-10 11:46] Refactored middleware service
 [2024-10-11 09:50] Reviewed middleware module
+[2024-10-11 09:52] Fixed user query
