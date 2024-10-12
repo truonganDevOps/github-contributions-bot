@@ -4088,3 +4088,4 @@
 [2024-10-11 10:54] Added middleware endpoint
 [2024-10-12 09:49] Reviewed scheduler query
 [2024-10-12 09:20] Reviewed middleware handler
+[2024-10-12 11:42] Updated middleware logic
