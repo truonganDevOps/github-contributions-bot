@@ -4090,3 +4090,4 @@
 [2024-10-12 09:20] Reviewed middleware handler
 [2024-10-12 11:42] Updated middleware logic
 [2024-10-12 13:40] Added user service
+[2024-10-12 15:50] Refactored middleware handler
