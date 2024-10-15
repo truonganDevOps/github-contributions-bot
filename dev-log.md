@@ -4100,3 +4100,4 @@
 [2024-10-14 12:27] Improved user endpoint
 [2024-10-15 09:45] Reviewed user tests
 [2024-10-15 10:11] Refactored scheduler query
+[2024-10-15 11:23] Reviewed config endpoint
