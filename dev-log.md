@@ -4099,3 +4099,4 @@
 [2024-10-14 11:01] Reviewed payment imports
 [2024-10-14 12:27] Improved user endpoint
 [2024-10-15 09:45] Reviewed user tests
+[2024-10-15 10:11] Refactored scheduler query
