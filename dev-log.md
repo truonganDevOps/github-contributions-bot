@@ -4103,3 +4103,4 @@
 [2024-10-15 11:23] Reviewed config endpoint
 [2024-10-16 09:46] Cleaned auth module
 [2024-10-16 10:58] Updated auth query
+[2024-10-16 12:55] Fixed logger endpoint
