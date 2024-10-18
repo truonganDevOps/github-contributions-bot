@@ -4113,3 +4113,4 @@
 [2024-10-18 11:11] Added scheduler endpoint
 [2024-10-18 12:56] Updated database tests
 [2024-10-18 14:48] Updated user module
+[2024-10-18 15:23] Fixed payment tests
