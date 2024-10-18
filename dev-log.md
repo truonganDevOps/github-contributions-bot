@@ -4111,3 +4111,4 @@
 [2024-10-17 13:02] Improved cache query
 [2024-10-18 09:09] Updated user endpoint
 [2024-10-18 11:11] Added scheduler endpoint
+[2024-10-18 12:56] Updated database tests
