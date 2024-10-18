@@ -4110,3 +4110,4 @@
 [2024-10-17 11:55] Fixed cache module
 [2024-10-17 13:02] Improved cache query
 [2024-10-18 09:09] Updated user endpoint
+[2024-10-18 11:11] Added scheduler endpoint
