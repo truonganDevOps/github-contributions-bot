@@ -4115,3 +4115,4 @@
 [2024-10-18 14:48] Updated user module
 [2024-10-18 15:23] Fixed payment tests
 [2024-10-19 09:23] Reviewed payment service
+[2024-10-19 11:13] Refactored payment query
