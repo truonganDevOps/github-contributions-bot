@@ -4125,3 +4125,4 @@
 [2024-10-21 09:29] Optimized user query
 [2024-10-21 10:22] Fixed user tests
 [2024-10-21 10:26] Reviewed auth tests
+[2024-10-21 11:37] Refactored config endpoint
