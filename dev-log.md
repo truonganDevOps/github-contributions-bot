@@ -4122,3 +4122,4 @@
 [2024-10-20 09:04] Fixed scheduler query
 [2024-10-20 10:47] Refactored api imports
 [2024-10-20 12:36] Cleaned user query
+[2024-10-21 09:29] Optimized user query
