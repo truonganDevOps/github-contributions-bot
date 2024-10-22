@@ -4128,3 +4128,4 @@
 [2024-10-21 11:37] Refactored config endpoint
 [2024-10-22 09:58] Improved config imports
 [2024-10-22 11:26] Optimized scheduler tests
+[2024-10-22 12:12] Refactored user handler
