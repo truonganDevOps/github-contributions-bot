@@ -4131,3 +4131,4 @@
 [2024-10-22 12:12] Refactored user handler
 [2024-10-23 09:22] Optimized scheduler endpoint
 [2024-10-23 10:43] Optimized user module
+[2024-10-23 10:50] Added middleware logic
