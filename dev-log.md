@@ -4135,3 +4135,4 @@
 [2024-10-23 12:38] Refactored api imports
 [2024-10-24 09:16] Fixed scheduler service
 [2024-10-24 11:04] Cleaned logger imports
+[2024-10-24 11:45] Added config module
