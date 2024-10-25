@@ -4137,3 +4137,4 @@
 [2024-10-24 11:04] Cleaned logger imports
 [2024-10-24 11:45] Added config module
 [2024-10-25 09:44] Improved database imports
+[2024-10-25 11:18] Cleaned cache logic
