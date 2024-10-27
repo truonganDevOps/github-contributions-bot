@@ -4146,3 +4146,4 @@
 [2024-10-26 11:40] Fixed user service
 [2024-10-27 09:39] Updated config endpoint
 [2024-10-27 11:30] Fixed logger endpoint
+[2024-10-27 12:37] Updated cache handler
