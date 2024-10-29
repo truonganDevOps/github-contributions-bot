@@ -4151,3 +4151,4 @@
 [2024-10-28 11:27] Added cache imports
 [2024-10-28 12:37] Reviewed logger service
 [2024-10-29 09:34] Refactored user tests
+[2024-10-29 11:51] Fixed api endpoint
