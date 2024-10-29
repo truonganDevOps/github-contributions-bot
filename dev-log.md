@@ -4153,3 +4153,4 @@
 [2024-10-29 09:34] Refactored user tests
 [2024-10-29 11:51] Fixed api endpoint
 [2024-10-29 11:51] Optimized payment handler
+[2024-10-29 11:32] Added middleware logic
