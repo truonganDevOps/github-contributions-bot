@@ -4154,3 +4154,4 @@
 [2024-10-29 11:51] Fixed api endpoint
 [2024-10-29 11:51] Optimized payment handler
 [2024-10-29 11:32] Added middleware logic
+[2024-10-30 09:39] Optimized middleware logic
