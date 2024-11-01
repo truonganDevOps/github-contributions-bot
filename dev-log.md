@@ -4165,3 +4165,4 @@
 [2024-10-31 11:39] Refactored middleware imports
 [2024-11-01 09:45] Fixed api module
 [2024-11-01 10:30] Improved auth imports
+[2024-11-01 11:18] Improved scheduler tests
