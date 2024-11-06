@@ -4184,3 +4184,4 @@
 [2024-11-05 11:08] Refactored scheduler imports
 [2024-11-05 12:05] Optimized logger module
 [2024-11-05 14:31] Improved user imports
+[2024-11-06 09:58] Fixed middleware query
