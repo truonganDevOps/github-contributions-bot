@@ -4189,3 +4189,4 @@
 [2024-11-06 10:25] Cleaned scheduler tests
 [2024-11-06 10:27] Fixed user module
 [2024-11-07 09:11] Cleaned config imports
+[2024-11-07 11:06] Updated user tests
