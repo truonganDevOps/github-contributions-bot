@@ -4191,3 +4191,4 @@
 [2024-11-07 09:11] Cleaned config imports
 [2024-11-07 11:06] Updated user tests
 [2024-11-07 13:10] Updated api handler
+[2024-11-07 15:25] Reviewed middleware service
