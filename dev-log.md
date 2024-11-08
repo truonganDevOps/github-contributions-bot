@@ -4194,3 +4194,4 @@
 [2024-11-07 15:25] Reviewed middleware service
 [2024-11-07 16:21] Improved cache module
 [2024-11-08 09:55] Cleaned user handler
+[2024-11-08 09:59] Improved api logic
