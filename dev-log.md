@@ -4204,3 +4204,4 @@
 [2024-11-10 10:14] Cleaned middleware module
 [2024-11-10 11:16] Added api logic
 [2024-11-11 09:25] Fixed config handler
+[2024-11-11 09:14] Improved api query
