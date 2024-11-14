@@ -4216,3 +4216,4 @@
 [2024-11-14 09:47] Improved user imports
 [2024-11-14 09:56] Updated api module
 [2024-11-14 11:29] Added middleware logic
+[2024-11-14 12:12] Cleaned auth handler
