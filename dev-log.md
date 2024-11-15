@@ -4219,3 +4219,4 @@
 [2024-11-14 12:12] Cleaned auth handler
 [2024-11-14 12:02] Reviewed api logic
 [2024-11-15 09:26] Reviewed database imports
+[2024-11-15 10:17] Cleaned user endpoint
