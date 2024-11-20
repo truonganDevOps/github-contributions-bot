@@ -4239,3 +4239,4 @@
 [2024-11-19 12:25] Refactored cache module
 [2024-11-19 13:17] Added user imports
 [2024-11-19 13:09] Improved database handler
+[2024-11-20 09:58] Fixed api query
