@@ -4240,3 +4240,4 @@
 [2024-11-19 13:17] Added user imports
 [2024-11-19 13:09] Improved database handler
 [2024-11-20 09:58] Fixed api query
+[2024-11-20 09:50] Improved auth query
