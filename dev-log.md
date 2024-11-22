@@ -4248,3 +4248,4 @@
 [2024-11-21 10:40] Optimized database logic
 [2024-11-22 09:26] Refactored api imports
 [2024-11-22 10:27] Updated database handler
+[2024-11-22 10:42] Improved auth tests
