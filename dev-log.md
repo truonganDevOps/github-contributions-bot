@@ -4252,3 +4252,4 @@
 [2024-11-22 10:12] Fixed cache query
 [2024-11-22 12:54] Added payment handler
 [2024-11-23 09:00] Cleaned cache query
+[2024-11-23 10:57] Cleaned config handler
