@@ -4256,3 +4256,4 @@
 [2024-11-23 12:03] Refactored config imports
 [2024-11-23 13:18] Added api tests
 [2024-11-24 09:38] Fixed database handler
+[2024-11-24 10:54] Fixed user tests
