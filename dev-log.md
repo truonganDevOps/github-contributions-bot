@@ -4262,3 +4262,4 @@
 [2024-11-25 11:16] Cleaned logger module
 [2024-11-25 13:13] Refactored database imports
 [2024-11-25 14:01] Fixed api query
+[2024-11-26 09:01] Updated auth service
