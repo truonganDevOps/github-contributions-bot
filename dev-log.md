@@ -4267,3 +4267,4 @@
 [2024-11-26 09:52] Updated api module
 [2024-11-26 11:46] Updated user tests
 [2024-11-27 09:21] Reviewed database logic
+[2024-11-27 09:35] Added config query
