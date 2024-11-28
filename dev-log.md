@@ -4272,3 +4272,4 @@
 [2024-11-27 10:09] Cleaned payment module
 [2024-11-28 09:34] Added payment tests
 [2024-11-28 09:40] Cleaned database handler
+[2024-11-28 11:38] Updated api endpoint
