@@ -4273,3 +4273,4 @@
 [2024-11-28 09:34] Added payment tests
 [2024-11-28 09:40] Cleaned database handler
 [2024-11-28 11:38] Updated api endpoint
+[2024-11-28 11:35] Cleaned logger imports
