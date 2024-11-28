@@ -4271,3 +4271,4 @@
 [2024-11-27 09:10] Added payment service
 [2024-11-27 10:09] Cleaned payment module
 [2024-11-28 09:34] Added payment tests
+[2024-11-28 09:40] Cleaned database handler
