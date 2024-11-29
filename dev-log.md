@@ -4275,3 +4275,4 @@
 [2024-11-28 11:38] Updated api endpoint
 [2024-11-28 11:35] Cleaned logger imports
 [2024-11-29 09:23] Refactored cache tests
+[2024-11-29 10:00] Refactored api module
