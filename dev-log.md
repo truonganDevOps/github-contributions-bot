@@ -4276,3 +4276,4 @@
 [2024-11-28 11:35] Cleaned logger imports
 [2024-11-29 09:23] Refactored cache tests
 [2024-11-29 10:00] Refactored api module
+[2024-11-29 10:50] Cleaned middleware module
