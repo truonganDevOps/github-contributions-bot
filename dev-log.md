@@ -4277,3 +4277,4 @@
 [2024-11-29 09:23] Refactored cache tests
 [2024-11-29 10:00] Refactored api module
 [2024-11-29 10:50] Cleaned middleware module
+[2024-11-30 09:57] Fixed api logic
