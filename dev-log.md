@@ -4279,3 +4279,4 @@
 [2024-11-29 10:50] Cleaned middleware module
 [2024-11-30 09:57] Fixed api logic
 [2024-11-30 09:29] Fixed config service
+[2024-11-30 11:19] Fixed auth service
