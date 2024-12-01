@@ -4283,3 +4283,4 @@
 [2024-11-30 12:57] Added payment service
 [2024-11-30 12:44] Improved config module
 [2024-12-01 09:21] Reviewed middleware module
+[2024-12-01 09:50] Refactored auth endpoint
