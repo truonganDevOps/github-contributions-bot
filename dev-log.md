@@ -4292,3 +4292,4 @@
 [2024-12-02 09:02] Cleaned database imports
 [2024-12-02 10:08] Updated logger handler
 [2024-12-03 09:44] Updated middleware service
+[2024-12-03 11:44] Optimized api logic
