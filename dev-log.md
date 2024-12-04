@@ -4299,3 +4299,4 @@
 [2024-12-04 11:49] Improved payment handler
 [2024-12-04 12:36] Cleaned middleware module
 [2024-12-04 14:55] Added payment tests
+[2024-12-04 14:07] Cleaned user module
