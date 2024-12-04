@@ -4296,3 +4296,4 @@
 [2024-12-03 11:10] Improved cache handler
 [2024-12-03 13:51] Cleaned api handler
 [2024-12-04 09:48] Updated config handler
+[2024-12-04 11:49] Improved payment handler
