@@ -4300,3 +4300,4 @@
 [2024-12-04 12:36] Cleaned middleware module
 [2024-12-04 14:55] Added payment tests
 [2024-12-04 14:07] Cleaned user module
+[2024-12-05 09:18] Refactored api endpoint
