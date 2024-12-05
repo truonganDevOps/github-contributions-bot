@@ -4303,3 +4303,4 @@
 [2024-12-05 09:18] Refactored api endpoint
 [2024-12-05 11:09] Improved config query
 [2024-12-05 12:45] Improved database query
+[2024-12-05 14:37] Cleaned auth service
