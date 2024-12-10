@@ -4324,3 +4324,4 @@
 [2024-12-10 09:52] Reviewed api handler
 [2024-12-10 11:09] Cleaned payment query
 [2024-12-10 13:37] Fixed logger handler
+[2024-12-10 15:58] Refactored user query
