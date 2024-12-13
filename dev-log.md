@@ -4332,3 +4332,4 @@
 [2024-12-12 09:47] Reviewed database query
 [2024-12-12 09:05] Added user handler
 [2024-12-12 10:12] Added auth module
+[2024-12-13 09:37] Cleaned api tests
