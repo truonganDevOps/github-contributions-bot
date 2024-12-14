@@ -4338,3 +4338,4 @@
 [2024-12-13 12:50] Refactored config imports
 [2024-12-14 09:42] Refactored middleware imports
 [2024-12-14 09:37] Improved auth query
+[2024-12-14 10:14] Fixed scheduler handler
