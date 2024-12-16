@@ -4347,3 +4347,4 @@
 [2024-12-15 13:53] Updated database tests
 [2024-12-16 09:14] Improved config handler
 [2024-12-16 10:08] Refactored cache handler
+[2024-12-16 11:22] Improved cache query
