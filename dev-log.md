@@ -4352,3 +4352,4 @@
 [2024-12-17 09:15] Cleaned scheduler imports
 [2024-12-17 10:31] Refactored scheduler handler
 [2024-12-17 11:01] Fixed api tests
+[2024-12-18 09:27] Refactored api module
