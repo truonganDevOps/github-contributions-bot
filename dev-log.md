@@ -4358,3 +4358,4 @@
 [2024-12-18 14:32] Improved payment module
 [2024-12-19 09:51] Improved scheduler endpoint
 [2024-12-19 11:37] Fixed database module
+[2024-12-19 13:32] Refactored auth logic
