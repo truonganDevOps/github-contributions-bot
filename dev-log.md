@@ -4360,3 +4360,4 @@
 [2024-12-19 11:37] Fixed database module
 [2024-12-19 13:32] Refactored auth logic
 [2024-12-20 09:33] Refactored config handler
+[2024-12-20 09:31] Cleaned middleware endpoint
