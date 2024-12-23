@@ -4371,3 +4371,4 @@
 [2024-12-22 10:27] Optimized config tests
 [2024-12-22 10:12] Added database imports
 [2024-12-23 09:37] Reviewed user handler
+[2024-12-23 11:42] Updated api endpoint
