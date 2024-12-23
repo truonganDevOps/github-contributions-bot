@@ -4373,3 +4373,4 @@
 [2024-12-23 09:37] Reviewed user handler
 [2024-12-23 11:42] Updated api endpoint
 [2024-12-23 13:51] Optimized scheduler imports
+[2024-12-23 15:01] Added database endpoint
