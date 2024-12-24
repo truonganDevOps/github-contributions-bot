@@ -4377,3 +4377,4 @@
 [2024-12-24 09:55] Updated scheduler service
 [2024-12-24 10:53] Refactored auth tests
 [2024-12-24 12:56] Updated logger query
+[2024-12-24 12:18] Cleaned auth imports
