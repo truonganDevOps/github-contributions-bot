@@ -4395,3 +4395,4 @@
 [2024-12-28 14:16] Refactored user imports
 [2024-12-29 09:32] Cleaned user endpoint
 [2024-12-29 09:33] Updated payment handler
+[2024-12-29 10:53] Added middleware logic
