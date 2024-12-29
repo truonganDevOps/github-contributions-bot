@@ -4396,3 +4396,4 @@
 [2024-12-29 09:32] Cleaned user endpoint
 [2024-12-29 09:33] Updated payment handler
 [2024-12-29 10:53] Added middleware logic
+[2024-12-29 11:45] Fixed database tests
