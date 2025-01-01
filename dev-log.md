@@ -4408,3 +4408,4 @@
 [2024-12-31 12:46] Cleaned payment logic
 [2025-01-01 09:42] Added middleware tests
 [2025-01-01 09:31] Improved logger handler
+[2025-01-01 10:37] Refactored scheduler logic
