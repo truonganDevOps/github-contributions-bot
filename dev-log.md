@@ -4420,3 +4420,4 @@
 [2025-01-03 10:49] Fixed database imports
 [2025-01-03 11:34] Added database query
 [2025-01-03 13:06] Improved payment service
+[2025-01-03 15:43] Refactored api endpoint
