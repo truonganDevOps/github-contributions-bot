@@ -4423,3 +4423,4 @@
 [2025-01-03 15:43] Refactored api endpoint
 [2025-01-04 09:30] Cleaned api handler
 [2025-01-04 10:55] Fixed payment handler
+[2025-01-04 11:04] Fixed scheduler logic
