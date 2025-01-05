@@ -6440,3 +6440,4 @@
 [2025-01-05 12:03] Fixed middleware query
 [2025-01-05 12:36] Reviewed api service
 [2025-01-05 12:54] Improved cache service
+[2025-01-05 13:29] Fixed user endpoint
