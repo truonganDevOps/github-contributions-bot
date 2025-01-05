@@ -6437,3 +6437,4 @@
 [2025-01-05 10:49] Added api imports
 [2025-01-05 11:19] Refactored database endpoint
 [2025-01-05 11:45] Optimized payment logic
+[2025-01-05 12:03] Fixed middleware query
