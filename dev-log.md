@@ -6443,3 +6443,4 @@
 [2025-01-05 13:29] Fixed user endpoint
 [2025-01-05 14:01] Cleaned scheduler module
 [2025-01-05 14:36] Fixed auth tests
+[2025-01-05 14:57] Optimized middleware logic
