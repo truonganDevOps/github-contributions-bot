@@ -6444,3 +6444,4 @@
 [2025-01-05 14:01] Cleaned scheduler module
 [2025-01-05 14:36] Fixed auth tests
 [2025-01-05 14:57] Optimized middleware logic
+[2025-01-05 15:16] Fixed scheduler query
