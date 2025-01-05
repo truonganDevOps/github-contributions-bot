@@ -6447,3 +6447,4 @@
 [2025-01-05 15:16] Fixed scheduler query
 [2025-01-05 15:42] Improved logger tests
 [2025-01-05 16:17] Fixed config endpoint
+[2025-01-05 16:46] Fixed payment tests
