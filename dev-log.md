@@ -4427,3 +4427,4 @@
 [2025-01-05 09:29] Refactored middleware tests
 [2025-01-05 09:53] Optimized cache module
 [2025-01-05 10:39] Fixed user tests
+[2025-01-06 09:39] Fixed cache imports
