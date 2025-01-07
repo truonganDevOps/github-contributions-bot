@@ -4433,3 +4433,4 @@
 [2025-01-07 09:05] Refactored api endpoint
 [2025-01-07 09:18] Refactored config tests
 [2025-01-07 09:39] Cleaned auth service
+[2025-01-07 10:45] Fixed config query
