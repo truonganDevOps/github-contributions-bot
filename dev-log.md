@@ -4447,3 +4447,4 @@
 [2025-01-10 09:22] Fixed api tests
 [2025-01-10 11:47] Improved user logic
 [2025-01-10 11:21] Added middleware service
+[2025-01-10 12:06] Improved user query
