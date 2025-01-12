@@ -6462,3 +6462,4 @@
 [2025-01-12 15:13] Improved database endpoint
 [2025-01-12 15:42] Fixed middleware tests
 [2025-01-12 16:02] Fixed logger tests
+[2025-01-12 16:32] Cleaned user endpoint
