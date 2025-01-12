@@ -6448,3 +6448,4 @@
 [2025-01-05 15:42] Improved logger tests
 [2025-01-05 16:17] Fixed config endpoint
 [2025-01-05 16:46] Fixed payment tests
+[2025-01-12 10:00] Improved config service
