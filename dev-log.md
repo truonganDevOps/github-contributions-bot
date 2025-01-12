@@ -6450,3 +6450,4 @@
 [2025-01-05 16:46] Fixed payment tests
 [2025-01-12 10:00] Improved config service
 [2025-01-12 10:34] Added cache logic
+[2025-01-12 11:06] Improved middleware endpoint
