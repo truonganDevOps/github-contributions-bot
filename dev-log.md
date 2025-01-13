@@ -4461,3 +4461,4 @@
 [2025-01-12 12:18] Fixed auth module
 [2025-01-13 09:19] Optimized scheduler handler
 [2025-01-13 10:02] Refactored user service
+[2025-01-13 12:59] Refactored middleware service
