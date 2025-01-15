@@ -4470,3 +4470,4 @@
 [2025-01-14 15:55] Updated auth module
 [2025-01-15 09:26] Reviewed middleware logic
 [2025-01-15 09:51] Fixed auth logic
+[2025-01-15 10:23] Refactored middleware imports
