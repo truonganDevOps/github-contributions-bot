@@ -6495,3 +6495,4 @@
 [2025-01-20 14:38] Fixed middleware imports
 [2025-01-20 14:58] Refactored api handler
 [2025-01-20 15:29] Improved payment service
+[2025-01-20 15:52] Added middleware tests
