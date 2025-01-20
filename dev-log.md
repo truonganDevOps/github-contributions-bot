@@ -4487,3 +4487,4 @@
 [2025-01-19 09:30] Updated config module
 [2025-01-19 10:22] Added middleware imports
 [2025-01-19 10:33] Reviewed api endpoint
+[2025-01-20 09:07] Improved auth logic
