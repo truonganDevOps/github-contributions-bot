@@ -6491,3 +6491,4 @@
 [2025-01-20 13:17] Refactored auth query
 [2025-01-20 13:37] Reviewed user endpoint
 [2025-01-20 13:56] Cleaned api logic
+[2025-01-20 14:18] Optimized user handler
