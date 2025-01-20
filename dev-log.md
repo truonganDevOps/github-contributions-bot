@@ -6490,3 +6490,4 @@
 [2025-01-20 12:58] Reviewed database endpoint
 [2025-01-20 13:17] Refactored auth query
 [2025-01-20 13:37] Reviewed user endpoint
+[2025-01-20 13:56] Cleaned api logic
