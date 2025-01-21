@@ -6501,3 +6501,4 @@
 [2025-01-21 10:40] Fixed api handler
 [2025-01-21 11:08] Fixed scheduler module
 [2025-01-21 11:43] Added scheduler imports
+[2025-01-21 12:02] Cleaned config handler
