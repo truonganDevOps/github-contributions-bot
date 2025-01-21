@@ -6497,3 +6497,4 @@
 [2025-01-20 15:29] Improved payment service
 [2025-01-20 15:52] Added middleware tests
 [2025-01-21 10:00] Fixed database imports
+[2025-01-21 10:19] Cleaned scheduler tests
