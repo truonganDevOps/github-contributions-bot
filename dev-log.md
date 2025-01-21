@@ -4492,3 +4492,4 @@
 [2025-01-20 10:03] Updated scheduler handler
 [2025-01-21 09:16] Improved user endpoint
 [2025-01-21 11:35] Refactored scheduler imports
+[2025-01-21 12:41] Refactored middleware tests
