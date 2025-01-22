@@ -6524,3 +6524,4 @@
 [2025-01-22 13:53] Improved logger endpoint
 [2025-01-22 14:14] Refactored payment service
 [2025-01-22 14:49] Refactored config endpoint
+[2025-01-22 15:08] Fixed auth handler
