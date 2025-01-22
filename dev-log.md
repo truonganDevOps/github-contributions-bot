@@ -6527,3 +6527,4 @@
 [2025-01-22 15:08] Fixed auth handler
 [2025-01-22 15:25] Updated auth query
 [2025-01-22 15:58] Improved scheduler handler
+[2025-01-22 16:27] Refactored config service
