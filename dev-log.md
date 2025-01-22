@@ -6515,3 +6515,4 @@
 [2025-01-22 10:00] Fixed middleware query
 [2025-01-22 10:34] Cleaned database query
 [2025-01-22 11:07] Reviewed user module
+[2025-01-22 11:24] Fixed database logic
