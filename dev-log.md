@@ -4496,3 +4496,4 @@
 [2025-01-21 13:34] Refactored payment logic
 [2025-01-22 09:45] Cleaned scheduler imports
 [2025-01-22 11:54] Fixed logger tests
+[2025-01-22 12:17] Added config handler
