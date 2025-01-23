@@ -6541,3 +6541,4 @@
 [2025-01-23 14:49] Cleaned user handler
 [2025-01-23 15:05] Optimized config imports
 [2025-01-23 15:31] Updated api service
+[2025-01-23 15:53] Refactored database query
