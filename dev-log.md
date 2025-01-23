@@ -4501,3 +4501,4 @@
 [2025-01-22 15:13] Updated auth handler
 [2025-01-23 09:31] Improved user module
 [2025-01-23 09:43] Improved scheduler imports
+[2025-01-23 10:49] Updated scheduler logic
