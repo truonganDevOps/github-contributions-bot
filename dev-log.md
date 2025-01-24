@@ -6555,3 +6555,4 @@
 [2025-01-24 13:41] Updated config service
 [2025-01-24 14:01] Added database module
 [2025-01-24 14:21] Fixed payment tests
+[2025-01-24 14:52] Refactored payment query
