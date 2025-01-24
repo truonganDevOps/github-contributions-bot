@@ -6546,3 +6546,4 @@
 [2025-01-23 16:44] Fixed logger query
 [2025-01-24 10:00] Optimized config module
 [2025-01-24 10:32] Optimized api query
+[2025-01-24 11:05] Cleaned api logic
