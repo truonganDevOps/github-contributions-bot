@@ -6552,3 +6552,4 @@
 [2025-01-24 12:18] Refactored auth query
 [2025-01-24 12:49] Cleaned database module
 [2025-01-24 13:20] Cleaned logger tests
+[2025-01-24 13:41] Updated config service
