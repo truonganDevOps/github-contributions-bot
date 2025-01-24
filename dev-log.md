@@ -4502,3 +4502,4 @@
 [2025-01-23 09:31] Improved user module
 [2025-01-23 09:43] Improved scheduler imports
 [2025-01-23 10:49] Updated scheduler logic
+[2025-01-24 09:48] Cleaned config endpoint
