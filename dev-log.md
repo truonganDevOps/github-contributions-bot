@@ -6567,3 +6567,4 @@
 [2025-01-25 11:26] Refactored logger logic
 [2025-01-25 11:48] Added cache imports
 [2025-01-25 12:12] Refactored config endpoint
+[2025-01-25 12:46] Cleaned database tests
