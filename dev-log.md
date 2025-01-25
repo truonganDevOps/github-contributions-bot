@@ -6573,3 +6573,4 @@
 [2025-01-25 13:43] Cleaned cache logic
 [2025-01-25 14:02] Improved database query
 [2025-01-25 14:23] Cleaned user handler
+[2025-01-25 14:46] Fixed cache query
