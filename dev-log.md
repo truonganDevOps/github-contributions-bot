@@ -6575,3 +6575,4 @@
 [2025-01-25 14:23] Cleaned user handler
 [2025-01-25 14:46] Fixed cache query
 [2025-01-25 15:16] Added cache imports
+[2025-01-25 15:47] Fixed config endpoint
