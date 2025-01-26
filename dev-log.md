@@ -6577,3 +6577,4 @@
 [2025-01-25 15:16] Added cache imports
 [2025-01-25 15:47] Fixed config endpoint
 [2025-01-26 10:00] Optimized auth query
+[2025-01-26 10:31] Updated config service
