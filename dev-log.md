@@ -6582,3 +6582,4 @@
 [2025-01-26 11:31] Added logger handler
 [2025-01-26 11:54] Added api endpoint
 [2025-01-26 12:22] Improved config tests
+[2025-01-26 12:49] Cleaned scheduler query
