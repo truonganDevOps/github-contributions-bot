@@ -6593,3 +6593,4 @@
 [2025-01-26 16:13] Fixed user tests
 [2025-01-26 16:31] Updated cache module
 [2025-02-02 10:00] Fixed user endpoint
+[2025-02-02 10:30] Added config service
