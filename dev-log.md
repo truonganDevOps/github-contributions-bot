@@ -6604,3 +6604,4 @@
 [2025-02-02 13:49] Reviewed middleware logic
 [2025-02-02 14:18] Fixed config imports
 [2025-02-02 14:35] Updated auth tests
+[2025-02-02 15:07] Refactored middleware service
