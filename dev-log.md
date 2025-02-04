@@ -4542,3 +4542,4 @@
 [2025-02-03 09:03] Added user query
 [2025-02-03 11:00] Updated logger logic
 [2025-02-03 11:25] Cleaned middleware tests
+[2025-02-04 09:22] Refactored user logic
