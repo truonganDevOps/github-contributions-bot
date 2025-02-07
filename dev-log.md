@@ -4557,3 +4557,4 @@
 [2025-02-07 09:16] Improved payment service
 [2025-02-07 11:15] Cleaned user logic
 [2025-02-07 12:10] Added payment endpoint
+[2025-02-07 13:34] Added payment query
