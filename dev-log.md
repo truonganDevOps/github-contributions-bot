@@ -4555,3 +4555,4 @@
 [2025-02-06 12:47] Improved database tests
 [2025-02-07 09:37] Improved payment query
 [2025-02-07 09:16] Improved payment service
+[2025-02-07 11:15] Cleaned user logic
