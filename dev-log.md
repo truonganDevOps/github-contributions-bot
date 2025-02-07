@@ -4553,3 +4553,4 @@
 [2025-02-06 09:21] Cleaned logger module
 [2025-02-06 11:44] Fixed user tests
 [2025-02-06 12:47] Improved database tests
+[2025-02-07 09:37] Improved payment query
