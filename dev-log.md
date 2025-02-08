@@ -4558,3 +4558,4 @@
 [2025-02-07 11:15] Cleaned user logic
 [2025-02-07 12:10] Added payment endpoint
 [2025-02-07 13:34] Added payment query
+[2025-02-08 09:04] Improved scheduler query
