@@ -4572,3 +4572,4 @@
 [2025-02-11 11:02] Fixed database module
 [2025-02-11 11:36] Improved database query
 [2025-02-12 09:57] Improved logger query
+[2025-02-12 09:15] Fixed auth imports
