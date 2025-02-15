@@ -4585,3 +4585,4 @@
 [2025-02-14 11:34] Added scheduler logic
 [2025-02-15 09:29] Reviewed auth tests
 [2025-02-15 09:51] Improved api tests
+[2025-02-15 11:41] Refactored user service
