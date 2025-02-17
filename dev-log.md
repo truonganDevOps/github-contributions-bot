@@ -4591,3 +4591,4 @@
 [2025-02-16 13:37] Cleaned middleware imports
 [2025-02-17 09:26] Fixed database logic
 [2025-02-17 09:05] Cleaned cache handler
+[2025-02-17 09:43] Refactored middleware handler
