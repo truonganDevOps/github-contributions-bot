@@ -6631,3 +6631,4 @@
 [2025-02-17 11:33] Updated auth service
 [2025-02-17 12:02] Reviewed auth module
 [2025-02-17 12:21] Updated api query
+[2025-02-17 12:50] Fixed cache logic
