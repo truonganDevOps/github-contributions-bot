@@ -6659,3 +6659,4 @@
 [2025-02-19 10:00] Updated api tests
 [2025-02-19 10:17] Added cache service
 [2025-02-19 10:33] Added user module
+[2025-02-19 11:08] Updated database query
