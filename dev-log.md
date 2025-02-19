@@ -6663,3 +6663,4 @@
 [2025-02-19 11:26] Added config endpoint
 [2025-02-19 12:01] Updated config imports
 [2025-02-19 12:27] Cleaned api module
+[2025-02-19 12:43] Cleaned middleware module
