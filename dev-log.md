@@ -6681,3 +6681,4 @@
 [2025-02-20 12:28] Refactored user endpoint
 [2025-02-20 12:54] Refactored database module
 [2025-02-20 13:20] Refactored config module
+[2025-02-20 13:54] Optimized logger logic
