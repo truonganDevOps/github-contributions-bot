@@ -6676,3 +6676,4 @@
 [2025-02-20 10:15] Updated auth logic
 [2025-02-20 10:48] Fixed database tests
 [2025-02-20 11:15] Added api tests
+[2025-02-20 11:35] Added auth service
