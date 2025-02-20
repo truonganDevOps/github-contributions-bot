@@ -6685,3 +6685,4 @@
 [2025-02-20 14:27] Fixed database tests
 [2025-02-20 14:51] Cleaned api imports
 [2025-02-20 15:23] Fixed middleware tests
+[2025-02-20 15:46] Cleaned logger handler
