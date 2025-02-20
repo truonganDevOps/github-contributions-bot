@@ -6678,3 +6678,4 @@
 [2025-02-20 11:15] Added api tests
 [2025-02-20 11:35] Added auth service
 [2025-02-20 12:01] Cleaned payment handler
+[2025-02-20 12:28] Refactored user endpoint
