@@ -4610,3 +4610,4 @@
 [2025-02-21 13:55] Improved user endpoint
 [2025-02-22 09:19] Added auth query
 [2025-02-22 11:36] Reviewed scheduler tests
+[2025-02-22 13:10] Added api service
