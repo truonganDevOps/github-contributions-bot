@@ -6733,3 +6733,4 @@
 [2025-02-23 13:42] Improved cache handler
 [2025-02-23 14:14] Updated database tests
 [2025-02-23 14:30] Updated payment logic
+[2025-02-23 14:54] Added user endpoint
