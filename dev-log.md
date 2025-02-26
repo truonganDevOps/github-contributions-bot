@@ -6750,3 +6750,4 @@
 [2025-02-26 14:43] Fixed logger handler
 [2025-02-26 15:16] Added logger handler
 [2025-02-26 15:32] Improved payment query
+[2025-02-26 15:54] Improved cache endpoint
