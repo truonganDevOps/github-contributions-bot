@@ -4636,3 +4636,4 @@
 [2025-02-27 13:03] Improved scheduler logic
 [2025-02-28 09:09] Refactored api tests
 [2025-02-28 10:19] Reviewed api endpoint
+[2025-02-28 10:11] Fixed logger logic
