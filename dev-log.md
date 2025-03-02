@@ -4642,3 +4642,4 @@
 [2025-03-01 13:04] Updated auth logic
 [2025-03-02 09:02] Optimized cache module
 [2025-03-02 11:56] Updated logger imports
+[2025-03-02 12:49] Refactored logger tests
