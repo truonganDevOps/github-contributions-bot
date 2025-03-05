@@ -6770,3 +6770,4 @@
 [2025-03-02 16:26] Fixed config imports
 [2025-03-05 10:00] Fixed config module
 [2025-03-05 10:21] Cleaned database tests
+[2025-03-05 10:49] Improved api service
