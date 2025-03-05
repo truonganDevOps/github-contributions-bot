@@ -6772,3 +6772,4 @@
 [2025-03-05 10:21] Cleaned database tests
 [2025-03-05 10:49] Improved api service
 [2025-03-05 11:24] Refactored user tests
+[2025-03-05 11:56] Reviewed auth tests
