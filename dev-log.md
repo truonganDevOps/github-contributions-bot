@@ -6793,3 +6793,4 @@
 [2025-03-06 12:29] Fixed api service
 [2025-03-06 12:46] Improved payment endpoint
 [2025-03-06 13:02] Added config logic
+[2025-03-06 13:27] Refactored config endpoint
