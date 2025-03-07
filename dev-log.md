@@ -4659,3 +4659,4 @@
 [2025-03-06 11:15] Improved scheduler service
 [2025-03-06 12:30] Added cache module
 [2025-03-07 09:29] Fixed auth handler
+[2025-03-07 10:37] Refactored user handler
