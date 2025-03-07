@@ -4661,3 +4661,4 @@
 [2025-03-07 09:29] Fixed auth handler
 [2025-03-07 10:37] Refactored user handler
 [2025-03-07 10:27] Optimized config logic
+[2025-03-07 11:16] Added middleware endpoint
