@@ -6811,3 +6811,4 @@
 [2025-03-09 13:11] Reviewed payment logic
 [2025-03-09 13:33] Fixed database logic
 [2025-03-09 13:48] Updated database tests
+[2025-03-09 14:04] Optimized api endpoint
