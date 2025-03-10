@@ -4673,3 +4673,4 @@
 [2025-03-09 11:40] Improved cache module
 [2025-03-10 09:22] Refactored user endpoint
 [2025-03-10 11:05] Fixed api query
+[2025-03-10 13:26] Improved middleware service
