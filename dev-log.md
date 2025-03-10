@@ -4671,3 +4671,4 @@
 [2025-03-09 10:55] Added middleware handler
 [2025-03-09 11:43] Improved api imports
 [2025-03-09 11:40] Improved cache module
+[2025-03-10 09:22] Refactored user endpoint
