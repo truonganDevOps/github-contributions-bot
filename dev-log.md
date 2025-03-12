@@ -6823,3 +6823,4 @@
 [2025-03-12 11:47] Improved user service
 [2025-03-12 12:06] Fixed user query
 [2025-03-12 12:39] Optimized user tests
+[2025-03-12 12:58] Optimized middleware handler
