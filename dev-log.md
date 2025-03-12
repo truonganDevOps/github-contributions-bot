@@ -6818,3 +6818,4 @@
 [2025-03-09 16:07] Fixed database query
 [2025-03-12 10:00] Updated api module
 [2025-03-12 10:35] Reviewed api logic
+[2025-03-12 11:10] Cleaned cache service
