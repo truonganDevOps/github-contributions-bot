@@ -6839,3 +6839,4 @@
 [2025-03-14 11:38] Cleaned config imports
 [2025-03-14 12:05] Added auth service
 [2025-03-14 12:30] Fixed scheduler endpoint
+[2025-03-14 13:05] Refactored scheduler service
