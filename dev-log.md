@@ -6838,3 +6838,4 @@
 [2025-03-14 11:04] Refactored api query
 [2025-03-14 11:38] Cleaned config imports
 [2025-03-14 12:05] Added auth service
+[2025-03-14 12:30] Fixed scheduler endpoint
