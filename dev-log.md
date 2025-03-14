@@ -6833,3 +6833,4 @@
 [2025-03-12 15:56] Cleaned auth tests
 [2025-03-12 16:13] Reviewed config service
 [2025-03-14 10:00] Added auth service
+[2025-03-14 10:20] Refactored cache endpoint
