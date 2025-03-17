@@ -6858,3 +6858,4 @@
 [2025-03-17 13:18] Updated payment endpoint
 [2025-03-17 13:46] Updated payment handler
 [2025-03-17 14:04] Cleaned logger imports
+[2025-03-17 14:25] Fixed user handler
