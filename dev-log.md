@@ -6850,3 +6850,4 @@
 [2025-03-14 16:30] Updated user tests
 [2025-03-17 10:00] Optimized user logic
 [2025-03-17 10:22] Updated middleware service
+[2025-03-17 10:55] Cleaned cache endpoint
