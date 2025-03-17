@@ -6854,3 +6854,4 @@
 [2025-03-17 11:14] Fixed config tests
 [2025-03-17 11:45] Reviewed config endpoint
 [2025-03-17 12:17] Improved config tests
+[2025-03-17 12:46] Fixed scheduler query
