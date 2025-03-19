@@ -4705,3 +4705,4 @@
 [2025-03-19 09:31] Cleaned database logic
 [2025-03-19 10:26] Improved scheduler endpoint
 [2025-03-19 11:17] Refactored middleware module
+[2025-03-19 12:09] Improved api query
