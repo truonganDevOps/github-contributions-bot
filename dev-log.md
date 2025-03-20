@@ -4709,3 +4709,4 @@
 [2025-03-19 14:11] Fixed scheduler logic
 [2025-03-20 09:23] Improved api handler
 [2025-03-20 10:21] Updated middleware module
+[2025-03-20 11:51] Refactored user endpoint
