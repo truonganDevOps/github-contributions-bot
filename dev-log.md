@@ -6894,3 +6894,4 @@
 [2025-03-22 14:22] Added cache query
 [2025-03-22 14:46] Refactored user module
 [2025-03-22 15:11] Updated api tests
+[2025-03-22 15:33] Fixed middleware handler
