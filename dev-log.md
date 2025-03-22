@@ -6882,3 +6882,4 @@
 [2025-03-18 16:17] Updated database service
 [2025-03-22 10:00] Refactored api handler
 [2025-03-22 10:18] Fixed config module
+[2025-03-22 10:35] Updated config query
