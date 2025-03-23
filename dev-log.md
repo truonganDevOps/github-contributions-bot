@@ -4720,3 +4720,4 @@
 [2025-03-22 11:45] Improved cache handler
 [2025-03-23 09:24] Cleaned logger endpoint
 [2025-03-23 11:35] Cleaned api query
+[2025-03-23 12:03] Refactored logger tests
