@@ -4730,3 +4730,4 @@
 [2025-03-25 09:20] Added logger imports
 [2025-03-25 11:57] Cleaned payment query
 [2025-03-25 12:21] Added cache query
+[2025-03-25 12:01] Cleaned logger handler
