@@ -4728,3 +4728,4 @@
 [2025-03-24 11:50] Refactored user handler
 [2025-03-24 12:44] Improved cache logic
 [2025-03-25 09:20] Added logger imports
+[2025-03-25 11:57] Cleaned payment query
