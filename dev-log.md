@@ -6910,3 +6910,4 @@
 [2025-03-30 14:15] Cleaned user service
 [2025-03-30 14:30] Reviewed config logic
 [2025-03-30 14:45] Reviewed user handler
+[2025-03-30 15:04] Updated auth query
