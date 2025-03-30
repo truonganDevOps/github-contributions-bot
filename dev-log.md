@@ -4748,3 +4748,4 @@
 [2025-03-29 10:31] Added auth logic
 [2025-03-29 11:34] Reviewed payment tests
 [2025-03-29 13:47] Reviewed user handler
+[2025-03-30 09:41] Fixed middleware endpoint
