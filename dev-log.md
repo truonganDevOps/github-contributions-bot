@@ -6922,3 +6922,4 @@
 [2025-03-31 12:44] Updated scheduler tests
 [2025-03-31 13:11] Improved middleware module
 [2025-03-31 13:32] Reviewed config handler
+[2025-03-31 13:53] Fixed middleware service
