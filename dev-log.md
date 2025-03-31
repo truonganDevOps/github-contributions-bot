@@ -4755,3 +4755,4 @@
 [2025-03-31 09:44] Added scheduler logic
 [2025-03-31 09:25] Added user imports
 [2025-03-31 09:34] Updated scheduler query
+[2025-03-31 10:27] Fixed cache endpoint
