@@ -4758,3 +4758,4 @@
 [2025-03-31 10:27] Fixed cache endpoint
 [2025-03-31 12:24] Improved payment endpoint
 [2025-04-01 09:05] Added logger handler
+[2025-04-01 10:59] Fixed payment handler
