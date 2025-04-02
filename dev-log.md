@@ -4764,3 +4764,4 @@
 [2025-04-01 15:16] Refactored config module
 [2025-04-02 09:21] Refactored payment query
 [2025-04-02 11:59] Fixed config endpoint
+[2025-04-02 12:54] Updated logger service
