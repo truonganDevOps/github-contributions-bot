@@ -4762,3 +4762,4 @@
 [2025-04-01 11:02] Optimized middleware service
 [2025-04-01 13:19] Added scheduler imports
 [2025-04-01 15:16] Refactored config module
+[2025-04-02 09:21] Refactored payment query
