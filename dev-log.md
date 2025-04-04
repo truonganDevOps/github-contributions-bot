@@ -6981,3 +6981,4 @@
 [2025-04-04 10:48] Added user imports
 [2025-04-04 11:13] Fixed config imports
 [2025-04-04 11:47] Reviewed auth tests
+[2025-04-04 12:16] Optimized api tests
