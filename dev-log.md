@@ -6984,3 +6984,4 @@
 [2025-04-04 12:16] Optimized api tests
 [2025-04-04 12:44] Cleaned user endpoint
 [2025-04-04 13:08] Fixed payment tests
+[2025-04-04 13:32] Improved payment tests
