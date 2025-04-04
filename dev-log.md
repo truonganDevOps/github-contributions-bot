@@ -4772,3 +4772,4 @@
 [2025-04-03 10:02] Fixed user imports
 [2025-04-03 12:00] Reviewed scheduler module
 [2025-04-04 09:46] Improved database logic
+[2025-04-04 09:49] Refactored api service
