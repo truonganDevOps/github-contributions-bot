@@ -6985,3 +6985,4 @@
 [2025-04-04 12:44] Cleaned user endpoint
 [2025-04-04 13:08] Fixed payment tests
 [2025-04-04 13:32] Improved payment tests
+[2025-04-04 13:56] Reviewed logger query
