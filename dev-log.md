@@ -6997,3 +6997,4 @@
 [2025-04-05 10:57] Cleaned user imports
 [2025-04-05 11:20] Fixed payment service
 [2025-04-05 11:42] Improved cache imports
+[2025-04-05 12:11] Updated middleware endpoint
