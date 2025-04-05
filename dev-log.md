@@ -7003,3 +7003,4 @@
 [2025-04-05 13:23] Cleaned cache handler
 [2025-04-05 13:41] Fixed scheduler handler
 [2025-04-05 13:59] Added auth service
+[2025-04-05 14:28] Fixed middleware endpoint
