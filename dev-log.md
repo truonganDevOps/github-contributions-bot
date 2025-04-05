@@ -6993,3 +6993,4 @@
 [2025-04-04 16:03] Fixed api service
 [2025-04-04 16:24] Added middleware logic
 [2025-04-05 10:00] Reviewed payment handler
+[2025-04-05 10:34] Added middleware tests
