@@ -7015,3 +7015,4 @@
 [2025-04-12 11:37] Fixed middleware query
 [2025-04-12 11:55] Cleaned api endpoint
 [2025-04-12 12:28] Improved middleware service
+[2025-04-12 12:54] Refactored api service
