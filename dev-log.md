@@ -7014,3 +7014,4 @@
 [2025-04-12 11:22] Improved auth logic
 [2025-04-12 11:37] Fixed middleware query
 [2025-04-12 11:55] Cleaned api endpoint
+[2025-04-12 12:28] Improved middleware service
