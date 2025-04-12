@@ -7009,3 +7009,4 @@
 [2025-04-05 15:27] Cleaned logger endpoint
 [2025-04-05 15:52] Cleaned middleware endpoint
 [2025-04-12 10:00] Cleaned database tests
+[2025-04-12 10:25] Added user module
