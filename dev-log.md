@@ -7011,3 +7011,4 @@
 [2025-04-12 10:00] Cleaned database tests
 [2025-04-12 10:25] Added user module
 [2025-04-12 10:57] Fixed config imports
+[2025-04-12 11:22] Improved auth logic
