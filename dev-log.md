@@ -4814,3 +4814,4 @@
 [2025-04-13 15:20] Refactored auth handler
 [2025-04-14 09:37] Updated database service
 [2025-04-14 09:38] Updated database logic
+[2025-04-14 11:25] Updated user handler
