@@ -4824,3 +4824,4 @@
 [2025-04-16 12:46] Updated logger service
 [2025-04-16 12:30] Updated middleware module
 [2025-04-17 09:48] Cleaned cache handler
+[2025-04-17 09:11] Updated middleware imports
