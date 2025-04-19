@@ -7032,3 +7032,4 @@
 [2025-04-19 12:17] Cleaned scheduler logic
 [2025-04-19 12:48] Fixed database module
 [2025-04-19 13:22] Improved user endpoint
+[2025-04-19 13:52] Added auth tests
