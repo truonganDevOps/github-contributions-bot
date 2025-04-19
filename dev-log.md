@@ -7034,3 +7034,4 @@
 [2025-04-19 13:22] Improved user endpoint
 [2025-04-19 13:52] Added auth tests
 [2025-04-19 14:08] Improved api service
+[2025-04-19 14:27] Updated payment tests
