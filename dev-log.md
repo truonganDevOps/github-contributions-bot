@@ -7029,3 +7029,4 @@
 [2025-04-19 11:02] Updated scheduler service
 [2025-04-19 11:34] Improved config endpoint
 [2025-04-19 11:50] Fixed middleware query
+[2025-04-19 12:17] Cleaned scheduler logic
