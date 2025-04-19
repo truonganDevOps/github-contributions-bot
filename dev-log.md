@@ -4836,3 +4836,4 @@
 [2025-04-19 09:34] Optimized logger query
 [2025-04-19 09:58] Fixed api imports
 [2025-04-19 09:06] Cleaned api tests
+[2025-04-19 10:56] Refactored database handler
