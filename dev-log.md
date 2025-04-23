@@ -4853,3 +4853,4 @@
 [2025-04-22 11:46] Updated payment tests
 [2025-04-23 09:38] Fixed logger imports
 [2025-04-23 09:06] Added user handler
+[2025-04-23 10:07] Improved api logic
