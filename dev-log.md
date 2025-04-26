@@ -7046,3 +7046,4 @@
 [2025-04-26 11:23] Optimized api handler
 [2025-04-26 11:56] Added scheduler endpoint
 [2025-04-26 12:13] Updated user tests
+[2025-04-26 12:30] Refactored logger logic
