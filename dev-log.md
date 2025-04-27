@@ -7071,3 +7071,4 @@
 [2025-04-27 14:48] Updated user imports
 [2025-04-27 15:07] Fixed user module
 [2025-04-27 15:35] Improved middleware endpoint
+[2025-04-27 16:08] Updated logger service
