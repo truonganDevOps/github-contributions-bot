@@ -7069,3 +7069,4 @@
 [2025-04-27 14:10] Cleaned scheduler query
 [2025-04-27 14:27] Cleaned logger tests
 [2025-04-27 14:48] Updated user imports
+[2025-04-27 15:07] Fixed user module
