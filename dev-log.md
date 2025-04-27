@@ -7059,3 +7059,4 @@
 [2025-04-27 10:00] Refactored logger module
 [2025-04-27 10:31] Added config logic
 [2025-04-27 10:51] Fixed user endpoint
+[2025-04-27 11:10] Refactored payment query
