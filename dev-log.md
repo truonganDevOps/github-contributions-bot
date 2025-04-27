@@ -7067,3 +7067,4 @@
 [2025-04-27 13:16] Refactored scheduler logic
 [2025-04-27 13:47] Fixed api tests
 [2025-04-27 14:10] Cleaned scheduler query
+[2025-04-27 14:27] Cleaned logger tests
