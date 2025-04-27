@@ -7066,3 +7066,4 @@
 [2025-04-27 12:42] Fixed cache service
 [2025-04-27 13:16] Refactored scheduler logic
 [2025-04-27 13:47] Fixed api tests
+[2025-04-27 14:10] Cleaned scheduler query
