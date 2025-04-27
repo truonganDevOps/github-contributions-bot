@@ -7061,3 +7061,4 @@
 [2025-04-27 10:51] Fixed user endpoint
 [2025-04-27 11:10] Refactored payment query
 [2025-04-27 11:26] Cleaned config handler
+[2025-04-27 11:41] Refactored auth query
