@@ -4871,3 +4871,4 @@
 [2025-04-28 09:37] Added scheduler imports
 [2025-04-28 10:27] Updated api query
 [2025-04-28 10:34] Added cache tests
+[2025-04-28 12:42] Refactored api service
