@@ -7085,3 +7085,4 @@
 [2025-04-28 14:02] Added scheduler logic
 [2025-04-28 14:20] Optimized middleware handler
 [2025-04-28 14:42] Fixed user tests
+[2025-04-28 15:01] Cleaned auth tests
