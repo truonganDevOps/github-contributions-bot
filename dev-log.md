@@ -7087,3 +7087,4 @@
 [2025-04-28 14:42] Fixed user tests
 [2025-04-28 15:01] Cleaned auth tests
 [2025-04-28 15:19] Optimized config service
+[2025-04-28 15:40] Improved payment logic
