@@ -7078,3 +7078,4 @@
 [2025-04-28 11:06] Reviewed user endpoint
 [2025-04-28 11:32] Reviewed api imports
 [2025-04-28 11:57] Added database handler
+[2025-04-28 12:26] Reviewed auth query
