@@ -7080,3 +7080,4 @@
 [2025-04-28 11:57] Added database handler
 [2025-04-28 12:26] Reviewed auth query
 [2025-04-28 13:00] Fixed database handler
+[2025-04-28 13:29] Refactored database service
