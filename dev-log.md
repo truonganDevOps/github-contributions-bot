@@ -7091,3 +7091,4 @@
 [2025-04-29 10:00] Added config handler
 [2025-04-29 10:19] Added scheduler tests
 [2025-04-29 10:50] Added config module
+[2025-04-29 11:18] Improved logger logic
