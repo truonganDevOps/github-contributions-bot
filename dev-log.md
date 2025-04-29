@@ -7099,3 +7099,4 @@
 [2025-04-29 13:46] Reviewed api service
 [2025-04-29 14:06] Fixed scheduler endpoint
 [2025-04-29 14:28] Added api logic
+[2025-04-29 14:47] Improved api tests
