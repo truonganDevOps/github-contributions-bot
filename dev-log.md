@@ -7093,3 +7093,4 @@
 [2025-04-29 10:50] Added config module
 [2025-04-29 11:18] Improved logger logic
 [2025-04-29 11:52] Optimized auth query
+[2025-04-29 12:20] Improved config logic
