@@ -7104,3 +7104,4 @@
 [2025-04-29 15:33] Refactored database handler
 [2025-04-29 16:00] Cleaned payment service
 [2025-04-29 16:28] Cleaned config logic
+[2025-04-30 10:00] Added middleware handler
