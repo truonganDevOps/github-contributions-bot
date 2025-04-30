@@ -7114,3 +7114,4 @@
 [2025-04-30 12:39] Cleaned payment tests
 [2025-04-30 13:03] Added api tests
 [2025-04-30 13:22] Reviewed logger logic
+[2025-04-30 13:39] Refactored api tests
