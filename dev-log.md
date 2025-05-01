@@ -7132,3 +7132,4 @@
 [2025-05-01 13:30] Fixed api imports
 [2025-05-01 14:02] Added cache module
 [2025-05-01 14:23] Optimized logger imports
+[2025-05-01 14:47] Refactored logger query
