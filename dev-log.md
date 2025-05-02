@@ -7141,3 +7141,4 @@
 [2025-05-02 10:45] Added user logic
 [2025-05-02 11:09] Reviewed user handler
 [2025-05-02 11:27] Cleaned api query
+[2025-05-02 11:44] Cleaned user service
