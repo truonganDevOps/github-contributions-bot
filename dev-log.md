@@ -4896,3 +4896,4 @@
 [2025-05-04 10:39] Cleaned payment query
 [2025-05-04 12:29] Added database tests
 [2025-05-04 13:18] Cleaned api query
+[2025-05-04 14:30] Refactored cache query
