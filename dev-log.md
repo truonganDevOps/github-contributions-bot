@@ -4902,3 +4902,4 @@
 [2025-05-05 10:23] Updated config handler
 [2025-05-05 12:39] Updated user service
 [2025-05-06 09:33] Improved config tests
+[2025-05-06 11:29] Fixed logger endpoint
