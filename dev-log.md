@@ -4907,3 +4907,4 @@
 [2025-05-06 14:40] Added user tests
 [2025-05-07 09:26] Optimized database logic
 [2025-05-07 11:28] Added scheduler imports
+[2025-05-07 12:57] Cleaned scheduler tests
