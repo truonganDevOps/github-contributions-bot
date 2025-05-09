@@ -4916,3 +4916,4 @@
 [2025-05-09 09:08] Added payment handler
 [2025-05-09 10:53] Refactored api query
 [2025-05-09 12:49] Fixed api query
+[2025-05-09 13:09] Updated config module
