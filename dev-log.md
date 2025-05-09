@@ -4914,3 +4914,4 @@
 [2025-05-08 11:08] Fixed scheduler query
 [2025-05-08 12:57] Refactored cache tests
 [2025-05-09 09:08] Added payment handler
+[2025-05-09 10:53] Refactored api query
