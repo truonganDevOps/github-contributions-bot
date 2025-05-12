@@ -7172,3 +7172,4 @@
 [2025-05-12 10:19] Cleaned logger logic
 [2025-05-12 10:41] Cleaned database logic
 [2025-05-12 11:15] Fixed middleware service
+[2025-05-12 11:49] Fixed user module
