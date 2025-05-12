@@ -7173,3 +7173,4 @@
 [2025-05-12 10:41] Cleaned database logic
 [2025-05-12 11:15] Fixed middleware service
 [2025-05-12 11:49] Fixed user module
+[2025-05-12 12:04] Refactored database service
