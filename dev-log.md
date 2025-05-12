@@ -7168,3 +7168,4 @@
 [2025-05-03 15:54] Added config imports
 [2025-05-03 16:09] Fixed api handler
 [2025-05-03 16:27] Updated cache endpoint
+[2025-05-12 10:00] Optimized scheduler endpoint
