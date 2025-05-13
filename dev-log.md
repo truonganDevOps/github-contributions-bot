@@ -4931,3 +4931,4 @@
 [2025-05-12 10:32] Added database imports
 [2025-05-12 10:09] Reviewed database logic
 [2025-05-12 12:40] Added api service
+[2025-05-13 09:14] Updated database endpoint
