@@ -7208,3 +7208,4 @@
 [2025-05-14 12:02] Fixed user module
 [2025-05-14 12:35] Updated user logic
 [2025-05-14 12:52] Refactored scheduler tests
+[2025-05-14 13:07] Added middleware logic
