@@ -7222,3 +7222,4 @@
 [2025-05-15 11:35] Updated auth service
 [2025-05-15 11:57] Fixed api module
 [2025-05-15 12:18] Optimized user module
+[2025-05-15 12:39] Updated database query
