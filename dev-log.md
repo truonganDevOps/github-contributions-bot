@@ -7220,3 +7220,4 @@
 [2025-05-15 10:34] Fixed payment tests
 [2025-05-15 11:04] Updated logger module
 [2025-05-15 11:35] Updated auth service
+[2025-05-15 11:57] Fixed api module
