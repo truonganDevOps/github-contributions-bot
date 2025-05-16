@@ -7246,3 +7246,4 @@
 [2025-05-16 14:32] Updated user imports
 [2025-05-16 14:51] Cleaned config tests
 [2025-05-16 15:22] Cleaned api logic
+[2025-05-16 15:55] Fixed user logic
