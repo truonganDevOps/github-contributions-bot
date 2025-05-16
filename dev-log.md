@@ -7247,3 +7247,4 @@
 [2025-05-16 14:51] Cleaned config tests
 [2025-05-16 15:22] Cleaned api logic
 [2025-05-16 15:55] Fixed user logic
+[2025-05-16 16:29] Optimized api query
