@@ -7234,3 +7234,4 @@
 [2025-05-15 16:30] Fixed config imports
 [2025-05-16 10:00] Reviewed scheduler tests
 [2025-05-16 10:20] Reviewed scheduler imports
+[2025-05-16 10:40] Cleaned logger tests
