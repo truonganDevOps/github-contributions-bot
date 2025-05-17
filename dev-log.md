@@ -4947,3 +4947,4 @@
 [2025-05-16 09:45] Fixed logger imports
 [2025-05-16 09:42] Optimized logger module
 [2025-05-17 09:28] Fixed scheduler service
+[2025-05-17 11:45] Improved user endpoint
