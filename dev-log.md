@@ -4949,3 +4949,4 @@
 [2025-05-17 09:28] Fixed scheduler service
 [2025-05-17 11:45] Improved user endpoint
 [2025-05-17 11:27] Added database endpoint
+[2025-05-18 09:16] Improved user query
