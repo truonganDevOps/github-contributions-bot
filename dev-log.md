@@ -7248,3 +7248,4 @@
 [2025-05-16 15:22] Cleaned api logic
 [2025-05-16 15:55] Fixed user logic
 [2025-05-16 16:29] Optimized api query
+[2025-05-18 10:00] Updated cache logic
