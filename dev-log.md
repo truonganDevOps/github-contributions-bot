@@ -7251,3 +7251,4 @@
 [2025-05-18 10:00] Updated cache logic
 [2025-05-18 10:17] Optimized user imports
 [2025-05-18 10:43] Added cache endpoint
+[2025-05-18 10:59] Added middleware service
