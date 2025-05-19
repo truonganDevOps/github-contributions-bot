@@ -4957,3 +4957,4 @@
 [2025-05-19 09:13] Added payment service
 [2025-05-19 09:59] Added logger module
 [2025-05-19 10:59] Fixed scheduler query
+[2025-05-19 10:32] Cleaned auth logic
