@@ -4959,3 +4959,4 @@
 [2025-05-19 10:59] Fixed scheduler query
 [2025-05-19 10:32] Cleaned auth logic
 [2025-05-20 09:08] Cleaned config endpoint
+[2025-05-20 10:36] Added user handler
