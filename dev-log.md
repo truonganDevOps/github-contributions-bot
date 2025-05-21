@@ -4965,3 +4965,4 @@
 [2025-05-20 14:44] Refactored auth query
 [2025-05-21 09:51] Reviewed config logic
 [2025-05-21 11:20] Refactored scheduler imports
+[2025-05-21 11:15] Updated api endpoint
