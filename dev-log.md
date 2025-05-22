@@ -4968,3 +4968,4 @@
 [2025-05-21 11:15] Updated api endpoint
 [2025-05-21 11:12] Cleaned api module
 [2025-05-21 13:16] Added auth query
+[2025-05-22 09:42] Refactored api endpoint
