@@ -4975,3 +4975,4 @@
 [2025-05-23 09:13] Improved auth logic
 [2025-05-23 09:46] Fixed scheduler endpoint
 [2025-05-24 09:20] Fixed database imports
+[2025-05-24 09:32] Updated middleware imports
