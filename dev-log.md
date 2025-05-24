@@ -7279,3 +7279,4 @@
 [2025-05-24 15:06] Reviewed database handler
 [2025-05-24 15:38] Optimized config query
 [2025-05-24 16:04] Added logger handler
+[2025-05-24 16:26] Added user query
