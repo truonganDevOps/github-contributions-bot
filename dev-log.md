@@ -7291,3 +7291,4 @@
 [2025-05-25 12:49] Added config query
 [2025-05-25 13:07] Refactored cache imports
 [2025-05-25 13:31] Refactored scheduler module
+[2025-05-25 13:46] Cleaned config endpoint
