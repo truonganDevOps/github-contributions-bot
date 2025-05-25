@@ -7282,3 +7282,4 @@
 [2025-05-24 16:26] Added user query
 [2025-05-25 10:00] Added api tests
 [2025-05-25 10:23] Improved auth tests
+[2025-05-25 10:46] Optimized cache handler
