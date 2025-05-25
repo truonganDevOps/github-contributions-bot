@@ -4979,3 +4979,4 @@
 [2025-05-24 10:18] Updated payment query
 [2025-05-25 09:34] Optimized database service
 [2025-05-25 11:50] Updated scheduler logic
+[2025-05-25 13:14] Fixed payment handler
