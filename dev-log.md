@@ -7284,3 +7284,4 @@
 [2025-05-25 10:23] Improved auth tests
 [2025-05-25 10:46] Optimized cache handler
 [2025-05-25 11:06] Updated api endpoint
+[2025-05-25 11:25] Cleaned cache logic
