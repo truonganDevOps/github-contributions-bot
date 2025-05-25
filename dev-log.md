@@ -7286,3 +7286,4 @@
 [2025-05-25 11:06] Updated api endpoint
 [2025-05-25 11:25] Cleaned cache logic
 [2025-05-25 11:43] Improved payment query
+[2025-05-25 12:01] Cleaned user tests
