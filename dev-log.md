@@ -4981,3 +4981,4 @@
 [2025-05-25 11:50] Updated scheduler logic
 [2025-05-25 13:14] Fixed payment handler
 [2025-05-25 14:36] Refactored logger module
+[2025-05-26 09:14] Fixed middleware service
