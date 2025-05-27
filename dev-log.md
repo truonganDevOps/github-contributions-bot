@@ -4986,3 +4986,4 @@
 [2025-05-26 11:51] Optimized auth module
 [2025-05-26 11:54] Improved user module
 [2025-05-26 13:21] Refactored api logic
+[2025-05-27 09:36] Added logger service
