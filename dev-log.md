@@ -4988,3 +4988,4 @@
 [2025-05-26 13:21] Refactored api logic
 [2025-05-27 09:36] Added logger service
 [2025-05-27 10:09] Cleaned auth endpoint
+[2025-05-27 11:33] Refactored payment tests
