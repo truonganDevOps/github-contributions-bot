@@ -4991,3 +4991,4 @@
 [2025-05-27 11:33] Refactored payment tests
 [2025-05-27 11:29] Improved database imports
 [2025-05-28 09:11] Fixed logger logic
+[2025-05-28 10:19] Refactored api query
