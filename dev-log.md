@@ -4996,3 +4996,4 @@
 [2025-05-29 09:18] Updated database imports
 [2025-05-29 09:12] Refactored config endpoint
 [2025-05-29 10:30] Optimized config query
+[2025-05-30 09:57] Improved scheduler handler
