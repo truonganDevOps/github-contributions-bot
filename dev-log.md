@@ -7309,3 +7309,4 @@
 [2025-05-31 14:18] Fixed payment module
 [2025-05-31 14:43] Refactored database imports
 [2025-05-31 15:09] Cleaned api module
+[2025-05-31 15:42] Added logger tests
