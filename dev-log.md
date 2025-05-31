@@ -5001,3 +5001,4 @@
 [2025-05-30 10:48] Added payment imports
 [2025-05-31 09:29] Improved middleware endpoint
 [2025-05-31 11:01] Improved config module
+[2025-05-31 13:57] Fixed scheduler module
