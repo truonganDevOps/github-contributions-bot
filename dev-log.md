@@ -7316,3 +7316,4 @@
 [2025-06-01 10:32] Cleaned logger imports
 [2025-06-01 11:01] Updated api imports
 [2025-06-01 11:16] Reviewed cache module
+[2025-06-01 11:43] Updated middleware logic
