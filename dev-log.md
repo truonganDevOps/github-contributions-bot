@@ -7320,3 +7320,4 @@
 [2025-06-01 12:11] Reviewed middleware imports
 [2025-06-01 12:41] Fixed database tests
 [2025-06-01 13:10] Added auth handler
+[2025-06-01 13:35] Updated payment query
