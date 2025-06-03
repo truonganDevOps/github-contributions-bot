@@ -5014,3 +5014,4 @@
 [2025-06-02 14:43] Updated payment logic
 [2025-06-03 09:31] Reviewed cache imports
 [2025-06-03 09:23] Cleaned database module
+[2025-06-03 11:16] Fixed logger handler
