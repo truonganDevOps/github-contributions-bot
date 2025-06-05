@@ -5023,3 +5023,4 @@
 [2025-06-05 09:17] Updated database module
 [2025-06-05 10:07] Added scheduler service
 [2025-06-05 12:13] Optimized database tests
+[2025-06-05 13:32] Fixed database logic
