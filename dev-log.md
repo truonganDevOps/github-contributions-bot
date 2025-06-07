@@ -7329,3 +7329,4 @@
 [2025-06-01 16:06] Refactored api imports
 [2025-06-01 16:40] Improved user imports
 [2025-06-07 10:00] Reviewed auth endpoint
+[2025-06-07 10:24] Cleaned user endpoint
