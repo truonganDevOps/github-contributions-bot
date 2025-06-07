@@ -7340,3 +7340,4 @@
 [2025-06-07 13:34] Fixed scheduler module
 [2025-06-07 14:04] Cleaned cache logic
 [2025-06-07 14:36] Updated user handler
+[2025-06-07 15:06] Refactored user endpoint
