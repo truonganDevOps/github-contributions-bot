@@ -7346,3 +7346,4 @@
 [2025-06-07 16:43] Reviewed api logic
 [2025-06-09 10:00] Updated api endpoint
 [2025-06-09 10:30] Added cache handler
+[2025-06-09 10:51] Cleaned scheduler handler
