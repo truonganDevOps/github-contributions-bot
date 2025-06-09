@@ -7359,3 +7359,4 @@
 [2025-06-09 14:54] Cleaned logger imports
 [2025-06-09 15:17] Fixed scheduler imports
 [2025-06-09 15:36] Cleaned api tests
+[2025-06-09 16:02] Refactored database logic
