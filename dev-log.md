@@ -5036,3 +5036,4 @@
 [2025-06-08 12:45] Improved cache service
 [2025-06-08 14:54] Cleaned cache logic
 [2025-06-08 15:39] Refactored database imports
+[2025-06-09 09:29] Fixed cache logic
