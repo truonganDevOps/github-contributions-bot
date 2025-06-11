@@ -7385,3 +7385,4 @@
 [2025-06-11 12:21] Added user service
 [2025-06-11 12:53] Updated user endpoint
 [2025-06-11 13:20] Added payment imports
+[2025-06-11 13:53] Added middleware tests
