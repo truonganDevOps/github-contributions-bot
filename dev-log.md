@@ -5048,3 +5048,4 @@
 [2025-06-11 11:56] Optimized logger imports
 [2025-06-11 13:55] Improved logger query
 [2025-06-11 15:52] Improved api module
+[2025-06-11 17:27] Refactored api logic
