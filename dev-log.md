@@ -7383,3 +7383,4 @@
 [2025-06-11 11:32] Refactored logger module
 [2025-06-11 11:59] Cleaned scheduler query
 [2025-06-11 12:21] Added user service
+[2025-06-11 12:53] Updated user endpoint
