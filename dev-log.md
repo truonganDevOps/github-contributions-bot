@@ -7396,3 +7396,4 @@
 [2025-06-12 10:18] Updated payment module
 [2025-06-12 10:40] Updated auth query
 [2025-06-12 11:06] Updated middleware handler
+[2025-06-12 11:35] Fixed middleware module
