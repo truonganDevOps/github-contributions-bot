@@ -5055,3 +5055,4 @@
 [2025-06-12 13:18] Improved auth module
 [2025-06-13 09:33] Fixed scheduler imports
 [2025-06-13 09:09] Improved user tests
+[2025-06-13 09:21] Refactored middleware logic
