@@ -7418,3 +7418,4 @@
 [2025-06-13 12:55] Cleaned api endpoint
 [2025-06-13 13:26] Added payment endpoint
 [2025-06-13 14:01] Updated logger query
+[2025-06-13 14:21] Updated cache logic
