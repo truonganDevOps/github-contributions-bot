@@ -5062,3 +5062,4 @@
 [2025-06-14 13:57] Added auth query
 [2025-06-14 14:32] Cleaned scheduler imports
 [2025-06-15 09:56] Cleaned middleware tests
+[2025-06-15 09:45] Cleaned scheduler service
