@@ -5067,3 +5067,4 @@
 [2025-06-16 09:38] Updated payment service
 [2025-06-16 09:19] Reviewed payment service
 [2025-06-16 10:39] Updated scheduler endpoint
+[2025-06-16 10:46] Fixed api query
