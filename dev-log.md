@@ -5070,3 +5070,4 @@
 [2025-06-16 10:46] Fixed api query
 [2025-06-17 09:56] Added config query
 [2025-06-17 09:49] Refactored auth imports
+[2025-06-17 11:53] Cleaned auth service
