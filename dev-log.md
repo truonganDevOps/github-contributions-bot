@@ -5087,3 +5087,4 @@
 [2025-06-21 11:59] Cleaned user imports
 [2025-06-22 09:34] Fixed payment endpoint
 [2025-06-22 09:05] Fixed auth handler
+[2025-06-22 10:39] Refactored auth handler
