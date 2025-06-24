@@ -7461,3 +7461,4 @@
 [2025-06-24 10:57] Added payment module
 [2025-06-24 11:23] Cleaned middleware imports
 [2025-06-24 11:52] Cleaned auth query
+[2025-06-24 12:14] Reviewed auth handler
