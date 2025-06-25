@@ -7475,3 +7475,4 @@
 [2025-06-25 10:00] Updated auth service
 [2025-06-25 10:24] Optimized payment logic
 [2025-06-25 10:51] Refactored api imports
+[2025-06-25 11:14] Fixed config handler
