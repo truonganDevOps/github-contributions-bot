@@ -7485,3 +7485,4 @@
 [2025-06-25 14:07] Optimized api endpoint
 [2025-06-25 14:31] Updated scheduler endpoint
 [2025-06-25 14:57] Improved cache handler
+[2025-06-25 15:24] Added user handler
