@@ -7478,3 +7478,4 @@
 [2025-06-25 11:14] Fixed config handler
 [2025-06-25 11:49] Improved config endpoint
 [2025-06-25 12:10] Refactored scheduler module
+[2025-06-25 12:31] Refactored cache logic
