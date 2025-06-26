@@ -7489,3 +7489,4 @@
 [2025-06-25 15:47] Refactored payment module
 [2025-06-25 16:17] Added user imports
 [2025-06-26 10:00] Optimized logger endpoint
+[2025-06-26 10:33] Cleaned user handler
