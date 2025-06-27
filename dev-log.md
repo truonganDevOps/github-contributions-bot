@@ -5109,3 +5109,4 @@
 [2025-06-26 12:12] Added payment query
 [2025-06-27 09:31] Fixed api tests
 [2025-06-27 10:48] Refactored user imports
+[2025-06-27 10:46] Added database handler
