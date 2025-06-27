@@ -5110,3 +5110,4 @@
 [2025-06-27 09:31] Fixed api tests
 [2025-06-27 10:48] Refactored user imports
 [2025-06-27 10:46] Added database handler
+[2025-06-27 12:51] Optimized database service
