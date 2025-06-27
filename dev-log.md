@@ -5107,3 +5107,4 @@
 [2025-06-26 11:21] Added database handler
 [2025-06-26 12:44] Reviewed logger service
 [2025-06-26 12:12] Added payment query
+[2025-06-27 09:31] Fixed api tests
