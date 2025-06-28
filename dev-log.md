@@ -7526,3 +7526,4 @@
 [2025-06-28 11:26] Updated api handler
 [2025-06-28 11:43] Refactored auth imports
 [2025-06-28 12:02] Updated config handler
+[2025-06-28 12:25] Reviewed api logic
