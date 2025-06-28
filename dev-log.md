@@ -5114,3 +5114,4 @@
 [2025-06-27 13:13] Reviewed logger service
 [2025-06-28 09:11] Refactored auth endpoint
 [2025-06-28 10:37] Cleaned user endpoint
+[2025-06-28 12:05] Cleaned auth service
