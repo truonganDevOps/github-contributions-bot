@@ -7522,3 +7522,4 @@
 [2025-06-27 16:05] Cleaned api module
 [2025-06-28 10:00] Added auth tests
 [2025-06-28 10:23] Refactored scheduler endpoint
+[2025-06-28 10:52] Updated cache query
