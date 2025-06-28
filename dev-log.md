@@ -7525,3 +7525,4 @@
 [2025-06-28 10:52] Updated cache query
 [2025-06-28 11:26] Updated api handler
 [2025-06-28 11:43] Refactored auth imports
+[2025-06-28 12:02] Updated config handler
