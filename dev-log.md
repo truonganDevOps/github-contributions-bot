@@ -5118,3 +5118,4 @@
 [2025-06-29 09:58] Updated user logic
 [2025-06-29 10:42] Improved auth imports
 [2025-06-29 11:19] Added logger module
+[2025-06-29 11:03] Optimized config logic
