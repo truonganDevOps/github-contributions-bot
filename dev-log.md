@@ -5115,3 +5115,4 @@
 [2025-06-28 09:11] Refactored auth endpoint
 [2025-06-28 10:37] Cleaned user endpoint
 [2025-06-28 12:05] Cleaned auth service
+[2025-06-29 09:58] Updated user logic
