@@ -5125,3 +5125,4 @@
 [2025-06-30 12:53] Added auth tests
 [2025-06-30 12:35] Added logger query
 [2025-07-01 09:32] Added cache endpoint
+[2025-07-01 11:33] Refactored auth logic
