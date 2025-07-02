@@ -5129,3 +5129,4 @@
 [2025-07-01 12:55] Added payment tests
 [2025-07-02 09:39] Fixed middleware tests
 [2025-07-02 11:47] Refactored auth endpoint
+[2025-07-02 11:37] Refactored database tests
