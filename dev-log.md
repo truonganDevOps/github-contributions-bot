@@ -5132,3 +5132,4 @@
 [2025-07-02 11:37] Refactored database tests
 [2025-07-02 11:40] Updated config tests
 [2025-07-03 09:06] Added user handler
+[2025-07-03 10:40] Refactored database endpoint
