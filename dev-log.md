@@ -5158,3 +5158,4 @@
 [2025-07-08 12:20] Added auth imports
 [2025-07-08 13:12] Fixed user logic
 [2025-07-08 14:16] Refactored cache endpoint
+[2025-07-09 09:44] Refactored logger tests
