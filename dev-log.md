@@ -5183,3 +5183,4 @@
 [2025-07-15 10:00] Fixed config service
 [2025-07-15 11:22] Optimized api imports
 [2025-07-15 13:19] Updated config handler
+[2025-07-15 15:04] Added user service
