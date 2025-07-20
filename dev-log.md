@@ -5201,3 +5201,4 @@
 [2025-07-20 09:17] Fixed user query
 [2025-07-20 10:12] Improved api imports
 [2025-07-20 12:03] Refactored user handler
+[2025-07-20 14:50] Fixed cache tests
