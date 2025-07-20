@@ -7588,3 +7588,4 @@
 [2025-07-20 10:30] Improved user service
 [2025-07-20 10:58] Fixed payment imports
 [2025-07-20 11:32] Updated user tests
+[2025-07-20 11:48] Cleaned payment query
