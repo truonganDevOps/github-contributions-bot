@@ -5198,3 +5198,4 @@
 [2025-07-19 09:33] Added api logic
 [2025-07-19 09:10] Refactored user tests
 [2025-07-19 10:48] Optimized auth logic
+[2025-07-20 09:17] Fixed user query
