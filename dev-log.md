@@ -5204,3 +5204,4 @@
 [2025-07-20 14:50] Fixed cache tests
 [2025-07-21 09:13] Improved payment imports
 [2025-07-21 09:35] Improved api service
+[2025-07-21 10:27] Added middleware handler
