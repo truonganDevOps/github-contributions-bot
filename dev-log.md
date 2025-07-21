@@ -7606,3 +7606,4 @@
 [2025-07-21 10:57] Cleaned cache query
 [2025-07-21 11:20] Updated config logic
 [2025-07-21 11:53] Cleaned payment service
+[2025-07-21 12:14] Fixed logger logic
