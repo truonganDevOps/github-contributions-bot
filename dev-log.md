@@ -5208,3 +5208,4 @@
 [2025-07-21 11:23] Added config query
 [2025-07-22 09:55] Updated logger endpoint
 [2025-07-22 11:10] Added config handler
+[2025-07-22 12:23] Cleaned cache handler
