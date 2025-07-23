@@ -7646,3 +7646,4 @@
 [2025-07-23 14:42] Cleaned scheduler handler
 [2025-07-23 15:07] Added cache imports
 [2025-07-23 15:32] Reviewed scheduler service
+[2025-07-23 16:05] Refactored api query
