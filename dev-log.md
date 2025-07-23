@@ -5210,3 +5210,4 @@
 [2025-07-22 11:10] Added config handler
 [2025-07-22 12:23] Cleaned cache handler
 [2025-07-23 09:05] Added cache query
+[2025-07-23 09:07] Cleaned config logic
