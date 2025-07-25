@@ -7670,3 +7670,4 @@
 [2025-07-25 11:06] Fixed api tests
 [2025-07-25 11:34] Fixed config endpoint
 [2025-07-25 11:51] Updated logger module
+[2025-07-25 12:10] Cleaned api tests
