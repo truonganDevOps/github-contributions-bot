@@ -5223,3 +5223,4 @@
 [2025-07-25 11:55] Fixed payment service
 [2025-07-25 12:05] Cleaned database service
 [2025-07-25 14:45] Refactored api handler
+[2025-07-26 09:21] Cleaned config logic
