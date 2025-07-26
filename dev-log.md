@@ -7692,3 +7692,4 @@
 [2025-07-26 14:08] Reviewed api query
 [2025-07-26 14:37] Added user logic
 [2025-07-26 15:03] Fixed payment tests
+[2025-07-26 15:34] Improved middleware endpoint
