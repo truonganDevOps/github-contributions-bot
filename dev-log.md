@@ -7690,3 +7690,4 @@
 [2025-07-26 13:13] Refactored auth service
 [2025-07-26 13:46] Reviewed api endpoint
 [2025-07-26 14:08] Reviewed api query
+[2025-07-26 14:37] Added user logic
