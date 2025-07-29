@@ -5238,3 +5238,4 @@
 [2025-07-28 12:39] Improved database tests
 [2025-07-28 14:49] Added config logic
 [2025-07-29 09:28] Improved api tests
+[2025-07-29 10:17] Refactored logger endpoint
