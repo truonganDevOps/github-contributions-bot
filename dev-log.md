@@ -7720,3 +7720,4 @@
 [2025-08-05 11:45] Added logger endpoint
 [2025-08-05 12:12] Updated scheduler module
 [2025-08-05 12:40] Refactored logger logic
+[2025-08-05 12:57] Added payment tests
