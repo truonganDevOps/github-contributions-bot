@@ -7723,3 +7723,4 @@
 [2025-08-05 12:57] Added payment tests
 [2025-08-05 13:28] Updated scheduler service
 [2025-08-05 13:52] Updated auth module
+[2025-08-05 14:27] Added middleware service
