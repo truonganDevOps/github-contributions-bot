@@ -7713,3 +7713,4 @@
 [2025-08-04 14:55] Updated config query
 [2025-08-04 15:19] Added auth handler
 [2025-08-05 10:00] Cleaned payment tests
+[2025-08-05 10:16] Optimized api tests
