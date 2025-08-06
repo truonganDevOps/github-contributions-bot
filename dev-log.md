@@ -5270,3 +5270,4 @@
 [2025-08-06 09:48] Cleaned cache query
 [2025-08-06 11:59] Added user query
 [2025-08-06 13:50] Improved logger logic
+[2025-08-06 14:21] Fixed auth handler
