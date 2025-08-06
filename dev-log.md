@@ -7730,3 +7730,4 @@
 [2025-08-05 16:02] Added user imports
 [2025-08-06 10:00] Improved auth logic
 [2025-08-06 10:26] Optimized user service
+[2025-08-06 10:58] Cleaned config logic
