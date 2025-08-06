@@ -7729,3 +7729,4 @@
 [2025-08-05 15:46] Fixed payment handler
 [2025-08-05 16:02] Added user imports
 [2025-08-06 10:00] Improved auth logic
+[2025-08-06 10:26] Optimized user service
