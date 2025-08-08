@@ -7766,3 +7766,4 @@
 [2025-08-08 11:14] Added user query
 [2025-08-08 11:30] Added auth handler
 [2025-08-08 11:46] Improved api imports
+[2025-08-08 12:20] Improved user module
