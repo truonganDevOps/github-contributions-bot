@@ -5297,3 +5297,4 @@
 [2025-08-13 09:06] Added auth service
 [2025-08-13 09:29] Reviewed logger endpoint
 [2025-08-13 11:26] Added user imports
+[2025-08-13 13:59] Refactored config logic
