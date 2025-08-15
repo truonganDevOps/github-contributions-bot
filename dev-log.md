@@ -5307,3 +5307,4 @@
 [2025-08-15 09:47] Updated api query
 [2025-08-15 09:05] Improved auth query
 [2025-08-15 09:14] Updated config tests
+[2025-08-15 09:10] Improved payment handler
