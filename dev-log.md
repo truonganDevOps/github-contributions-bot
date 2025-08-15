@@ -5304,3 +5304,4 @@
 [2025-08-14 09:38] Fixed cache module
 [2025-08-14 10:48] Improved auth endpoint
 [2025-08-15 09:40] Optimized user imports
+[2025-08-15 09:47] Updated api query
