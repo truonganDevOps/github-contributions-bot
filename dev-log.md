@@ -7811,3 +7811,4 @@
 [2025-08-17 10:00] Improved cache imports
 [2025-08-17 10:23] Updated scheduler imports
 [2025-08-17 10:48] Fixed auth endpoint
+[2025-08-17 11:20] Refactored user tests
