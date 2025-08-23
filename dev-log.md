@@ -7826,3 +7826,4 @@
 [2025-08-17 16:37] Refactored database handler
 [2025-08-23 10:00] Fixed database imports
 [2025-08-23 10:27] Improved api logic
+[2025-08-23 10:58] Improved api logic
