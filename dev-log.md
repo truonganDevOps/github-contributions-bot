@@ -7852,3 +7852,4 @@
 [2025-08-24 13:32] Fixed user query
 [2025-08-24 13:50] Added cache tests
 [2025-08-24 14:20] Reviewed cache imports
+[2025-08-24 14:40] Optimized config logic
