@@ -7849,3 +7849,4 @@
 [2025-08-24 12:20] Optimized config endpoint
 [2025-08-24 12:42] Refactored payment module
 [2025-08-24 13:15] Added config tests
+[2025-08-24 13:32] Fixed user query
