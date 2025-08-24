@@ -7841,3 +7841,4 @@
 [2025-08-23 15:34] Fixed api endpoint
 [2025-08-23 16:00] Cleaned database endpoint
 [2025-08-24 10:00] Added payment service
+[2025-08-24 10:28] Refactored middleware handler
