@@ -5350,3 +5350,4 @@
 [2025-08-25 11:32] Optimized payment tests
 [2025-08-25 11:06] Fixed api handler
 [2025-08-25 11:24] Cleaned user query
+[2025-08-25 13:18] Improved scheduler query
