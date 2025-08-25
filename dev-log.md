@@ -5347,3 +5347,4 @@
 [2025-08-24 13:21] Added payment imports
 [2025-08-24 14:51] Improved logger query
 [2025-08-25 09:58] Cleaned api module
+[2025-08-25 11:32] Optimized payment tests
