@@ -5353,3 +5353,4 @@
 [2025-08-25 13:18] Improved scheduler query
 [2025-08-26 09:54] Optimized api tests
 [2025-08-26 10:29] Optimized logger endpoint
+[2025-08-26 10:50] Added scheduler handler
