@@ -7871,3 +7871,4 @@
 [2025-08-27 15:12] Refactored user endpoint
 [2025-08-27 15:30] Improved database module
 [2025-08-27 15:46] Refactored auth imports
+[2025-08-27 16:17] Improved user service
