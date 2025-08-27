@@ -7865,3 +7865,4 @@
 [2025-08-27 12:28] Updated cache logic
 [2025-08-27 12:54] Refactored database tests
 [2025-08-27 13:28] Added user tests
+[2025-08-27 13:54] Cleaned payment query
