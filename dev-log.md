@@ -7866,3 +7866,4 @@
 [2025-08-27 12:54] Refactored database tests
 [2025-08-27 13:28] Added user tests
 [2025-08-27 13:54] Cleaned payment query
+[2025-08-27 14:23] Updated auth logic
