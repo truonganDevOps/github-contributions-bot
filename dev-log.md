@@ -5362,3 +5362,4 @@
 [2025-08-27 12:44] Updated payment tests
 [2025-08-28 09:01] Reviewed scheduler imports
 [2025-08-28 09:00] Refactored config imports
+[2025-08-28 10:14] Improved config endpoint
