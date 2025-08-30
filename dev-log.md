@@ -5372,3 +5372,4 @@
 [2025-08-30 10:46] Fixed scheduler tests
 [2025-08-30 10:03] Reviewed payment endpoint
 [2025-08-30 10:51] Reviewed config imports
+[2025-08-30 11:52] Refactored scheduler handler
