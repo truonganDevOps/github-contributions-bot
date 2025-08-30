@@ -7874,3 +7874,4 @@
 [2025-08-27 16:17] Improved user service
 [2025-08-30 10:00] Reviewed api imports
 [2025-08-30 10:18] Reviewed payment service
+[2025-08-30 10:43] Fixed user logic
