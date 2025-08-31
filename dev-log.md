@@ -5375,3 +5375,4 @@
 [2025-08-30 11:52] Refactored scheduler handler
 [2025-08-31 09:24] Refactored database handler
 [2025-08-31 10:06] Optimized database imports
+[2025-08-31 11:19] Fixed logger logic
