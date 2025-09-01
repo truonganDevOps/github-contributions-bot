@@ -5380,3 +5380,4 @@
 [2025-09-01 09:27] Improved cache tests
 [2025-09-01 09:24] Updated middleware service
 [2025-09-01 09:46] Refactored cache handler
+[2025-09-01 11:19] Cleaned config logic
