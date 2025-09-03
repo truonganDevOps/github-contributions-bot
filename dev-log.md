@@ -5387,3 +5387,4 @@
 [2025-09-02 13:49] Improved middleware logic
 [2025-09-03 09:16] Added user handler
 [2025-09-03 11:22] Cleaned api module
+[2025-09-03 13:12] Updated config query
