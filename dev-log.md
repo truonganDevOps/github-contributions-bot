@@ -7908,3 +7908,4 @@
 [2025-09-03 10:19] Added user handler
 [2025-09-03 10:42] Cleaned database query
 [2025-09-03 11:15] Reviewed logger imports
+[2025-09-03 11:49] Added config module
