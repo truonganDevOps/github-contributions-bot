@@ -7922,3 +7922,4 @@
 [2025-09-03 16:46] Improved auth imports
 [2025-09-04 10:00] Updated logger tests
 [2025-09-04 10:32] Fixed logger module
+[2025-09-04 10:50] Updated api logic
