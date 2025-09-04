@@ -5393,3 +5393,4 @@
 [2025-09-04 11:17] Updated cache imports
 [2025-09-04 12:50] Cleaned payment logic
 [2025-09-04 14:04] Optimized middleware service
+[2025-09-04 14:35] Fixed auth imports
