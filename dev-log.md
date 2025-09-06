@@ -7961,3 +7961,4 @@
 [2025-09-06 12:12] Improved payment service
 [2025-09-06 12:47] Cleaned auth handler
 [2025-09-06 13:16] Refactored database imports
+[2025-09-06 13:32] Updated payment endpoint
