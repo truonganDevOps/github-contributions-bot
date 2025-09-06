@@ -7966,3 +7966,4 @@
 [2025-09-06 14:08] Cleaned middleware service
 [2025-09-06 14:29] Refactored api imports
 [2025-09-06 14:53] Improved user module
+[2025-09-06 15:20] Added auth imports
