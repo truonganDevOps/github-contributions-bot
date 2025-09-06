@@ -7965,3 +7965,4 @@
 [2025-09-06 13:48] Improved logger service
 [2025-09-06 14:08] Cleaned middleware service
 [2025-09-06 14:29] Refactored api imports
+[2025-09-06 14:53] Improved user module
