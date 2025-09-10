@@ -5414,3 +5414,4 @@
 [2025-09-09 09:00] Reviewed scheduler tests
 [2025-09-09 11:02] Cleaned database handler
 [2025-09-09 12:31] Reviewed auth query
+[2025-09-10 09:33] Updated middleware tests
