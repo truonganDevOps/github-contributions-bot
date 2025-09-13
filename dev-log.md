@@ -5427,3 +5427,4 @@
 [2025-09-12 09:56] Added logger tests
 [2025-09-12 11:45] Improved auth module
 [2025-09-13 09:58] Improved middleware handler
+[2025-09-13 10:25] Cleaned scheduler logic
