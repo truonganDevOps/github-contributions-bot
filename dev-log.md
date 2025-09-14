@@ -5431,3 +5431,4 @@
 [2025-09-13 11:03] Fixed api handler
 [2025-09-13 11:14] Updated cache handler
 [2025-09-14 09:23] Improved cache module
+[2025-09-14 10:04] Fixed payment query
