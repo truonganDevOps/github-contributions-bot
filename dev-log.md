@@ -7970,3 +7970,4 @@
 [2025-09-06 15:42] Cleaned payment query
 [2025-09-16 10:00] Reviewed database handler
 [2025-09-16 10:19] Improved api tests
+[2025-09-16 10:45] Refactored logger logic
