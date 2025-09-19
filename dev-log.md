@@ -5447,3 +5447,4 @@
 [2025-09-18 10:03] Cleaned user logic
 [2025-09-18 11:21] Added logger service
 [2025-09-19 09:12] Refactored logger module
+[2025-09-19 09:34] Fixed config logic
