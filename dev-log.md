@@ -5449,3 +5449,4 @@
 [2025-09-19 09:12] Refactored logger module
 [2025-09-19 09:34] Fixed config logic
 [2025-09-19 11:28] Refactored payment service
+[2025-09-19 11:04] Fixed user endpoint
