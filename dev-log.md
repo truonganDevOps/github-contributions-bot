@@ -5453,3 +5453,4 @@
 [2025-09-20 09:37] Updated scheduler imports
 [2025-09-20 11:26] Improved api service
 [2025-09-20 11:33] Updated config logic
+[2025-09-20 13:47] Updated database query
