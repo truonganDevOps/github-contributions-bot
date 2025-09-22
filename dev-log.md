@@ -8049,3 +8049,4 @@
 [2025-09-20 15:16] Added scheduler logic
 [2025-09-20 15:45] Refactored logger module
 [2025-09-22 10:00] Updated database service
+[2025-09-22 10:20] Cleaned logger logic
