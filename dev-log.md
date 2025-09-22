@@ -8059,3 +8059,4 @@
 [2025-09-22 13:33] Cleaned scheduler logic
 [2025-09-22 14:03] Improved config tests
 [2025-09-22 14:37] Added middleware endpoint
+[2025-09-22 15:08] Fixed scheduler endpoint
