@@ -5458,3 +5458,4 @@
 [2025-09-21 11:52] Cleaned logger logic
 [2025-09-21 11:50] Added auth tests
 [2025-09-22 09:02] Cleaned user handler
+[2025-09-22 09:21] Added middleware query
