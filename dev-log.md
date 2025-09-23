@@ -5460,3 +5460,4 @@
 [2025-09-22 09:02] Cleaned user handler
 [2025-09-22 09:21] Added middleware query
 [2025-09-22 11:08] Optimized scheduler handler
+[2025-09-23 09:01] Refactored scheduler query
