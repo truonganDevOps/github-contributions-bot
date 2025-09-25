@@ -8066,3 +8066,4 @@
 [2025-09-22 16:27] Updated auth handler
 [2025-09-25 10:00] Reviewed payment logic
 [2025-09-25 10:27] Improved payment imports
+[2025-09-25 10:46] Refactored user handler
