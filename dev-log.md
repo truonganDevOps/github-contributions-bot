@@ -8076,3 +8076,4 @@
 [2025-09-25 13:50] Reviewed logger tests
 [2025-09-25 14:19] Cleaned auth handler
 [2025-09-25 14:40] Added config query
+[2025-09-25 14:57] Optimized config logic
