@@ -8085,3 +8085,4 @@
 [2025-09-28 10:54] Updated scheduler logic
 [2025-09-28 11:14] Cleaned payment query
 [2025-09-28 11:37] Cleaned logger handler
+[2025-09-28 12:11] Reviewed logger query
