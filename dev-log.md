@@ -8092,3 +8092,4 @@
 [2025-09-28 13:59] Reviewed payment logic
 [2025-09-28 14:26] Fixed config imports
 [2025-09-28 14:44] Fixed scheduler endpoint
+[2025-09-28 15:16] Added scheduler tests
