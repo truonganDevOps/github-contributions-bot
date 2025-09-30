@@ -5489,3 +5489,4 @@
 [2025-09-29 12:09] Cleaned logger tests
 [2025-09-30 09:43] Cleaned config logic
 [2025-09-30 11:49] Added scheduler tests
+[2025-09-30 13:43] Updated database handler
