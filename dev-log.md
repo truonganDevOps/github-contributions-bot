@@ -5494,3 +5494,4 @@
 [2025-10-01 09:59] Added logger handler
 [2025-10-01 11:02] Reviewed auth imports
 [2025-10-01 13:16] Fixed scheduler handler
+[2025-10-01 13:18] Cleaned logger logic
