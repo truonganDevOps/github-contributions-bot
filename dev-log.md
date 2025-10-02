@@ -8111,3 +8111,4 @@
 [2025-10-02 15:19] Added cache module
 [2025-10-02 15:44] Cleaned logger tests
 [2025-10-02 16:00] Added database logic
+[2025-10-02 16:26] Fixed api tests
