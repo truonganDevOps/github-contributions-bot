@@ -5508,3 +5508,4 @@
 [2025-10-04 09:50] Optimized config tests
 [2025-10-04 09:19] Added scheduler tests
 [2025-10-04 11:08] Optimized auth handler
+[2025-10-04 13:00] Fixed config query
