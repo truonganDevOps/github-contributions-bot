@@ -5510,3 +5510,4 @@
 [2025-10-04 11:08] Optimized auth handler
 [2025-10-04 13:00] Fixed config query
 [2025-10-04 15:29] Added config logic
+[2025-10-05 09:28] Cleaned user handler
