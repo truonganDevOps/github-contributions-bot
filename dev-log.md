@@ -5512,3 +5512,4 @@
 [2025-10-04 15:29] Added config logic
 [2025-10-05 09:28] Cleaned user handler
 [2025-10-05 11:24] Refactored api tests
+[2025-10-05 12:05] Refactored config endpoint
