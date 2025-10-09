@@ -8132,3 +8132,4 @@
 [2025-10-09 10:26] Improved middleware handler
 [2025-10-09 10:52] Updated user logic
 [2025-10-09 11:20] Cleaned api logic
+[2025-10-09 11:45] Updated scheduler endpoint
