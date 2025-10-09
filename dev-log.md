@@ -8134,3 +8134,4 @@
 [2025-10-09 11:20] Cleaned api logic
 [2025-10-09 11:45] Updated scheduler endpoint
 [2025-10-09 12:06] Improved database tests
+[2025-10-09 12:31] Fixed auth logic
