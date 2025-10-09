@@ -8130,3 +8130,4 @@
 [2025-10-06 15:40] Updated scheduler tests
 [2025-10-09 10:00] Fixed user module
 [2025-10-09 10:26] Improved middleware handler
+[2025-10-09 10:52] Updated user logic
