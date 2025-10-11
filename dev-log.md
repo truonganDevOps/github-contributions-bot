@@ -5535,3 +5535,4 @@
 [2025-10-10 13:48] Fixed auth tests
 [2025-10-11 09:44] Reviewed scheduler handler
 [2025-10-11 11:05] Cleaned middleware tests
+[2025-10-11 12:44] Fixed api service
