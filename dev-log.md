@@ -5546,3 +5546,4 @@
 [2025-10-13 10:05] Refactored payment logic
 [2025-10-13 11:41] Added api endpoint
 [2025-10-14 09:28] Added user tests
+[2025-10-14 11:47] Fixed scheduler logic
