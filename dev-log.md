@@ -8151,3 +8151,4 @@
 [2025-10-14 11:34] Updated payment tests
 [2025-10-14 12:04] Updated cache logic
 [2025-10-14 12:26] Added user imports
+[2025-10-14 12:45] Updated user service
