@@ -8146,3 +8146,4 @@
 [2025-10-09 16:03] Added auth endpoint
 [2025-10-14 10:00] Reviewed database tests
 [2025-10-14 10:27] Refactored config service
+[2025-10-14 10:46] Refactored logger service
