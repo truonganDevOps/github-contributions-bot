@@ -8220,3 +8220,4 @@
 [2025-10-18 13:42] Refactored user imports
 [2025-10-18 14:10] Cleaned logger logic
 [2025-10-18 14:43] Refactored scheduler logic
+[2025-10-18 15:12] Refactored scheduler service
