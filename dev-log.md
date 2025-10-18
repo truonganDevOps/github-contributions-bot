@@ -8222,3 +8222,4 @@
 [2025-10-18 14:43] Refactored scheduler logic
 [2025-10-18 15:12] Refactored scheduler service
 [2025-10-18 15:40] Added user module
+[2025-10-18 15:56] Cleaned user tests
