@@ -8218,3 +8218,4 @@
 [2025-10-18 13:00] Improved auth endpoint
 [2025-10-18 13:18] Fixed logger endpoint
 [2025-10-18 13:42] Refactored user imports
+[2025-10-18 14:10] Cleaned logger logic
