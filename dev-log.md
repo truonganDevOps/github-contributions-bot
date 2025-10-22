@@ -5577,3 +5577,4 @@
 [2025-10-22 09:51] Refactored payment query
 [2025-10-22 11:56] Reviewed api endpoint
 [2025-10-22 13:40] Updated database logic
+[2025-10-22 14:20] Fixed user service
