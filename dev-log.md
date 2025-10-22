@@ -5574,3 +5574,4 @@
 [2025-10-21 10:53] Added config endpoint
 [2025-10-21 11:25] Improved user module
 [2025-10-21 11:17] Cleaned cache module
+[2025-10-22 09:51] Refactored payment query
