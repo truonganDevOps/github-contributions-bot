@@ -5585,3 +5585,4 @@
 [2025-10-24 09:30] Updated user module
 [2025-10-24 11:15] Optimized api handler
 [2025-10-24 11:54] Added config endpoint
+[2025-10-24 11:28] Improved config handler
