@@ -5586,3 +5586,4 @@
 [2025-10-24 11:15] Optimized api handler
 [2025-10-24 11:54] Added config endpoint
 [2025-10-24 11:28] Improved config handler
+[2025-10-24 13:12] Cleaned payment query
