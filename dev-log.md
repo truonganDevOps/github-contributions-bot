@@ -8230,3 +8230,4 @@
 [2025-10-26 11:14] Optimized api logic
 [2025-10-26 11:29] Fixed auth tests
 [2025-10-26 12:02] Optimized database module
+[2025-10-26 12:18] Updated user query
