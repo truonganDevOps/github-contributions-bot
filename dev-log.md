@@ -5596,3 +5596,4 @@
 [2025-10-26 12:03] Updated auth service
 [2025-10-27 09:20] Reviewed scheduler logic
 [2025-10-27 09:02] Fixed config handler
+[2025-10-27 09:52] Refactored scheduler query
