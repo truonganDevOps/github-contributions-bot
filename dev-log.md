@@ -8243,3 +8243,4 @@
 [2025-10-27 10:00] Cleaned scheduler endpoint
 [2025-10-27 10:26] Improved auth tests
 [2025-10-27 10:52] Fixed cache logic
+[2025-10-27 11:11] Refactored auth service
