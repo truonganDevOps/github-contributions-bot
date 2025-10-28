@@ -5599,3 +5599,4 @@
 [2025-10-27 09:52] Refactored scheduler query
 [2025-10-27 11:24] Cleaned logger service
 [2025-10-28 09:01] Cleaned database module
+[2025-10-28 11:37] Added payment query
