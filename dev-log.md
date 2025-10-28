@@ -8258,3 +8258,4 @@
 [2025-10-27 15:47] Optimized api tests
 [2025-10-28 10:00] Cleaned database module
 [2025-10-28 10:26] Refactored database logic
+[2025-10-28 10:52] Refactored logger query
