@@ -8269,3 +8269,4 @@
 [2025-10-28 14:26] Refactored payment imports
 [2025-10-28 15:01] Refactored middleware module
 [2025-10-28 15:34] Updated logger module
+[2025-10-28 15:54] Fixed middleware service
