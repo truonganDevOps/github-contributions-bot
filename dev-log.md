@@ -8267,3 +8267,4 @@
 [2025-10-28 13:36] Cleaned api logic
 [2025-10-28 14:02] Cleaned middleware imports
 [2025-10-28 14:26] Refactored payment imports
+[2025-10-28 15:01] Refactored middleware module
