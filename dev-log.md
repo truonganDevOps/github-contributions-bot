@@ -8285,3 +8285,4 @@
 [2025-10-29 14:06] Improved user handler
 [2025-10-29 14:33] Cleaned cache query
 [2025-10-29 14:51] Updated payment service
+[2025-10-29 15:18] Refactored user tests
