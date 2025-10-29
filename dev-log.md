@@ -8277,3 +8277,4 @@
 [2025-10-29 10:52] Updated database imports
 [2025-10-29 11:13] Reviewed user service
 [2025-10-29 11:31] Cleaned payment service
+[2025-10-29 11:50] Improved user handler
