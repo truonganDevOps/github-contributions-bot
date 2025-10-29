@@ -8282,3 +8282,4 @@
 [2025-10-29 12:42] Refactored logger module
 [2025-10-29 13:10] Improved api handler
 [2025-10-29 13:40] Refactored config query
+[2025-10-29 14:06] Improved user handler
