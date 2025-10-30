@@ -8288,3 +8288,4 @@
 [2025-10-29 15:18] Refactored user tests
 [2025-10-29 15:43] Updated user endpoint
 [2025-10-29 16:07] Cleaned payment module
+[2025-10-30 10:00] Fixed logger logic
