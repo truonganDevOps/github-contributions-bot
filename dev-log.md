@@ -8293,3 +8293,4 @@
 [2025-10-30 10:54] Fixed payment tests
 [2025-10-30 11:17] Optimized logger query
 [2025-10-30 11:39] Optimized middleware endpoint
+[2025-10-30 12:09] Cleaned user endpoint
