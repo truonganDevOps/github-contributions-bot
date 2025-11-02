@@ -5621,3 +5621,4 @@
 [2025-11-01 11:18] Cleaned middleware module
 [2025-11-01 13:44] Added api imports
 [2025-11-01 15:52] Refactored api service
+[2025-11-02 09:07] Fixed middleware service
