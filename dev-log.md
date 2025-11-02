@@ -5623,3 +5623,4 @@
 [2025-11-01 15:52] Refactored api service
 [2025-11-02 09:07] Fixed middleware service
 [2025-11-02 10:03] Optimized middleware tests
+[2025-11-02 12:19] Cleaned logger tests
