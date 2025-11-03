@@ -8346,3 +8346,4 @@
 [2025-11-03 13:04] Fixed cache module
 [2025-11-03 13:29] Updated api module
 [2025-11-03 14:03] Added middleware handler
+[2025-11-03 14:21] Improved config endpoint
