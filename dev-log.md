@@ -5644,3 +5644,4 @@
 [2025-11-06 09:43] Added cache service
 [2025-11-07 09:34] Cleaned api query
 [2025-11-07 09:04] Cleaned scheduler imports
+[2025-11-07 09:19] Fixed logger module
