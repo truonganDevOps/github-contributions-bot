@@ -5665,3 +5665,4 @@
 [2025-11-13 09:36] Updated scheduler service
 [2025-11-13 11:43] Added cache logic
 [2025-11-13 12:34] Improved database handler
+[2025-11-13 13:02] Improved user endpoint
