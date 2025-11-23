@@ -5705,3 +5705,4 @@
 [2025-11-23 09:39] Refactored auth tests
 [2025-11-23 09:04] Cleaned user imports
 [2025-11-23 10:53] Added payment endpoint
+[2025-11-23 11:46] Added logger module
