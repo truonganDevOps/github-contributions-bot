@@ -5701,3 +5701,4 @@
 [2025-11-22 11:01] Updated database query
 [2025-11-22 11:00] Improved logger handler
 [2025-11-22 11:21] Cleaned config handler
+[2025-11-23 09:18] Fixed database module
