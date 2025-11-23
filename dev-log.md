@@ -8391,3 +8391,4 @@
 [2025-11-23 11:50] Fixed payment module
 [2025-11-23 12:07] Improved user service
 [2025-11-23 12:35] Updated payment tests
+[2025-11-23 12:57] Refactored api tests
