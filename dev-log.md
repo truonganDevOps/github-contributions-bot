@@ -8396,3 +8396,4 @@
 [2025-11-23 13:53] Improved cache tests
 [2025-11-23 14:21] Updated logger endpoint
 [2025-11-23 14:50] Fixed auth module
+[2025-11-23 15:15] Refactored logger query
