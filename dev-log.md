@@ -8407,3 +8407,4 @@
 [2025-11-24 11:46] Added api imports
 [2025-11-24 12:18] Optimized api service
 [2025-11-24 12:41] Improved auth imports
+[2025-11-24 13:08] Optimized api query
