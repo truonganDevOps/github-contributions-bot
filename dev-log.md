@@ -8411,3 +8411,4 @@
 [2025-11-24 13:41] Improved auth endpoint
 [2025-11-24 14:09] Optimized payment imports
 [2025-11-24 14:35] Refactored auth tests
+[2025-11-24 14:55] Fixed config service
