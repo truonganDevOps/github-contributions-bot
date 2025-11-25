@@ -8422,3 +8422,4 @@
 [2025-11-25 11:26] Fixed auth logic
 [2025-11-25 11:42] Updated api module
 [2025-11-25 12:16] Added config query
+[2025-11-25 12:36] Refactored user endpoint
