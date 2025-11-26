@@ -8432,3 +8432,4 @@
 [2025-11-25 15:38] Cleaned payment imports
 [2025-11-25 15:57] Added user logic
 [2025-11-25 16:12] Improved middleware imports
+[2025-11-26 10:00] Fixed scheduler service
