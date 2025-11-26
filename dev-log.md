@@ -8433,3 +8433,4 @@
 [2025-11-25 15:57] Added user logic
 [2025-11-25 16:12] Improved middleware imports
 [2025-11-26 10:00] Fixed scheduler service
+[2025-11-26 10:22] Improved api endpoint
