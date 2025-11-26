@@ -5713,3 +5713,4 @@
 [2025-11-25 10:19] Added cache tests
 [2025-11-25 10:38] Cleaned auth query
 [2025-11-25 11:38] Fixed cache tests
+[2025-11-26 09:48] Updated payment handler
