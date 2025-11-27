@@ -8452,3 +8452,4 @@
 [2025-11-27 10:30] Added api module
 [2025-11-27 10:58] Reviewed config logic
 [2025-11-27 11:23] Cleaned payment module
+[2025-11-27 11:58] Fixed config logic
