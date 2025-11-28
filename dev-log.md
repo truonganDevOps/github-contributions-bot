@@ -5721,3 +5721,4 @@
 [2025-11-27 10:09] Refactored cache logic
 [2025-11-27 11:55] Reviewed logger tests
 [2025-11-27 12:11] Added auth tests
+[2025-11-28 09:57] Fixed auth endpoint
