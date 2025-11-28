@@ -8469,3 +8469,4 @@
 [2025-11-28 10:42] Updated payment tests
 [2025-11-28 11:14] Updated user tests
 [2025-11-28 11:42] Updated auth tests
+[2025-11-28 12:07] Fixed database logic
