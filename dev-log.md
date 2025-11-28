@@ -8467,3 +8467,4 @@
 [2025-11-28 10:00] Cleaned logger tests
 [2025-11-28 10:27] Improved database module
 [2025-11-28 10:42] Updated payment tests
+[2025-11-28 11:14] Updated user tests
