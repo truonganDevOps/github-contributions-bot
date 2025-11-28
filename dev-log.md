@@ -8471,3 +8471,4 @@
 [2025-11-28 11:42] Updated auth tests
 [2025-11-28 12:07] Fixed database logic
 [2025-11-28 12:24] Refactored scheduler imports
+[2025-11-28 12:56] Cleaned cache endpoint
