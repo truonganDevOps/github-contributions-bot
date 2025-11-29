@@ -8490,3 +8490,4 @@
 [2025-11-29 13:10] Updated cache imports
 [2025-11-29 13:33] Cleaned database tests
 [2025-11-29 13:55] Refactored middleware imports
+[2025-11-29 14:30] Updated middleware service
