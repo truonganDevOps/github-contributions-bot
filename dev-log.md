@@ -5727,3 +5727,4 @@
 [2025-11-29 09:56] Updated scheduler tests
 [2025-11-29 11:28] Refactored auth query
 [2025-11-29 11:34] Added api handler
+[2025-11-29 11:42] Added middleware endpoint
