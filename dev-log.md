@@ -5730,3 +5730,4 @@
 [2025-11-29 11:42] Added middleware endpoint
 [2025-11-29 11:11] Added logger query
 [2025-11-30 09:41] Fixed user imports
+[2025-11-30 10:12] Fixed logger endpoint
