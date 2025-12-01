@@ -5736,3 +5736,4 @@
 [2025-12-01 09:52] Cleaned auth imports
 [2025-12-01 10:19] Improved api handler
 [2025-12-01 11:36] Optimized user imports
+[2025-12-01 12:03] Cleaned config logic
