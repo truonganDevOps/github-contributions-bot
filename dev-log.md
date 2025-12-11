@@ -5770,3 +5770,4 @@
 [2025-12-10 13:11] Cleaned scheduler tests
 [2025-12-10 14:58] Improved cache module
 [2025-12-11 09:24] Updated scheduler handler
+[2025-12-11 11:56] Added middleware handler
