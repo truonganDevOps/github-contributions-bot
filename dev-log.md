@@ -5771,3 +5771,4 @@
 [2025-12-10 14:58] Improved cache module
 [2025-12-11 09:24] Updated scheduler handler
 [2025-12-11 11:56] Added middleware handler
+[2025-12-11 13:19] Fixed user endpoint
