@@ -5772,3 +5772,4 @@
 [2025-12-11 09:24] Updated scheduler handler
 [2025-12-11 11:56] Added middleware handler
 [2025-12-11 13:19] Fixed user endpoint
+[2025-12-12 09:51] Added logger imports
