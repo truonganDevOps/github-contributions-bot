@@ -5809,3 +5809,4 @@
 [2025-12-20 09:57] Refactored config imports
 [2025-12-20 09:53] Fixed auth module
 [2025-12-20 11:23] Improved auth handler
+[2025-12-20 11:37] Updated auth logic
