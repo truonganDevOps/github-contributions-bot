@@ -5832,3 +5832,4 @@
 [2025-12-26 09:10] Refactored logger module
 [2025-12-26 10:56] Cleaned middleware query
 [2025-12-26 12:54] Cleaned middleware tests
+[2025-12-26 13:57] Optimized middleware tests
