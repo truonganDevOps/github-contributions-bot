@@ -5836,3 +5836,4 @@
 [2025-12-26 14:49] Refactored logger query
 [2025-12-27 09:42] Fixed database handler
 [2025-12-27 10:58] Reviewed payment service
+[2025-12-27 11:21] Cleaned database logic
