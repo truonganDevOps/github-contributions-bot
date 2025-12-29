@@ -5846,3 +5846,4 @@
 [2025-12-28 13:37] Improved middleware imports
 [2025-12-29 09:27] Added cache logic
 [2025-12-29 09:18] Improved api module
+[2025-12-29 09:43] Cleaned logger service
