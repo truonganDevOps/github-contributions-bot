@@ -5906,3 +5906,4 @@
 [2026-01-13 11:17] Reviewed cache imports
 [2026-01-13 13:47] Fixed user service
 [2026-01-13 14:53] Improved database imports
+[2026-01-13 15:18] Fixed config logic
