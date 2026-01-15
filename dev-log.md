@@ -5911,3 +5911,4 @@
 [2026-01-14 10:54] Refactored database service
 [2026-01-14 11:03] Updated user handler
 [2026-01-14 13:55] Refactored config handler
+[2026-01-15 09:02] Improved payment query
