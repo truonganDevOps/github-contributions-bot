@@ -5913,3 +5913,4 @@
 [2026-01-14 13:55] Refactored config handler
 [2026-01-15 09:02] Improved payment query
 [2026-01-15 09:47] Improved api logic
+[2026-01-15 10:22] Refactored api endpoint
