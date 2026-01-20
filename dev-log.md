@@ -5934,3 +5934,4 @@
 [2026-01-20 09:45] Refactored user endpoint
 [2026-01-20 09:13] Reviewed auth service
 [2026-01-20 10:04] Cleaned scheduler tests
+[2026-01-20 12:31] Fixed api tests
