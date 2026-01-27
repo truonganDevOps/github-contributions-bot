@@ -5961,3 +5961,4 @@
 [2026-01-26 10:57] Fixed scheduler imports
 [2026-01-26 11:36] Optimized middleware logic
 [2026-01-26 11:11] Improved payment service
+[2026-01-27 09:40] Refactored scheduler handler
