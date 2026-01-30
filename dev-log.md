@@ -5973,3 +5973,4 @@
 [2026-01-29 12:35] Refactored user service
 [2026-01-29 13:16] Fixed config imports
 [2026-01-30 09:11] Improved cache query
+[2026-01-30 09:07] Added config endpoint
