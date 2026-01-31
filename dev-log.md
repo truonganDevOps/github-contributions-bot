@@ -5979,3 +5979,4 @@
 [2026-01-30 14:34] Improved auth logic
 [2026-01-31 09:07] Added user tests
 [2026-01-31 11:30] Cleaned scheduler imports
+[2026-01-31 12:23] Refactored auth query
