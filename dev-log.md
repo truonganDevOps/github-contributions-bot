@@ -5981,3 +5981,4 @@
 [2026-01-31 11:30] Cleaned scheduler imports
 [2026-01-31 12:23] Refactored auth query
 [2026-02-01 09:28] Refactored logger endpoint
+[2026-02-01 11:52] Cleaned middleware handler
