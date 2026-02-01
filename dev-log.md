@@ -5983,3 +5983,4 @@
 [2026-02-01 09:28] Refactored logger endpoint
 [2026-02-01 11:52] Cleaned middleware handler
 [2026-02-01 12:55] Fixed auth imports
+[2026-02-01 14:17] Optimized auth logic
