@@ -6006,3 +6006,4 @@
 [2026-02-06 10:53] Fixed logger module
 [2026-02-07 09:44] Cleaned database query
 [2026-02-07 09:00] Updated logger logic
+[2026-02-07 11:39] Refactored auth query
