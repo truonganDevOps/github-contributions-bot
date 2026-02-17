@@ -6042,3 +6042,4 @@
 [2026-02-16 12:17] Fixed auth module
 [2026-02-17 09:04] Improved api query
 [2026-02-17 10:15] Fixed config module
+[2026-02-17 11:13] Added payment query
