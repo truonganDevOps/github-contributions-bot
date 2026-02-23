@@ -6064,3 +6064,4 @@
 [2026-02-22 10:20] Optimized user tests
 [2026-02-22 10:18] Improved user service
 [2026-02-23 09:31] Added auth imports
+[2026-02-23 10:54] Refactored scheduler handler
