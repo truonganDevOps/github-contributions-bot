@@ -6065,3 +6065,4 @@
 [2026-02-22 10:18] Improved user service
 [2026-02-23 09:31] Added auth imports
 [2026-02-23 10:54] Refactored scheduler handler
+[2026-02-23 11:31] Cleaned scheduler tests
