@@ -6069,3 +6069,4 @@
 [2026-02-23 13:46] Improved auth module
 [2026-02-23 14:25] Added logger imports
 [2026-02-24 09:53] Added config logic
+[2026-02-24 09:33] Fixed cache query
