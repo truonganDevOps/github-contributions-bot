@@ -6073,3 +6073,4 @@
 [2026-02-24 11:47] Added scheduler module
 [2026-02-25 09:33] Refactored scheduler tests
 [2026-02-25 10:00] Refactored database logic
+[2026-02-25 12:39] Cleaned api tests
