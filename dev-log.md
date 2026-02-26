@@ -6079,3 +6079,4 @@
 [2026-02-26 09:36] Updated api imports
 [2026-02-26 11:44] Optimized api query
 [2026-02-26 11:21] Refactored auth logic
+[2026-02-26 13:22] Updated user endpoint
