@@ -6093,3 +6093,4 @@
 [2026-03-01 09:41] Added logger imports
 [2026-03-01 10:23] Fixed cache handler
 [2026-03-01 12:51] Cleaned api endpoint
+[2026-03-01 12:26] Cleaned config handler
