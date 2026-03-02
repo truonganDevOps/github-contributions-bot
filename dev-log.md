@@ -6094,3 +6094,4 @@
 [2026-03-01 10:23] Fixed cache handler
 [2026-03-01 12:51] Cleaned api endpoint
 [2026-03-01 12:26] Cleaned config handler
+[2026-03-02 09:19] Updated cache query
