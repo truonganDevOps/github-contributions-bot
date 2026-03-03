@@ -6098,3 +6098,4 @@
 [2026-03-02 10:12] Refactored user service
 [2026-03-02 12:06] Added user query
 [2026-03-02 13:14] Reviewed user query
+[2026-03-03 09:44] Cleaned scheduler tests
