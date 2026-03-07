@@ -6117,3 +6117,4 @@
 [2026-03-07 11:41] Updated scheduler endpoint
 [2026-03-07 11:26] Optimized database imports
 [2026-03-07 12:52] Optimized cache handler
+[2026-03-07 12:35] Added middleware endpoint
