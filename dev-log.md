@@ -6162,3 +6162,4 @@
 [2026-03-18 11:16] Added database handler
 [2026-03-18 11:19] Fixed auth module
 [2026-03-18 13:46] Improved api handler
+[2026-03-18 15:41] Fixed middleware query
