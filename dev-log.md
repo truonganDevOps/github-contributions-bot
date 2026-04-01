@@ -6219,3 +6219,4 @@
 [2026-04-01 11:26] Fixed user endpoint
 [2026-04-01 11:56] Optimized user endpoint
 [2026-04-01 12:01] Fixed scheduler tests
+[2026-04-01 12:52] Fixed logger handler
