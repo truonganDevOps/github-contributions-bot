@@ -6217,3 +6217,4 @@
 [2026-03-31 11:55] Cleaned api tests
 [2026-04-01 09:08] Updated middleware endpoint
 [2026-04-01 11:26] Fixed user endpoint
+[2026-04-01 11:56] Optimized user endpoint
