@@ -6220,3 +6220,4 @@
 [2026-04-01 11:56] Optimized user endpoint
 [2026-04-01 12:01] Fixed scheduler tests
 [2026-04-01 12:52] Fixed logger handler
+[2026-04-02 09:26] Fixed api module
