@@ -6226,3 +6226,4 @@
 [2026-04-02 14:32] Refactored config module
 [2026-04-03 09:09] Updated auth handler
 [2026-04-03 11:30] Added logger handler
+[2026-04-03 13:07] Fixed payment logic
