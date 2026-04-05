@@ -6233,3 +6233,4 @@
 [2026-04-04 12:14] Improved api tests
 [2026-04-05 09:39] Cleaned cache handler
 [2026-04-05 09:29] Updated user module
+[2026-04-05 09:36] Added config tests
