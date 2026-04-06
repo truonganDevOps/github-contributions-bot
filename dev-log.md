@@ -6236,3 +6236,4 @@
 [2026-04-05 09:36] Added config tests
 [2026-04-05 09:38] Cleaned auth imports
 [2026-04-05 09:20] Reviewed scheduler imports
+[2026-04-06 09:22] Cleaned api handler
