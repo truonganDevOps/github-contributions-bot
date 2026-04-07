@@ -6240,3 +6240,4 @@
 [2026-04-06 11:44] Added api logic
 [2026-04-06 11:30] Updated user service
 [2026-04-06 11:58] Reviewed database tests
+[2026-04-07 09:28] Updated logger logic
