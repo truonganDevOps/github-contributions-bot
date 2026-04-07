@@ -6241,3 +6241,4 @@
 [2026-04-06 11:30] Updated user service
 [2026-04-06 11:58] Reviewed database tests
 [2026-04-07 09:28] Updated logger logic
+[2026-04-07 09:55] Improved scheduler query
