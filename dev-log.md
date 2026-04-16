@@ -6274,3 +6274,4 @@
 [2026-04-15 09:34] Optimized user imports
 [2026-04-15 10:17] Improved user module
 [2026-04-15 12:43] Optimized scheduler module
+[2026-04-16 09:57] Cleaned logger logic
