@@ -6318,3 +6318,4 @@
 [2026-04-26 09:14] Added database handler
 [2026-04-26 11:42] Added api module
 [2026-04-26 11:33] Updated auth imports
+[2026-04-26 12:08] Refactored middleware handler
