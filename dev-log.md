@@ -6328,3 +6328,4 @@
 [2026-04-28 12:43] Improved user logic
 [2026-04-28 14:52] Fixed scheduler tests
 [2026-04-29 09:49] Fixed config module
+[2026-04-29 10:10] Fixed user endpoint
