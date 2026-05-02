@@ -6339,3 +6339,4 @@
 [2026-05-01 10:39] Fixed user endpoint
 [2026-05-01 11:07] Improved scheduler imports
 [2026-05-02 09:56] Optimized payment module
+[2026-05-02 11:11] Refactored scheduler query
