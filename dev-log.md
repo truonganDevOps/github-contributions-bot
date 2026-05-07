@@ -6360,3 +6360,4 @@
 [2026-05-06 12:57] Refactored user logic
 [2026-05-06 12:51] Added api imports
 [2026-05-07 09:19] Updated middleware service
+[2026-05-07 10:51] Refactored config query
