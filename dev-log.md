@@ -6359,3 +6359,4 @@
 [2026-05-06 10:26] Improved database handler
 [2026-05-06 12:57] Refactored user logic
 [2026-05-06 12:51] Added api imports
+[2026-05-07 09:19] Updated middleware service
