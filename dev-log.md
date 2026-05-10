@@ -6375,3 +6375,4 @@
 [2026-05-09 13:32] Optimized cache query
 [2026-05-10 09:37] Refactored cache endpoint
 [2026-05-10 09:55] Optimized cache tests
+[2026-05-10 11:40] Improved config endpoint
