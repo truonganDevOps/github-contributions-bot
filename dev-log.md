@@ -6376,3 +6376,4 @@
 [2026-05-10 09:37] Refactored cache endpoint
 [2026-05-10 09:55] Optimized cache tests
 [2026-05-10 11:40] Improved config endpoint
+[2026-05-10 12:31] Optimized scheduler query
