@@ -6388,3 +6388,4 @@
 [2026-05-13 09:56] Improved config endpoint
 [2026-05-13 10:50] Added config service
 [2026-05-13 12:14] Cleaned middleware module
+[2026-05-13 12:28] Fixed database logic
