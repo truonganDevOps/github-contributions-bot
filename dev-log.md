@@ -6390,3 +6390,4 @@
 [2026-05-13 12:14] Cleaned middleware module
 [2026-05-13 12:28] Fixed database logic
 [2026-05-14 09:30] Refactored user endpoint
+[2026-05-14 10:16] Refactored api tests
