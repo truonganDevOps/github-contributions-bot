@@ -6393,3 +6393,4 @@
 [2026-05-14 10:16] Refactored api tests
 [2026-05-14 11:16] Added database endpoint
 [2026-05-15 09:56] Updated api service
+[2026-05-15 11:33] Refactored api query
