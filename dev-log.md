@@ -6424,3 +6424,4 @@
 [2026-05-23 09:47] Fixed scheduler imports
 [2026-05-23 09:55] Reviewed api handler
 [2026-05-23 11:19] Reviewed config query
+[2026-05-24 09:31] Added middleware handler
