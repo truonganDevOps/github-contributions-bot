@@ -3,3 +3,4 @@
 [2026-05-26 09:50] Added api endpoint
 [2026-05-26 10:52] Added logger logic
 [2026-05-26 11:54] Optimized auth endpoint
+[2026-05-26 12:57] Fixed config query
