@@ -8497,3 +8497,4 @@
 [2025-11-29 16:11] Added logger handler
 [2025-11-29 16:34] Cleaned config query
 [2026-05-27 09:00] Updated scheduler endpoint
+[2026-05-27 09:26] Reviewed payment handler
