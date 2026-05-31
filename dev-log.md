@@ -8510,3 +8510,4 @@
 [2026-05-28 15:20] Added logger logic
 [2026-05-28 16:05] Optimized middleware tests
 [2026-05-31 09:00] Updated user module
+[2026-05-31 09:25] Added middleware tests
