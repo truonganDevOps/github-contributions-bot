@@ -8513,3 +8513,4 @@
 [2026-05-31 09:25] Added middleware tests
 [2026-05-31 09:56] Improved user logic
 [2026-05-31 11:03] Refactored user imports
+[2026-05-31 12:30] Fixed auth handler
