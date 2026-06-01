@@ -8549,3 +8549,4 @@
 [2026-06-01 20:31] Cleaned user query
 [2026-06-01 21:31] Improved logger imports
 [2026-06-01 22:00] Fixed payment query
+[2026-06-01 22:00] Cleaned middleware imports
