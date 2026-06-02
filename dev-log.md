@@ -8567,3 +8567,4 @@
 [2026-06-02 15:09] Fixed cache endpoint
 [2026-06-02 15:40] Cleaned scheduler query
 [2026-06-02 16:03] Fixed database endpoint
+[2026-06-02 16:24] Refactored database tests
