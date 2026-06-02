@@ -8557,3 +8557,4 @@
 [2026-06-02 13:01] Optimized scheduler imports
 [2026-06-02 13:24] Improved api tests
 [2026-06-02 14:44] Improved user tests
+[2026-06-02 15:47] Refactored payment handler
