@@ -8555,3 +8555,4 @@
 [2026-06-02 10:55] Updated cache endpoint
 [2026-06-02 12:21] Cleaned scheduler module
 [2026-06-02 13:01] Optimized scheduler imports
+[2026-06-02 13:24] Improved api tests
