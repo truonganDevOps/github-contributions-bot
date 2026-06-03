@@ -8582,3 +8582,4 @@
 [2026-06-03 18:42] Updated user endpoint
 [2026-06-03 19:19] Added auth tests
 [2026-06-03 20:25] Cleaned config tests
+[2026-06-03 09:00] Refactored user module
