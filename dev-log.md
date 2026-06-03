@@ -8587,3 +8587,4 @@
 [2026-06-03 11:04] Refactored auth service
 [2026-06-03 11:33] Added user tests
 [2026-06-03 12:31] Cleaned scheduler handler
+[2026-06-03 13:18] Fixed database tests
