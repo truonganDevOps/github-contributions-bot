@@ -8590,3 +8590,4 @@
 [2026-06-03 13:18] Fixed database tests
 [2026-06-03 14:18] Cleaned api service
 [2026-06-03 15:44] Improved logger endpoint
+[2026-06-04 09:00] Refactored logger tests
