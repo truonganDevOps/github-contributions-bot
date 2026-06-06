@@ -8610,3 +8610,4 @@
 [2026-06-05 15:54] Reviewed config tests
 [2026-06-06 09:00] Added cache tests
 [2026-06-06 09:31] Added payment imports
+[2026-06-06 09:53] Refactored user handler
