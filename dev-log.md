@@ -8640,3 +8640,4 @@
 [2026-06-08 18:01] Added auth tests
 [2026-06-08 19:15] Optimized database handler
 [2026-06-09 09:00] Updated database logic
+[2026-06-09 10:29] Refactored user tests
