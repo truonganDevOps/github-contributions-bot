@@ -8642,3 +8642,4 @@
 [2026-06-09 09:00] Updated database logic
 [2026-06-09 10:29] Refactored user tests
 [2026-06-09 11:20] Cleaned logger module
+[2026-06-09 11:53] Improved auth imports
