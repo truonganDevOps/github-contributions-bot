@@ -8655,3 +8655,4 @@
 [2026-06-10 15:21] Improved database logic
 [2026-06-10 15:44] Cleaned middleware logic
 [2026-06-10 16:30] Cleaned logger endpoint
+[2026-06-10 17:37] Updated api handler
