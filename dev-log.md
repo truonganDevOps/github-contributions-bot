@@ -8685,3 +8685,4 @@
 [2026-06-13 11:36] Fixed cache tests
 [2026-06-13 12:03] Updated config service
 [2026-06-13 12:39] Fixed config handler
+[2026-06-13 14:07] Improved config query
