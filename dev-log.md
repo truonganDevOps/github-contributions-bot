@@ -8694,3 +8694,4 @@
 [2026-06-14 11:12] Optimized cache tests
 [2026-06-14 11:55] Improved cache tests
 [2026-06-14 12:16] Optimized cache endpoint
+[2026-06-14 12:48] Cleaned config handler
