@@ -8713,3 +8713,4 @@
 [2026-06-16 09:48] Refactored cache module
 [2026-06-16 10:16] Updated api query
 [2026-06-16 11:45] Fixed cache handler
+[2026-06-16 12:15] Fixed user tests
