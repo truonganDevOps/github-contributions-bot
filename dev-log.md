@@ -8720,3 +8720,4 @@
 [2026-06-17 10:45] Optimized auth module
 [2026-06-17 11:17] Updated database imports
 [2026-06-17 12:38] Improved database module
+[2026-06-17 13:44] Refactored middleware logic
