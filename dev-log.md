@@ -8744,3 +8744,4 @@
 [2026-06-19 14:10] Refactored scheduler logic
 [2026-06-19 14:52] Fixed config handler
 [2026-06-19 15:47] Fixed cache service
+[2026-06-19 16:14] Improved auth imports
