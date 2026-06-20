@@ -8759,3 +8759,4 @@
 [2026-06-20 16:10] Improved api imports
 [2026-06-20 17:14] Optimized cache tests
 [2026-06-20 18:18] Refactored config module
+[2026-06-20 19:30] Optimized middleware logic
