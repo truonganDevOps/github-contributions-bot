@@ -8782,3 +8782,4 @@
 [2026-06-22 17:36] Fixed api tests
 [2026-06-22 18:23] Optimized api logic
 [2026-06-22 19:24] Optimized database handler
+[2026-06-22 20:25] Updated config endpoint
