@@ -11,7 +11,7 @@ PREFIXES = {
     "Improved": "refactor", "Reviewed": "chore",
 }
 
-count = random.randint(5, 15)
+count = random.randint(30, 50)
 t = datetime.utcnow().replace(hour=9, minute=0, second=0, microsecond=0)
 
 for _ in range(count):
