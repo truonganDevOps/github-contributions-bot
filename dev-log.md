@@ -8794,3 +8794,4 @@
 [2026-06-24 11:28] Fixed scheduler logic
 [2026-06-24 12:34] Fixed scheduler tests
 [2026-06-24 13:37] Improved scheduler tests
+[2026-06-24 14:51] Refactored middleware tests
