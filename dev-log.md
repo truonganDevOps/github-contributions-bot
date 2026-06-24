@@ -8791,3 +8791,4 @@
 [2026-06-23 13:21] Reviewed user logic
 [2026-06-24 09:00] Improved payment tests
 [2026-06-24 10:12] Updated user imports
+[2026-06-24 11:28] Fixed scheduler logic
