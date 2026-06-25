@@ -8855,3 +8855,4 @@
 [2026-06-25 22:47] Added logger logic
 [2026-06-25 22:00] Updated config endpoint
 [2026-06-25 22:42] Added logger tests
+[2026-06-26 00:12] Refactored middleware query
