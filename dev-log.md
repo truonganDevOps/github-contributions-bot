@@ -8900,3 +8900,4 @@
 [2026-06-27 09:45] Fixed user endpoint
 [2026-06-27 11:11] Added cache logic
 [2026-06-27 11:33] Optimized user query
+[2026-06-27 12:32] Fixed middleware logic
