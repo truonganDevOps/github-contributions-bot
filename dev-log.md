@@ -8903,3 +8903,4 @@
 [2026-06-27 12:32] Fixed middleware logic
 [2026-06-27 12:56] Cleaned config module
 [2026-06-27 13:43] Added logger handler
+[2026-06-27 14:49] Added middleware endpoint
