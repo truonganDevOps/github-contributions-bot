@@ -8966,3 +8966,4 @@
 [2026-06-28 22:39] Added cache handler
 [2026-06-28 22:00] Added user logic
 [2026-06-28 22:35] Fixed api query
+[2026-06-28 22:00] Added middleware handler
