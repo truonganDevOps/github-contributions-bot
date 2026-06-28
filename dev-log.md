@@ -8979,3 +8979,4 @@
 [2026-06-28 22:57] Cleaned payment tests
 [2026-06-28 22:00] Fixed api imports
 [2026-06-28 22:00] Added api endpoint
+[2026-06-28 22:00] Fixed payment endpoint
