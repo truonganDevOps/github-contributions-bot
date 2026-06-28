@@ -8948,3 +8948,4 @@
 [2026-06-28 10:28] Updated user tests
 [2026-06-28 11:41] Added database service
 [2026-06-28 12:46] Added middleware query
+[2026-06-28 13:57] Refactored scheduler service
