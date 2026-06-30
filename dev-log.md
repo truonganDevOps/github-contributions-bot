@@ -9049,3 +9049,4 @@
 [2026-06-30 14:25] Improved user module
 [2026-06-30 15:34] Cleaned database query
 [2026-06-30 16:24] Updated middleware query
+[2026-06-30 17:38] Refactored auth logic
