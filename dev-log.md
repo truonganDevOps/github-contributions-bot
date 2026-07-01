@@ -9081,3 +9081,4 @@
 [2026-07-01 19:15] Refactored auth logic
 [2026-07-01 09:00] Refactored auth endpoint
 [2026-07-01 09:25] Updated auth query
+[2026-07-01 10:21] Cleaned user logic
