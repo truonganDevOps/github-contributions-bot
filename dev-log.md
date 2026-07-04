@@ -9199,3 +9199,4 @@
 [2026-07-04 09:00] Added database tests
 [2026-07-04 09:51] Optimized api handler
 [2026-07-04 10:39] Cleaned database handler
+[2026-07-04 11:06] Refactored middleware service
