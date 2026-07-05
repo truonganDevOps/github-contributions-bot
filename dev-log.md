@@ -9248,3 +9248,4 @@
 [2026-07-05 18:47] Fixed auth module
 [2026-07-05 19:24] Improved payment imports
 [2026-07-05 20:13] Optimized middleware query
+[2026-07-05 21:01] Cleaned payment logic
