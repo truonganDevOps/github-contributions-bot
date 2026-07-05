@@ -9244,3 +9244,4 @@
 [2026-07-05 15:02] Added api query
 [2026-07-05 15:24] Improved config tests
 [2026-07-05 16:42] Refactored logger endpoint
+[2026-07-05 17:19] Added middleware service
