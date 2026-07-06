@@ -9300,3 +9300,4 @@
 [2026-07-06 22:00] Improved middleware imports
 [2026-07-06 22:24] Updated payment logic
 [2026-07-06 22:00] Cleaned payment endpoint
+[2026-07-06 22:54] Fixed api tests
