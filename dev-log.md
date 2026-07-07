@@ -9316,3 +9316,4 @@
 [2026-07-07 14:58] Fixed database query
 [2026-07-07 16:27] Fixed middleware tests
 [2026-07-07 17:51] Cleaned auth query
+[2026-07-07 18:23] Updated middleware service
