@@ -9429,3 +9429,4 @@
 [2026-07-10 16:58] Updated database tests
 [2026-07-10 18:21] Fixed database tests
 [2026-07-10 19:24] Added user logic
+[2026-07-10 19:57] Cleaned scheduler query
