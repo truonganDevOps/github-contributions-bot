@@ -9467,3 +9467,4 @@
 [2026-07-11 22:00] Added auth endpoint
 [2026-07-11 22:00] Cleaned config handler
 [2026-07-11 22:00] Optimized cache service
+[2026-07-11 22:00] Improved user query
