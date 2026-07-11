@@ -9448,3 +9448,4 @@
 [2026-07-11 09:00] Fixed payment query
 [2026-07-11 09:31] Improved auth query
 [2026-07-11 10:17] Improved scheduler tests
+[2026-07-11 11:24] Refactored payment query
