@@ -9485,3 +9485,4 @@
 [2026-07-12 14:09] Added user query
 [2026-07-12 15:01] Added user service
 [2026-07-12 15:35] Fixed user module
+[2026-07-12 16:57] Refactored user query
