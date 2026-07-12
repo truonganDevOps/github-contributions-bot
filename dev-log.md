@@ -9488,3 +9488,4 @@
 [2026-07-12 16:57] Refactored user query
 [2026-07-12 17:18] Reviewed scheduler endpoint
 [2026-07-12 18:15] Added user tests
+[2026-07-12 18:38] Improved middleware logic
