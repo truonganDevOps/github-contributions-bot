@@ -9553,3 +9553,4 @@
 [2026-07-14 20:38] Improved middleware handler
 [2026-07-14 22:04] Cleaned cache endpoint
 [2026-07-14 22:52] Updated api query
+[2026-07-14 22:00] Fixed payment handler
