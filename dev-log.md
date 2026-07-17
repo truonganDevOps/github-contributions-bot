@@ -9675,3 +9675,4 @@
 [2026-07-17 17:32] Fixed config handler
 [2026-07-17 18:51] Added user service
 [2026-07-17 19:36] Fixed logger service
+[2026-07-17 20:35] Optimized api logic
