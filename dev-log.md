@@ -9669,3 +9669,4 @@
 [2026-07-17 12:51] Added scheduler logic
 [2026-07-17 13:44] Fixed scheduler service
 [2026-07-17 14:18] Fixed user tests
+[2026-07-17 14:39] Added api endpoint
