@@ -9717,3 +9717,4 @@
 [2026-07-18 17:48] Added payment handler
 [2026-07-18 18:39] Reviewed user imports
 [2026-07-18 20:09] Updated cache query
+[2026-07-18 20:50] Fixed user tests
