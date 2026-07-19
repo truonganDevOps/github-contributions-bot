@@ -9759,3 +9759,4 @@
 [2026-07-19 14:32] Updated middleware query
 [2026-07-19 14:56] Updated database module
 [2026-07-19 15:55] Updated api imports
+[2026-07-19 16:31] Cleaned logger logic
