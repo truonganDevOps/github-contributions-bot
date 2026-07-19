@@ -9771,3 +9771,4 @@
 [2026-07-19 22:00] Cleaned api handler
 [2026-07-19 22:00] Fixed logger query
 [2026-07-19 22:00] Refactored cache imports
+[2026-07-19 22:00] Refactored config logic
