@@ -9753,3 +9753,4 @@
 [2026-07-19 09:27] Added auth handler
 [2026-07-19 10:32] Fixed config query
 [2026-07-19 11:14] Optimized user endpoint
+[2026-07-19 12:33] Improved user query
