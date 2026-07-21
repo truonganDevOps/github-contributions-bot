@@ -9833,3 +9833,4 @@
 [2026-07-21 10:41] Improved logger handler
 [2026-07-21 11:01] Fixed cache endpoint
 [2026-07-21 11:47] Optimized scheduler query
+[2026-07-21 12:10] Optimized user endpoint
