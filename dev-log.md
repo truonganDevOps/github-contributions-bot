@@ -9899,3 +9899,4 @@
 [2026-07-23 13:22] Fixed logger endpoint
 [2026-07-23 14:22] Fixed middleware tests
 [2026-07-23 15:45] Cleaned logger service
+[2026-07-23 16:25] Updated api query
