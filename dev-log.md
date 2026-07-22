@@ -9900,3 +9900,4 @@
 [2026-07-23 14:22] Fixed middleware tests
 [2026-07-23 15:45] Cleaned logger service
 [2026-07-23 16:25] Updated api query
+[2026-07-23 17:26] Refactored api service
