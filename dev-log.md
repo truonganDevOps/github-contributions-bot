@@ -9915,3 +9915,4 @@
 [2026-07-23 17:42] Optimized database handler
 [2026-07-23 19:02] Fixed auth logic
 [2026-07-23 20:02] Fixed logger imports
+[2026-07-23 20:24] Fixed config query
