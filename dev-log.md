@@ -9936,3 +9936,4 @@
 [2026-07-24 13:29] Cleaned middleware endpoint
 [2026-07-24 14:30] Fixed payment imports
 [2026-07-24 15:51] Reviewed scheduler service
+[2026-07-24 17:11] Fixed api query
