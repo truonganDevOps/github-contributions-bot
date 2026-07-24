@@ -9980,3 +9980,4 @@
 [2026-07-24 22:00] Optimized cache imports
 [2026-07-24 22:28] Improved logger imports
 [2026-07-24 22:00] Improved auth endpoint
+[2026-07-24 22:00] Fixed payment handler
