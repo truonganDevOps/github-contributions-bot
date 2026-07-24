@@ -9960,3 +9960,4 @@
 [2026-07-24 16:11] Cleaned payment logic
 [2026-07-24 16:47] Added database logic
 [2026-07-24 17:43] Fixed scheduler service
+[2026-07-24 18:42] Updated api logic
