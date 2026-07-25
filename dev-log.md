@@ -9998,3 +9998,4 @@
 [2026-07-25 13:58] Fixed api endpoint
 [2026-07-25 14:50] Optimized user query
 [2026-07-25 15:40] Refactored user module
+[2026-07-25 16:46] Refactored api tests
