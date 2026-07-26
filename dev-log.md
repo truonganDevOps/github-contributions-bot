@@ -10066,3 +10066,4 @@
 [2026-07-27 15:02] Cleaned api service
 [2026-07-27 15:22] Refactored scheduler logic
 [2026-07-27 16:04] Improved user service
+[2026-07-27 16:36] Optimized scheduler query
