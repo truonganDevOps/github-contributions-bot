@@ -10046,3 +10046,4 @@
 [2026-07-26 22:46] Updated logger module
 [2026-07-26 22:00] Fixed user handler
 [2026-07-26 22:39] Cleaned auth imports
+[2026-07-26 22:00] Refactored config handler
