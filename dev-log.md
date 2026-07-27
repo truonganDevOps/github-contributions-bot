@@ -10082,3 +10082,4 @@
 [2026-07-27 10:30] Cleaned logger imports
 [2026-07-27 10:55] Added payment handler
 [2026-07-27 12:04] Optimized api query
+[2026-07-27 13:30] Cleaned user logic
