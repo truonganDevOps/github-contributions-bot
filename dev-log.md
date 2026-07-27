@@ -10091,3 +10091,4 @@
 [2026-07-27 19:25] Fixed middleware tests
 [2026-07-27 20:20] Refactored api tests
 [2026-07-27 20:46] Cleaned auth logic
+[2026-07-27 22:08] Refactored api endpoint
