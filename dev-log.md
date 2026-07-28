@@ -10158,3 +10158,4 @@
 [2026-07-29 20:26] Optimized cache module
 [2026-07-29 20:54] Fixed auth query
 [2026-07-29 21:45] Added api logic
+[2026-07-29 22:45] Refactored middleware logic
