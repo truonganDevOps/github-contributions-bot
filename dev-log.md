@@ -10171,3 +10171,4 @@
 [2026-07-29 17:12] Fixed scheduler handler
 [2026-07-29 18:41] Updated api handler
 [2026-07-29 19:20] Fixed payment endpoint
+[2026-07-29 20:21] Refactored auth tests
