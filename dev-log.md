@@ -10201,3 +10201,4 @@
 [2026-07-30 10:17] Cleaned payment query
 [2026-07-30 10:50] Cleaned api imports
 [2026-07-30 11:21] Updated middleware logic
+[2026-07-30 12:48] Updated payment endpoint
