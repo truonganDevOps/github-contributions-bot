@@ -10250,3 +10250,4 @@
 [2026-07-31 18:58] Added middleware tests
 [2026-07-31 19:52] Improved config imports
 [2026-07-31 20:29] Cleaned user imports
+[2026-07-31 21:00] Improved cache handler
