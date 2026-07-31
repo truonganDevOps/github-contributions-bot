@@ -10252,3 +10252,4 @@
 [2026-07-31 20:29] Cleaned user imports
 [2026-07-31 21:00] Improved cache handler
 [2026-07-31 21:36] Added middleware handler
+[2026-07-31 22:18] Improved user endpoint
