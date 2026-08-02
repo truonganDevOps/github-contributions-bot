@@ -10312,3 +10312,4 @@
 [2026-08-02 13:34] Cleaned scheduler handler
 [2026-08-02 14:28] Reviewed api endpoint
 [2026-08-02 14:53] Cleaned database imports
+[2026-08-02 15:20] Refactored payment query
