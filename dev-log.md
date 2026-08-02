@@ -10317,3 +10317,4 @@
 [2026-08-02 17:25] Updated scheduler logic
 [2026-08-02 17:56] Added user query
 [2026-08-02 19:22] Added api endpoint
+[2026-08-02 20:52] Cleaned api query
