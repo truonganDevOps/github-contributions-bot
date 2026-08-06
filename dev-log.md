@@ -10471,3 +10471,4 @@
 [2026-08-06 19:16] Fixed middleware service
 [2026-08-06 19:56] Cleaned scheduler endpoint
 [2026-08-06 21:03] Added scheduler endpoint
+[2026-08-06 21:40] Added middleware query
