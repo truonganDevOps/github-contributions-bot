@@ -10505,3 +10505,4 @@
 [2026-08-07 10:10] Updated auth tests
 [2026-08-07 11:38] Added cache logic
 [2026-08-07 12:12] Refactored scheduler service
+[2026-08-07 13:18] Added scheduler endpoint
