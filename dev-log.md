@@ -10516,3 +10516,4 @@
 [2026-08-07 20:03] Improved payment query
 [2026-08-07 20:26] Improved middleware handler
 [2026-08-07 20:57] Fixed api query
+[2026-08-07 22:04] Added config endpoint
