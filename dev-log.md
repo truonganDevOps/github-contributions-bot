@@ -10580,3 +10580,4 @@
 [2026-08-08 22:00] Fixed config query
 [2026-08-08 22:00] Updated scheduler tests
 [2026-08-08 22:00] Updated database module
+[2026-08-08 22:53] Cleaned config logic
