@@ -10547,3 +10547,4 @@
 [2026-08-08 09:00] Fixed user tests
 [2026-08-08 09:27] Added middleware imports
 [2026-08-08 10:32] Fixed middleware handler
+[2026-08-08 11:31] Cleaned payment handler
