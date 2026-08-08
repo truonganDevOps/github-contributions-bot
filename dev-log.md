@@ -10577,3 +10577,4 @@
 [2026-08-08 22:00] Optimized api endpoint
 [2026-08-08 22:54] Refactored database imports
 [2026-08-08 22:00] Fixed logger logic
+[2026-08-08 22:00] Fixed config query
