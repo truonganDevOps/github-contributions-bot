@@ -10596,3 +10596,4 @@
 [2026-08-09 18:36] Improved database query
 [2026-08-09 20:00] Added config query
 [2026-08-09 21:22] Fixed user query
+[2026-08-09 21:52] Fixed cache imports
