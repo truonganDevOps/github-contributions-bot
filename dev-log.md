@@ -10589,3 +10589,4 @@
 [2026-08-09 11:12] Updated user tests
 [2026-08-09 11:39] Refactored api imports
 [2026-08-09 12:31] Added middleware handler
+[2026-08-09 13:46] Optimized config logic
