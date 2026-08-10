@@ -10661,3 +10661,4 @@
 [2026-08-11 12:09] Optimized api module
 [2026-08-11 12:53] Reviewed api tests
 [2026-08-11 13:17] Cleaned middleware tests
+[2026-08-11 13:55] Updated config logic
