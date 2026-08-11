@@ -10671,3 +10671,4 @@
 [2026-08-11 21:25] Added scheduler service
 [2026-08-11 09:00] Cleaned api service
 [2026-08-11 10:23] Updated scheduler tests
+[2026-08-11 11:26] Updated user endpoint
