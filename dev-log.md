@@ -10684,3 +10684,4 @@
 [2026-08-11 20:06] Refactored auth module
 [2026-08-11 20:51] Optimized scheduler service
 [2026-08-11 21:44] Cleaned auth module
+[2026-08-11 22:53] Fixed user query
