@@ -10777,3 +10777,4 @@
 [2026-08-13 22:24] Fixed payment imports
 [2026-08-13 22:57] Reviewed user handler
 [2026-08-13 22:00] Refactored user service
+[2026-08-13 22:26] Updated config logic
