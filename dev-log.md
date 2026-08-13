@@ -10780,3 +10780,4 @@
 [2026-08-13 22:26] Updated config logic
 [2026-08-13 22:00] Cleaned user imports
 [2026-08-13 22:43] Refactored auth endpoint
+[2026-08-14 00:00] Fixed middleware logic
