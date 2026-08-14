@@ -10795,3 +10795,4 @@
 [2026-08-14 14:33] Reviewed api imports
 [2026-08-14 15:33] Added payment endpoint
 [2026-08-14 16:32] Cleaned config handler
+[2026-08-14 17:58] Refactored scheduler service
