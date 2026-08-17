@@ -10910,3 +10910,4 @@
 [2026-08-17 16:44] Added api endpoint
 [2026-08-17 17:21] Cleaned middleware module
 [2026-08-17 18:23] Cleaned config service
+[2026-08-17 19:20] Fixed config logic
