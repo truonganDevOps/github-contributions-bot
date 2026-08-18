@@ -10944,3 +10944,4 @@
 [2026-08-18 15:55] Added scheduler endpoint
 [2026-08-18 16:47] Fixed database tests
 [2026-08-18 17:58] Cleaned middleware imports
+[2026-08-18 09:00] Improved payment query
