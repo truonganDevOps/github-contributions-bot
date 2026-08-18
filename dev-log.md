@@ -10948,3 +10948,4 @@
 [2026-08-18 09:28] Reviewed api tests
 [2026-08-18 10:12] Fixed auth query
 [2026-08-18 10:46] Optimized auth logic
+[2026-08-18 12:04] Refactored scheduler endpoint
