@@ -11080,3 +11080,4 @@
 [2026-08-21 13:59] Added user tests
 [2026-08-21 14:35] Fixed user service
 [2026-08-21 15:27] Fixed config handler
+[2026-08-21 16:52] Refactored user query
