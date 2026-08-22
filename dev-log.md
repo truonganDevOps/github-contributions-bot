@@ -11144,3 +11144,4 @@
 [2026-08-23 00:23] Added payment imports
 [2026-08-23 01:06] Improved database tests
 [2026-08-23 02:33] Updated user tests
+[2026-08-23 03:29] Fixed payment handler
