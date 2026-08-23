@@ -11169,3 +11169,4 @@
 [2026-08-23 22:08] Added api service
 [2026-08-23 22:00] Improved middleware query
 [2026-08-23 22:32] Updated payment endpoint
+[2026-08-23 22:00] Cleaned auth logic
