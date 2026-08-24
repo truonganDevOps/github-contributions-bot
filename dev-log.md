@@ -11199,3 +11199,4 @@
 [2026-08-24 12:44] Reviewed config service
 [2026-08-24 13:41] Improved api tests
 [2026-08-24 14:22] Reviewed config module
+[2026-08-24 14:44] Fixed api query
