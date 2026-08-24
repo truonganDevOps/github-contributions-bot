@@ -11226,3 +11226,4 @@
 [2026-08-25 10:24] Cleaned user tests
 [2026-08-25 11:50] Added payment tests
 [2026-08-25 13:04] Added payment endpoint
+[2026-08-25 14:27] Cleaned payment tests
