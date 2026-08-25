@@ -11243,3 +11243,4 @@
 [2026-08-25 09:32] Updated database endpoint
 [2026-08-25 10:10] Cleaned config endpoint
 [2026-08-25 11:18] Improved logger tests
+[2026-08-25 12:04] Improved middleware tests
