@@ -11256,3 +11256,4 @@
 [2026-08-25 21:42] Reviewed payment imports
 [2026-08-25 22:19] Fixed database handler
 [2026-08-25 22:00] Improved api service
+[2026-08-25 22:46] Improved config logic
