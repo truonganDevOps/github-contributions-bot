@@ -11282,3 +11282,4 @@
 [2026-08-26 17:24] Cleaned config tests
 [2026-08-26 18:21] Added config query
 [2026-08-26 19:02] Optimized config tests
+[2026-08-26 19:54] Cleaned middleware logic
