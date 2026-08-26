@@ -11302,3 +11302,4 @@
 [2026-08-26 19:55] Updated user logic
 [2026-08-26 21:03] Added cache query
 [2026-08-26 22:33] Refactored config imports
+[2026-08-27 00:01] Refactored auth service
