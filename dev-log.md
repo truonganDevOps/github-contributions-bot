@@ -11342,3 +11342,4 @@
 [2026-08-27 22:00] Fixed logger handler
 [2026-08-27 22:00] Updated cache imports
 [2026-08-27 22:00] Added config service
+[2026-08-27 22:36] Cleaned middleware query
