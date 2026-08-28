@@ -11371,3 +11371,4 @@
 [2026-08-28 14:20] Fixed scheduler tests
 [2026-08-28 15:49] Improved logger query
 [2026-08-28 16:47] Fixed api module
+[2026-08-28 17:47] Fixed scheduler query
