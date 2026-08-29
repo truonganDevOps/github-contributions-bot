@@ -11406,3 +11406,4 @@
 [2026-08-29 08:43] Fixed user endpoint
 [2026-08-29 09:18] Added user tests
 [2026-08-29 09:49] Updated payment service
+[2026-08-29 09:00] Refactored database tests
