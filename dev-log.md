@@ -11414,3 +11414,4 @@
 [2026-08-29 14:19] Added database logic
 [2026-08-29 15:35] Refactored logger module
 [2026-08-29 16:57] Fixed database logic
+[2026-08-29 17:55] Fixed config query
