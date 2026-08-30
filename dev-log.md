@@ -11475,3 +11475,4 @@
 [2026-08-30 21:51] Cleaned api module
 [2026-08-30 22:00] Fixed config tests
 [2026-08-30 22:30] Improved cache endpoint
+[2026-08-30 22:00] Improved scheduler query
