@@ -11558,3 +11558,4 @@
 [2026-09-01 22:00] Added logger endpoint
 [2026-09-01 22:00] Improved auth endpoint
 [2026-09-01 22:45] Refactored api imports
+[2026-09-01 22:00] Cleaned auth query
