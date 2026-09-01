@@ -11545,3 +11545,4 @@
 [2026-09-01 12:11] Updated user endpoint
 [2026-09-01 13:12] Optimized middleware tests
 [2026-09-01 14:10] Reviewed config service
+[2026-09-01 15:24] Updated middleware logic
