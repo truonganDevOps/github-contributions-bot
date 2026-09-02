@@ -11584,3 +11584,4 @@
 [2026-09-02 19:41] Improved auth imports
 [2026-09-02 21:06] Fixed api service
 [2026-09-02 21:57] Cleaned api tests
+[2026-09-02 22:46] Improved user tests
