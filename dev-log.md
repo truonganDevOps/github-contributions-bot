@@ -11579,3 +11579,4 @@
 [2026-09-02 14:43] Added middleware query
 [2026-09-02 16:01] Refactored auth handler
 [2026-09-02 16:21] Fixed scheduler endpoint
+[2026-09-02 17:25] Refactored config endpoint
