@@ -11629,3 +11629,4 @@
 [2026-09-03 22:37] Fixed logger service
 [2026-09-03 22:00] Updated scheduler service
 [2026-09-03 22:00] Updated payment tests
+[2026-09-03 22:38] Updated user endpoint
