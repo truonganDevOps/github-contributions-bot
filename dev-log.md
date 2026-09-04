@@ -11669,3 +11669,4 @@
 [2026-09-04 17:05] Added auth logic
 [2026-09-04 18:14] Added api tests
 [2026-09-04 19:39] Reviewed logger service
+[2026-09-04 20:26] Optimized auth query
