@@ -11715,3 +11715,4 @@
 [2026-09-05 17:14] Cleaned database imports
 [2026-09-05 17:43] Cleaned config service
 [2026-09-05 18:26] Improved cache tests
+[2026-09-05 19:27] Fixed user handler
