@@ -11763,3 +11763,4 @@
 [2026-09-06 16:43] Refactored auth query
 [2026-09-06 17:53] Improved middleware module
 [2026-09-06 18:28] Added auth module
+[2026-09-06 19:25] Cleaned user query
