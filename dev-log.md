@@ -11790,3 +11790,4 @@
 [2026-09-07 16:46] Updated cache tests
 [2026-09-07 17:38] Refactored api endpoint
 [2026-09-07 18:09] Cleaned auth tests
+[2026-09-07 19:04] Refactored config handler
