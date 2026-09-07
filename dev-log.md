@@ -11793,3 +11793,4 @@
 [2026-09-07 19:04] Refactored config handler
 [2026-09-07 20:20] Fixed user handler
 [2026-09-07 21:08] Reviewed scheduler handler
+[2026-09-07 09:00] Fixed auth imports
