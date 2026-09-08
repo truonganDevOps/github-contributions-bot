@@ -11852,3 +11852,4 @@
 [2026-09-08 22:00] Fixed logger tests
 [2026-09-08 22:00] Fixed auth tests
 [2026-09-08 22:46] Fixed logger handler
+[2026-09-08 22:00] Updated middleware logic
