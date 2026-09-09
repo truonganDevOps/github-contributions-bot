@@ -11903,3 +11903,4 @@
 [2026-09-10 09:04] Fixed user imports
 [2026-09-10 09:26] Fixed database handler
 [2026-09-10 10:52] Updated logger logic
+[2026-09-10 12:20] Cleaned middleware logic
