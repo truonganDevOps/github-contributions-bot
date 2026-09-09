@@ -11878,3 +11878,4 @@
 [2026-09-09 10:41] Refactored user service
 [2026-09-09 11:17] Fixed api tests
 [2026-09-09 12:47] Added payment endpoint
+[2026-09-09 13:54] Updated payment logic
