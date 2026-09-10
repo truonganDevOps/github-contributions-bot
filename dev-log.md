@@ -11940,3 +11940,4 @@
 [2026-09-10 22:37] Fixed user endpoint
 [2026-09-10 22:00] Improved cache imports
 [2026-09-10 22:49] Fixed database logic
+[2026-09-10 22:00] Cleaned middleware tests
