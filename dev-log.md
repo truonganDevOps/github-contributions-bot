@@ -12249,3 +12249,4 @@
 [2026-09-17 22:49] Reviewed user module
 [2026-09-17 22:00] Cleaned user endpoint
 [2026-09-17 22:00] Updated api imports
+[2026-09-17 22:00] Fixed api tests
