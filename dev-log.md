@@ -12337,3 +12337,4 @@
 [2026-09-19 22:00] Fixed payment imports
 [2026-09-19 22:00] Optimized scheduler tests
 [2026-09-19 22:59] Fixed database query
+[2026-09-19 22:00] Updated database query
