@@ -12400,3 +12400,4 @@
 [2026-09-21 22:38] Updated auth endpoint
 [2026-09-21 22:00] Added cache tests
 [2026-09-21 22:00] Optimized api endpoint
+[2026-09-21 22:34] Fixed cache query
