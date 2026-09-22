@@ -12443,3 +12443,4 @@
 [2026-09-22 16:46] Improved user logic
 [2026-09-22 17:25] Added config service
 [2026-09-22 18:42] Optimized middleware logic
+[2026-09-22 20:09] Fixed middleware handler
