@@ -12486,3 +12486,4 @@
 [2026-09-23 19:35] Cleaned payment query
 [2026-09-23 19:57] Added logger query
 [2026-09-23 20:21] Refactored config endpoint
+[2026-09-23 20:42] Improved api handler
