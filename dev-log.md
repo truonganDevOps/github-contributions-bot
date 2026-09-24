@@ -12524,3 +12524,4 @@
 [2026-09-24 17:14] Improved user logic
 [2026-09-24 17:36] Optimized auth service
 [2026-09-24 18:20] Cleaned database handler
+[2026-09-24 19:50] Fixed database query
