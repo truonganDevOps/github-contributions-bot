@@ -12576,3 +12576,4 @@
 [2026-09-25 21:54] Refactored config imports
 [2026-09-25 22:24] Cleaned auth query
 [2026-09-25 22:54] Reviewed api handler
+[2026-09-25 22:00] Added middleware endpoint
