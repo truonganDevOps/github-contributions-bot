@@ -12611,3 +12611,4 @@
 [2026-09-26 09:56] Added user query
 [2026-09-26 10:55] Cleaned logger handler
 [2026-09-26 11:39] Refactored logger tests
+[2026-09-26 12:33] Refactored database logic
