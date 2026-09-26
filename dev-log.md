@@ -12625,3 +12625,4 @@
 [2026-09-26 22:36] Added api module
 [2026-09-26 22:00] Improved payment tests
 [2026-09-26 22:00] Fixed auth imports
+[2026-09-26 22:00] Improved user query
