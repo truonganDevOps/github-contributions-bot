@@ -12711,3 +12711,4 @@
 [2026-09-28 22:56] Added database service
 [2026-09-28 22:00] Added config imports
 [2026-09-28 22:00] Optimized payment tests
+[2026-09-28 22:00] Optimized config query
