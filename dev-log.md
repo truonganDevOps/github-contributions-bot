@@ -12733,3 +12733,4 @@
 [2026-09-29 12:00] Improved config service
 [2026-09-29 13:18] Improved user imports
 [2026-09-29 13:51] Cleaned middleware logic
+[2026-09-29 14:27] Optimized api endpoint
