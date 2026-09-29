@@ -12732,3 +12732,4 @@
 [2026-09-29 11:17] Reviewed api query
 [2026-09-29 12:00] Improved config service
 [2026-09-29 13:18] Improved user imports
+[2026-09-29 13:51] Cleaned middleware logic
