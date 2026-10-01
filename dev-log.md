@@ -12816,3 +12816,4 @@
 [2026-10-01 18:39] Added user imports
 [2026-10-01 19:16] Added scheduler service
 [2026-10-01 20:42] Fixed user module
+[2026-10-01 21:48] Cleaned auth query
