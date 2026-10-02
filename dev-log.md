@@ -12850,3 +12850,4 @@
 [2026-10-02 10:16] Reviewed database tests
 [2026-10-02 11:10] Added payment imports
 [2026-10-02 12:02] Cleaned payment imports
+[2026-10-02 12:51] Improved database handler
