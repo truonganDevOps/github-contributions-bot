@@ -12861,3 +12861,4 @@
 [2026-10-02 19:26] Refactored payment logic
 [2026-10-02 20:37] Optimized middleware endpoint
 [2026-10-02 21:34] Fixed auth imports
+[2026-10-02 22:01] Improved payment query
