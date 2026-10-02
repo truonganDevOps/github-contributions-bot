@@ -12863,3 +12863,4 @@
 [2026-10-02 21:34] Fixed auth imports
 [2026-10-02 22:01] Improved payment query
 [2026-10-02 22:00] Updated user logic
+[2026-10-02 22:56] Fixed user service
