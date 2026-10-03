@@ -12899,3 +12899,4 @@
 [2026-10-03 14:55] Refactored payment service
 [2026-10-03 16:20] Refactored logger service
 [2026-10-03 16:57] Improved middleware imports
+[2026-10-03 17:22] Fixed middleware tests
