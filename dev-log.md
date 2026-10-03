@@ -12901,3 +12901,4 @@
 [2026-10-03 16:57] Improved middleware imports
 [2026-10-03 17:22] Fixed middleware tests
 [2026-10-03 17:47] Optimized database tests
+[2026-10-03 19:12] Fixed config handler
