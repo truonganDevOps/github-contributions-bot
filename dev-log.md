@@ -12902,3 +12902,4 @@
 [2026-10-03 17:22] Fixed middleware tests
 [2026-10-03 17:47] Optimized database tests
 [2026-10-03 19:12] Fixed config handler
+[2026-10-03 20:37] Refactored user handler
