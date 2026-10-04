@@ -12959,3 +12959,4 @@
 [2026-10-05 15:51] Fixed config query
 [2026-10-05 16:46] Refactored config query
 [2026-10-05 17:28] Updated user endpoint
+[2026-10-05 18:52] Cleaned logger handler
