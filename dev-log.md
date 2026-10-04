@@ -12955,3 +12955,4 @@
 [2026-10-05 11:09] Refactored user query
 [2026-10-05 12:30] Added config imports
 [2026-10-05 13:46] Refactored middleware imports
+[2026-10-05 14:46] Improved middleware handler
