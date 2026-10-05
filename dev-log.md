@@ -12988,3 +12988,4 @@
 [2026-10-05 22:54] Cleaned payment handler
 [2026-10-05 22:00] Optimized config logic
 [2026-10-05 22:45] Reviewed config service
+[2026-10-05 22:00] Updated config query
