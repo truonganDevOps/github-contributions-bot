@@ -12993,3 +12993,4 @@
 [2026-10-05 22:00] Fixed api module
 [2026-10-05 22:00] Fixed cache module
 [2026-10-05 22:42] Improved payment query
+[2026-10-05 22:00] Updated cache endpoint
