@@ -12981,3 +12981,4 @@
 [2026-10-05 22:37] Fixed logger query
 [2026-10-05 22:00] Added cache tests
 [2026-10-05 22:28] Fixed payment tests
+[2026-10-05 22:52] Added middleware logic
