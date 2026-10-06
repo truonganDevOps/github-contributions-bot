@@ -13024,3 +13024,4 @@
 [2026-10-06 18:59] Refactored middleware endpoint
 [2026-10-06 19:30] Cleaned logger query
 [2026-10-06 20:30] Cleaned scheduler logic
+[2026-10-06 21:06] Optimized scheduler query
