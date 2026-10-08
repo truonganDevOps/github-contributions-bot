@@ -13096,3 +13096,4 @@
 [2026-10-08 20:34] Fixed payment service
 [2026-10-08 21:02] Cleaned payment service
 [2026-10-08 21:26] Fixed middleware endpoint
+[2026-10-08 21:56] Improved logger logic
