@@ -13154,3 +13154,4 @@
 [2026-10-09 22:00] Updated cache tests
 [2026-10-09 22:59] Updated user query
 [2026-10-10 00:06] Added user tests
+[2026-10-10 00:55] Refactored logger handler
