@@ -13166,3 +13166,4 @@
 [2026-10-10 10:28] Cleaned scheduler query
 [2026-10-10 11:08] Cleaned logger tests
 [2026-10-10 12:19] Cleaned auth imports
+[2026-10-10 12:52] Fixed logger logic
