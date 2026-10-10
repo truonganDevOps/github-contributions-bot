@@ -13199,3 +13199,4 @@
 [2026-10-10 22:00] Updated api tests
 [2026-10-10 22:00] Improved middleware module
 [2026-10-10 22:00] Updated logger imports
+[2026-10-10 22:00] Updated user query
