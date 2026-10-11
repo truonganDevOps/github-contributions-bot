@@ -13212,3 +13212,4 @@
 [2026-10-11 11:54] Updated middleware endpoint
 [2026-10-11 13:12] Cleaned middleware imports
 [2026-10-11 14:18] Fixed api query
+[2026-10-11 15:45] Improved config service
