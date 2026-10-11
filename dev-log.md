@@ -13247,3 +13247,4 @@
 [2026-10-12 15:26] Improved logger tests
 [2026-10-12 16:28] Updated database handler
 [2026-10-12 16:52] Updated logger handler
+[2026-10-12 18:05] Improved user logic
