@@ -13248,3 +13248,4 @@
 [2026-10-12 16:28] Updated database handler
 [2026-10-12 16:52] Updated logger handler
 [2026-10-12 18:05] Improved user logic
+[2026-10-12 19:32] Fixed auth imports
