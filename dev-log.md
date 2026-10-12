@@ -13252,3 +13252,4 @@
 [2026-10-12 20:50] Improved config service
 [2026-10-12 21:40] Updated api logic
 [2026-10-12 22:09] Fixed database tests
+[2026-10-12 09:00] Updated user endpoint
