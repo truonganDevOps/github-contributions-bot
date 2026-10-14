@@ -13380,3 +13380,4 @@
 [2026-10-15 15:07] Fixed middleware query
 [2026-10-15 15:46] Cleaned payment tests
 [2026-10-15 16:37] Cleaned api tests
+[2026-10-15 17:58] Fixed middleware handler
