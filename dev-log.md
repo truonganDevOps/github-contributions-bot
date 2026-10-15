@@ -13394,3 +13394,4 @@
 [2026-10-15 13:38] Cleaned auth tests
 [2026-10-15 14:36] Improved database tests
 [2026-10-15 15:40] Fixed scheduler handler
+[2026-10-15 16:05] Refactored database logic
