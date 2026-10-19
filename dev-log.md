@@ -13560,3 +13560,4 @@
 [2026-10-19 16:08] Added database module
 [2026-10-19 16:56] Improved auth imports
 [2026-10-19 17:56] Fixed middleware imports
+[2026-10-19 19:01] Cleaned user query
