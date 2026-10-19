@@ -13591,3 +13591,4 @@
 [2026-10-20 12:03] Improved payment endpoint
 [2026-10-20 12:45] Optimized api handler
 [2026-10-20 13:33] Improved user service
+[2026-10-20 14:33] Fixed config logic
