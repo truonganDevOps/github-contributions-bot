@@ -13570,3 +13570,4 @@
 [2026-10-19 22:36] Refactored payment imports
 [2026-10-19 22:00] Updated payment logic
 [2026-10-19 22:48] Improved config logic
+[2026-10-19 22:00] Updated payment query
