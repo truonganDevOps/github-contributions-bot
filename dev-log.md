@@ -13667,3 +13667,4 @@
 [2026-10-22 08:14] Refactored scheduler imports
 [2026-10-22 08:49] Cleaned user endpoint
 [2026-10-22 09:29] Fixed api tests
+[2026-10-22 09:51] Fixed logger tests
