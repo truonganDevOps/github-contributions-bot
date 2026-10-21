@@ -13671,3 +13671,4 @@
 [2026-10-22 11:09] Cleaned scheduler query
 [2026-10-22 11:46] Updated payment handler
 [2026-10-22 13:02] Fixed scheduler imports
+[2026-10-22 13:33] Improved scheduler endpoint
