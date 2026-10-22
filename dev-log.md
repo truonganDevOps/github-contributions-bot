@@ -13683,3 +13683,4 @@
 [2026-10-22 21:53] Cleaned api module
 [2026-10-22 22:00] Optimized middleware logic
 [2026-10-22 09:00] Updated payment service
+[2026-10-22 10:14] Fixed payment query
