@@ -13737,3 +13737,4 @@
 [2026-10-23 14:06] Fixed logger service
 [2026-10-23 14:57] Updated auth tests
 [2026-10-23 15:55] Refactored config handler
+[2026-10-23 17:22] Updated config logic
