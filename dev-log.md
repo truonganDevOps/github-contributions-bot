@@ -13785,3 +13785,4 @@
 [2026-10-24 18:42] Fixed user imports
 [2026-10-24 19:03] Reviewed user tests
 [2026-10-24 19:42] Added database handler
+[2026-10-24 21:02] Improved logger logic
