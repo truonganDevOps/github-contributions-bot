@@ -13777,3 +13777,4 @@
 [2026-10-24 12:50] Updated cache tests
 [2026-10-24 13:56] Improved logger service
 [2026-10-24 15:01] Cleaned database logic
+[2026-10-24 15:37] Updated user endpoint
