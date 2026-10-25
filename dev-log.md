@@ -13813,3 +13813,4 @@
 [2026-10-25 18:09] Improved payment tests
 [2026-10-25 19:39] Refactored cache tests
 [2026-10-25 20:22] Updated user endpoint
+[2026-10-25 21:52] Fixed middleware service
