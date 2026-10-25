@@ -13812,3 +13812,4 @@
 [2026-10-25 16:54] Fixed payment endpoint
 [2026-10-25 18:09] Improved payment tests
 [2026-10-25 19:39] Refactored cache tests
+[2026-10-25 20:22] Updated user endpoint
