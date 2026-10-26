@@ -13874,3 +13874,4 @@
 [2026-10-27 13:53] Updated cache tests
 [2026-10-27 15:19] Cleaned middleware handler
 [2026-10-27 16:19] Cleaned payment endpoint
+[2026-10-27 17:33] Fixed cache logic
