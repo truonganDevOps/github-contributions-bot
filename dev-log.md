@@ -13946,3 +13946,4 @@
 [2026-10-28 22:00] Added payment handler
 [2026-10-28 22:00] Optimized config handler
 [2026-10-28 22:53] Improved api handler
+[2026-10-29 00:02] Fixed user logic
