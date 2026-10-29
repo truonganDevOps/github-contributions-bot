@@ -13983,3 +13983,4 @@
 [2026-10-30 10:29] Refactored database tests
 [2026-10-30 11:06] Updated config service
 [2026-10-30 12:10] Cleaned auth endpoint
+[2026-10-30 12:46] Cleaned scheduler logic
