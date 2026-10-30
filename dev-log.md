@@ -14012,3 +14012,4 @@
 [2026-10-30 20:50] Added user logic
 [2026-10-30 22:06] Cleaned auth query
 [2026-10-30 22:00] Fixed logger logic
+[2026-10-30 22:00] Improved auth handler
