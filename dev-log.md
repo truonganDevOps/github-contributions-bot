@@ -14052,3 +14052,4 @@
 [2026-10-31 16:55] Added user handler
 [2026-10-31 17:57] Updated api handler
 [2026-10-31 19:25] Cleaned config query
+[2026-10-31 20:02] Refactored scheduler tests
