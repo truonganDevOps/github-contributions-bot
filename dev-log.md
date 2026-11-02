@@ -14122,3 +14122,4 @@
 [2026-11-02 12:11] Added config logic
 [2026-11-02 12:52] Cleaned database service
 [2026-11-02 14:11] Updated middleware logic
+[2026-11-02 14:56] Refactored middleware service
