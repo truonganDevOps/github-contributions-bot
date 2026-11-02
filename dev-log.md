@@ -14150,3 +14150,4 @@
 [2026-11-03 10:07] Fixed auth logic
 [2026-11-03 11:30] Fixed user logic
 [2026-11-03 12:59] Added user module
+[2026-11-03 14:07] Cleaned api tests
