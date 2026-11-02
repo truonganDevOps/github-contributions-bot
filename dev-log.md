@@ -14115,3 +14115,4 @@
 [2026-11-02 19:35] Updated user endpoint
 [2026-11-02 20:04] Fixed payment service
 [2026-11-02 09:00] Refactored logger module
+[2026-11-02 09:37] Refactored auth imports
