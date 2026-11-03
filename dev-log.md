@@ -14180,3 +14180,4 @@
 [2026-11-04 01:05] Fixed config imports
 [2026-11-04 02:10] Refactored user module
 [2026-11-04 03:19] Fixed auth endpoint
+[2026-11-04 03:50] Fixed logger logic
