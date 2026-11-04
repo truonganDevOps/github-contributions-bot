@@ -14233,3 +14233,4 @@
 [2026-11-05 18:02] Improved api query
 [2026-11-05 19:27] Reviewed user service
 [2026-11-05 20:53] Optimized api service
+[2026-11-05 21:56] Refactored middleware logic
