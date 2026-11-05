@@ -14246,3 +14246,4 @@
 [2026-11-05 11:49] Fixed database query
 [2026-11-05 12:14] Refactored database handler
 [2026-11-05 12:49] Fixed logger module
+[2026-11-05 14:12] Updated payment logic
