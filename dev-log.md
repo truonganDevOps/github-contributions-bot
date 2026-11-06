@@ -14304,3 +14304,4 @@
 [2026-11-06 22:27] Fixed logger handler
 [2026-11-06 22:00] Fixed payment service
 [2026-11-06 22:51] Cleaned cache module
+[2026-11-06 22:00] Added user endpoint
