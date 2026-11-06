@@ -14279,3 +14279,4 @@
 [2026-11-06 11:47] Cleaned user tests
 [2026-11-06 12:22] Updated middleware endpoint
 [2026-11-06 13:33] Fixed logger imports
+[2026-11-06 14:52] Fixed database query
