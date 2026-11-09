@@ -14391,3 +14391,4 @@
 [2026-11-09 13:45] Refactored payment endpoint
 [2026-11-09 14:43] Updated logger query
 [2026-11-09 15:36] Cleaned payment imports
+[2026-11-09 16:38] Fixed logger logic
