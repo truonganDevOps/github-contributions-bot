@@ -14429,3 +14429,4 @@
 [2026-11-10 22:02] Improved user tests
 [2026-11-10 22:57] Cleaned user tests
 [2026-11-10 22:00] Fixed user handler
+[2026-11-10 22:00] Updated scheduler query
