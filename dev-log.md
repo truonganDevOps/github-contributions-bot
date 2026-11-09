@@ -14422,3 +14422,4 @@
 [2026-11-10 14:52] Fixed cache logic
 [2026-11-10 16:17] Fixed cache tests
 [2026-11-10 16:44] Added config query
+[2026-11-10 17:48] Fixed database handler
