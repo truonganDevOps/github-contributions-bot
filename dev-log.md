@@ -14385,3 +14385,4 @@
 [2026-11-09 13:27] Reviewed api query
 [2026-11-09 09:00] Fixed logger tests
 [2026-11-09 10:12] Cleaned user module
+[2026-11-09 10:53] Added middleware handler
