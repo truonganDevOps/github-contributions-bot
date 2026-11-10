@@ -14439,3 +14439,4 @@
 [2026-11-10 14:37] Updated config imports
 [2026-11-10 16:07] Fixed database tests
 [2026-11-10 17:16] Fixed user tests
+[2026-11-10 18:00] Fixed api endpoint
