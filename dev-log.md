@@ -14562,3 +14562,4 @@
 [2026-11-13 14:26] Refactored api imports
 [2026-11-13 15:49] Reviewed auth service
 [2026-11-13 09:00] Updated middleware tests
+[2026-11-13 09:47] Updated config logic
