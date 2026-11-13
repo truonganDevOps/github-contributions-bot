@@ -14574,3 +14574,4 @@
 [2026-11-13 17:42] Fixed auth tests
 [2026-11-13 18:36] Optimized user logic
 [2026-11-13 19:10] Improved api handler
+[2026-11-13 20:16] Cleaned auth query
