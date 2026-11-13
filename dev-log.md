@@ -14600,3 +14600,4 @@
 [2026-11-14 16:28] Fixed api logic
 [2026-11-14 17:27] Optimized user service
 [2026-11-14 18:08] Cleaned auth service
+[2026-11-14 19:22] Updated middleware logic
