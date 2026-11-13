@@ -14594,3 +14594,4 @@
 [2026-11-14 11:35] Cleaned api handler
 [2026-11-14 12:01] Added cache tests
 [2026-11-14 13:02] Updated api query
+[2026-11-14 13:33] Updated user handler
