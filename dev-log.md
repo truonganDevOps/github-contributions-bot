@@ -14611,3 +14611,4 @@
 [2026-11-14 09:00] Fixed logger handler
 [2026-11-14 09:53] Improved cache service
 [2026-11-14 10:29] Cleaned api logic
+[2026-11-14 11:53] Fixed config query
