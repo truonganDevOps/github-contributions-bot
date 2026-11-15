@@ -14662,3 +14662,4 @@
 [2026-11-15 12:05] Improved config endpoint
 [2026-11-15 13:23] Fixed config endpoint
 [2026-11-15 14:53] Improved config query
+[2026-11-15 15:27] Optimized auth tests
