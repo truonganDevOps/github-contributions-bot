@@ -14697,3 +14697,4 @@
 [2026-11-16 11:44] Refactored user handler
 [2026-11-16 12:23] Cleaned user service
 [2026-11-16 13:26] Added api module
+[2026-11-16 14:20] Fixed payment logic
