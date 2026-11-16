@@ -14707,3 +14707,4 @@
 [2026-11-16 20:28] Refactored database tests
 [2026-11-16 21:07] Fixed user logic
 [2026-11-16 22:33] Updated auth logic
+[2026-11-16 22:00] Refactored user query
