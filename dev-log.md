@@ -14722,3 +14722,4 @@
 [2026-11-17 08:35] Improved auth service
 [2026-11-17 09:15] Fixed api endpoint
 [2026-11-17 09:00] Updated logger imports
+[2026-11-17 09:49] Refactored api logic
