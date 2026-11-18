@@ -14756,3 +14756,4 @@
 [2026-11-18 09:00] Updated middleware tests
 [2026-11-18 10:04] Updated config module
 [2026-11-18 11:24] Cleaned middleware tests
+[2026-11-18 11:55] Added middleware logic
