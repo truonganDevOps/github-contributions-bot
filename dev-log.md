@@ -14765,3 +14765,4 @@
 [2026-11-18 16:47] Refactored payment handler
 [2026-11-18 17:10] Fixed database tests
 [2026-11-18 17:57] Fixed scheduler imports
+[2026-11-18 19:12] Cleaned auth logic
