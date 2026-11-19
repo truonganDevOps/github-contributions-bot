@@ -14806,3 +14806,4 @@
 [2026-11-19 11:39] Updated user tests
 [2026-11-19 12:36] Refactored middleware module
 [2026-11-19 13:19] Refactored user service
+[2026-11-19 13:52] Added middleware logic
