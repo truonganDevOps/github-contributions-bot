@@ -14872,3 +14872,4 @@
 [2026-11-21 12:49] Added payment query
 [2026-11-21 13:41] Refactored middleware service
 [2026-11-21 14:24] Cleaned api tests
+[2026-11-21 15:07] Reviewed middleware logic
