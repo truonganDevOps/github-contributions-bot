@@ -14842,3 +14842,4 @@
 [2026-11-20 11:42] Added user module
 [2026-11-20 12:56] Updated middleware tests
 [2026-11-20 13:42] Cleaned database service
+[2026-11-20 14:23] Updated logger logic
