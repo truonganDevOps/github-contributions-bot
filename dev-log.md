@@ -14925,3 +14925,4 @@
 [2026-11-22 11:47] Updated logger handler
 [2026-11-22 12:33] Optimized config logic
 [2026-11-22 13:00] Optimized auth imports
+[2026-11-22 14:06] Cleaned user query
