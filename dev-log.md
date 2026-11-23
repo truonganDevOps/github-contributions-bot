@@ -14971,3 +14971,4 @@
 [2026-11-23 21:06] Improved logger imports
 [2026-11-23 22:04] Refactored user handler
 [2026-11-23 22:00] Fixed api endpoint
+[2026-11-23 22:00] Updated logger query
