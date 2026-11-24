@@ -14996,3 +14996,4 @@
 [2026-11-24 10:22] Fixed user logic
 [2026-11-24 11:28] Updated user logic
 [2026-11-24 11:50] Updated payment imports
+[2026-11-24 12:34] Improved auth handler
