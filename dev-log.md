@@ -15004,3 +15004,4 @@
 [2026-11-24 16:11] Optimized payment tests
 [2026-11-24 17:12] Refactored user tests
 [2026-11-24 17:55] Updated database service
+[2026-11-24 19:25] Fixed user endpoint
