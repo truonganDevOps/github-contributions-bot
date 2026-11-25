@@ -15041,3 +15041,4 @@
 [2026-11-25 18:11] Updated middleware tests
 [2026-11-25 18:46] Fixed config imports
 [2026-11-25 19:16] Reviewed auth imports
+[2026-11-25 20:23] Fixed config endpoint
