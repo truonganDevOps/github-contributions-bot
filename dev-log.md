@@ -15037,3 +15037,4 @@
 [2026-11-25 15:07] Added scheduler query
 [2026-11-25 16:03] Cleaned database handler
 [2026-11-25 16:23] Added payment logic
+[2026-11-25 17:05] Fixed payment handler
