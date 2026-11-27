@@ -15127,3 +15127,4 @@
 [2026-11-27 22:00] Fixed config tests
 [2026-11-27 22:37] Added cache query
 [2026-11-27 22:00] Improved api query
+[2026-11-27 22:59] Fixed payment handler
