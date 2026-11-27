@@ -15098,3 +15098,4 @@
 [2026-11-27 08:45] Cleaned api handler
 [2026-11-27 09:47] Refactored payment endpoint
 [2026-11-27 11:09] Refactored scheduler tests
+[2026-11-27 09:00] Fixed config endpoint
