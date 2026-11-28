@@ -15164,3 +15164,4 @@
 [2026-11-29 08:34] Improved config tests
 [2026-11-29 09:22] Cleaned database tests
 [2026-11-29 10:42] Cleaned logger logic
+[2026-11-29 11:10] Updated api handler
